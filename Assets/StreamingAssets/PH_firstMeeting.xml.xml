@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string=""></Sentence>
+    <Sentence character="Peter Hurtley" string=""></Sentence>
+    <Sentence character="Percy White" string="Bonjour Monsieur, connaissez-vous Marcus Blayton ?"></Sentence>
+    <Sentence character="Peter Hurtley" string="Ce taré de pignouf ? Si vous le voyez, dites-lui bien que je l'attends de pied ferme ici."></Sentence>
+    <Sentence character="Percy White" string="Marcus est mort."></Sentence>
+    <Sentence character="Peter Hurtley" string="Comment ça, mort ?"></Sentence>
+    <Sentence character="Percy White" string="">Il a été retrouvé pendu au Royal Opera House hier soir avant la première représentation de la nouvelle pièce de Jonathan Cole.</Sentence>
+    <Sentence character="Peter Hurtley" string="hum..Connais pas ce gars là."></Sentence>
+    <Sentence character="Percy White" string="Vous avez l’air d’en vouloir à Marcus. Pour quelle raison ?"></Sentence>
+  </Sentences>
+</Dialogue>

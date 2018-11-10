@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: a9fce1346ef7a4b28b14332dc67116d3
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: HammeredCopper/HammeredCopper
+    400000: HammeredCopper/HammeredCopper/Transform
+    2100000: mat.Hammered Copper
+    2300000: HammeredCopper/HammeredCopper/MeshRenderer
+    2800000: Hammered Copper_BaseColor
+    2800002: Hammered Copper_Metallic
+    2800004: Hammered Copper_Normal
+    2800006: Hammered Copper_NormalOpenGL
+    2800008: Hammered Copper_AmbientOcclusion
+    2800010: Hammered Copper_Height
+    2800012: Hammered Copper_MRAO
+    2800014: Hammered Copper_UnityMetallic
+    2800016: Hammered Copper_DDNA
+    2800018: Hammered Copper_Emissive
+    3300000: HammeredCopper/HammeredCopper/MeshFilter
+    11400000: sbsar
+    11400002: graph0
+    13500000: HammeredCopper/HammeredCopper/SphereCollider
+    100100000: HammeredCopper
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  mGraphInstanceData:
+  - graphLabel: Hammered Copper
+    graphDescIndex: 0
+    generateAllOutputs: 0
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://HammeredCopper\" label=\"\" >\n </sbspreset>\n"
+    shaderName: Standard
+    outputNames: BaseColor,Metallic,Normal,NormalOpenGL,AmbientOcclusion,Height,MRAO,UnityMetallic,DDNA,Emissive
+    texturePackingList:
+    - outputName: BaseColor
+      alphaSource: Opacity
+    - outputName: Roughness
+      alphaSource: Roughness
+    - outputName: Metallic
+      alphaSource: Smoothness
+    - outputName: Albedo
+      alphaSource: Albedo
+    - outputName: Specular
+      alphaSource: Specular
+    - outputName: Glossiness
+      alphaSource: Glossiness
+    - outputName: Normal
+      alphaSource: Normal
+    - outputName: NormalOpenGL
+      alphaSource: NormalOpenGL
+    - outputName: AmbientOcclusion
+      alphaSource: AmbientOcclusion
+    - outputName: Height
+      alphaSource: Height
+    - outputName: Opacity
+      alphaSource: Opacity
+    - outputName: SpecularFace
+      alphaSource: SpecularFace
+    - outputName: Reflection
+      alphaSource: Reflection
+    - outputName: IOR
+      alphaSource: IOR
+    - outputName: F0
+      alphaSource: F0
+    - outputName: MRAO
+      alphaSource: Smoothness
+    - outputName: UnityMetallic
+      alphaSource: Smoothness
+    - outputName: UnitySpecular
+      alphaSource: UnitySpecular
+    - outputName: DDNA
+      alphaSource: DDNA
+    - outputName: WCBaseColor
+      alphaSource: WCBaseColor
+    - outputName: Emissive
+      alphaSource: Emissive
+    - outputName: UnityAlbedo
+      alphaSource: UnityAlbedo
+    - outputName: UnityBaseColor
+      alphaSource: UnityBaseColor
+    colorSpaceList:
+    - outputName: BaseColor
+      bLinear: 0
+    - outputName: Roughness
+      bLinear: 1
+    - outputName: Metallic
+      bLinear: 1
+    - outputName: Albedo
+      bLinear: 0
+    - outputName: Specular
+      bLinear: 0
+    - outputName: Glossiness
+      bLinear: 1
+    - outputName: Normal
+      bLinear: 1
+    - outputName: NormalOpenGL
+      bLinear: 1
+    - outputName: AmbientOcclusion
+      bLinear: 1
+    - outputName: Height
+      bLinear: 1
+    - outputName: Opacity
+      bLinear: 1
+    - outputName: SpecularFace
+      bLinear: 0
+    - outputName: Reflection
+      bLinear: 1
+    - outputName: IOR
+      bLinear: 1
+    - outputName: F0
+      bLinear: 1
+    - outputName: MRAO
+      bLinear: 1
+    - outputName: UnityMetallic
+      bLinear: 1
+    - outputName: UnitySpecular
+      bLinear: 0
+    - outputName: DDNA
+      bLinear: 1
+    - outputName: WCBaseColor
+      bLinear: 0
+    - outputName: Emissive
+      bLinear: 0
+    - outputName: UnityAlbedo
+      bLinear: 0
+    - outputName: UnityBaseColor
+      bLinear: 0
+    inputTextureMap: []
+    targetSettingList:
+    - label: Default
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      loadBehavior: 0
+    - label: Standalone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      loadBehavior: 0
+    - label: iPhone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      loadBehavior: 0
+    material: {instanceID: 0}

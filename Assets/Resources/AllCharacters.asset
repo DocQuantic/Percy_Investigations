@@ -1,0 +1,405 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af8eca3da5ab64547b7d999844221091, type: 3}
+  m_Name: AllCharacters
+  m_EditorClassIdentifier: 
+  characters:
+  - {fileID: 114866318438838500}
+  - {fileID: 114487989441598820}
+  - {fileID: 114907302001269248}
+  - {fileID: 114734668407861036}
+  - {fileID: 114389509858206650}
+  - {fileID: 114392334286711224}
+  - {fileID: 114873281851214248}
+  - {fileID: 114675520369708388}
+  - {fileID: 114120898321489326}
+  - {fileID: 114175737541859680}
+  - {fileID: 114679769827862684}
+  - {fileID: 114371873576251078}
+  - {fileID: 114123044354258036}
+  - {fileID: 114791438195418384}
+  - {fileID: 114402940489094032}
+  - {fileID: 114786299374757980}
+  - {fileID: 114756918952375216}
+  - {fileID: 114928488080159658}
+  - {fileID: 114902822344574110}
+--- !u!114 &114120898321489326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Rose Cole
+  m_EditorClassIdentifier: 
+  characterName: Rose Cole
+  idPicture: {fileID: 0}
+  description: "Rose Cole est l\u2019\xE9pouse de Jonathan Cole. A la mort de ses
+    parents, ceux-ci lui ont l\xE9gu\xE9 leur exploitation mini\xE8re. Ne sachant
+    que faire d\u2019une telle entreprise, elle d\xE9cida de tout vendre et de venir
+    habiter \xE0 Londres. C\u2019est lors de ce voyage qu\u2019elle rencontra son
+    futur mari."
+  hash: -911966560
+--- !u!114 &114123044354258036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Liam Neligan
+  m_EditorClassIdentifier: 
+  characterName: Liam Neligan
+  idPicture: {fileID: 0}
+  description: "Liam Neligan est un jeune com\xE9dien qui voyait ce m\xE9tier comme
+    l\u2019un des plus beaux m\xE9tiers du monde. Son \xE2ge avan\xE7ant, il finit
+    par r\xE9aliser que les \xE9gos surdimensionn\xE9s des com\xE9diens cachaient
+    souvent de tristes vies."
+  hash: -1026587044
+--- !u!114 &114175737541859680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Miles Evans
+  m_EditorClassIdentifier: 
+  characterName: Miles Evans
+  idPicture: {fileID: 0}
+  description: "Miles Evans est un homme d\u2019origine modeste passionn\xE9 de th\xE9\xE2tre.
+    Voulant \xE0 l\u2019origine devenir com\xE9dien, il tenta de suivre des cours
+    d\u2019arts dramatiques mais ses pi\xE8tres performances ne lui permirent pas
+    de r\xE9aliser son r\xEAve d\u2019enfance. Il se fit alors employer en tant que
+    technicien travaillant au plus pr\xE8s des acteurs. Miles adore son m\xE9tier
+    qui lui permet d\u2019\xEAtre en contact avec les plus grandes c\xE9l\xE9brit\xE9s
+    de son \xE9poque."
+  hash: 116995728
+--- !u!114 &114371873576251078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: "Mlle G\xE9raldine"
+  m_EditorClassIdentifier: 
+  characterName: "Mlle G\xE9raldine"
+  idPicture: {fileID: 0}
+  description: "G\xE9raldine Constant est n\xE9e \xE0 Lyon, en France. D\u2019origine
+    ais\xE9e, elle commence des \xE9tudes de commerce mais elle ne parvient pas \xE0
+    s\u2019\xE9panouir dans sa vie. Entendant parler de la vie londonienne, elle d\xE9cide
+    un jour de s\u2019expatrier pour la capitale anglaise. De fil en aiguille, elle
+    parvient \xE0 acqu\xE9rir une des plus grandes maisons closes de Londres et en
+    devient la dirigeante sous le pseudonyme de Mlle G\xE9raldine. C\u2019est une
+    amie de confiance de Percy White, qui l\u2019a h\xE9berg\xE9e \xE0 son arriv\xE9e
+    en angleterre."
+  hash: 2088630463
+--- !u!114 &114389509858206650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Robert Blayton
+  m_EditorClassIdentifier: 
+  characterName: Robert Blayton
+  idPicture: {fileID: 0}
+  description: "Robert Bayton est le fils cadet de Marcus et Jane. Il \xE9tudie les
+    arts dramatiques \xE0 Paris mais \xE9tait de retour \xE0 Londres pour assister
+    \xE0 la premi\xE8re repr\xE9sentation de la derni\xE8re pi\xE8ce dans laquelle
+    son p\xE8re tenait le r\xF4le principal. Robert est tr\xE8s attach\xE9 \xE0 sa
+    m\xE8re mais conna\xEEt mal son p\xE8re qui \xE9tait souvent en tourn\xE9e lorsqu\u2019il
+    \xE9tait plus jeune. Il s\u2019est ensuite \xE9loign\xE9 de lui lorsque ses probl\xE8mes
+    de drogue sont apparus."
+  hash: 2019751290
+--- !u!114 &114392334286711224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Elizabeth Blayton
+  m_EditorClassIdentifier: 
+  characterName: Elizabeth Blayton
+  idPicture: {fileID: 0}
+  description: "Elizabeth est la fille a\xEEn\xE9e de Marcus et Jane Blayton. Elle
+    est aujourd\u2019hui marchande dans une librairie r\xE9put\xE9e de Londres. Elle
+    s\u2019est rapidement mari\xE9e \xE0 son amour de jeunesse avec qui elle m\xE8ne
+    une vie \xE9panouie."
+  hash: 549475271
+--- !u!114 &114402940489094032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Arthur Lewis
+  m_EditorClassIdentifier: 
+  characterName: Arthur Lewis
+  idPicture: {fileID: 21300000, guid: f8028506e5cac6c439aea5df590bf950, type: 3}
+  description: "Arthur Lewis est un officier de police tr\xE8s respect\xE9 par ses
+    pairs. Sa rigueur et son amour de la justice font de lui un excellent homme de
+    loi qui a pu gravir les \xE9chelons dans l\u2019administration polici\xE8re. Il
+    dirige aujourd\u2019hui le commissariat central de Londres situ\xE9 sur Baker
+    Street."
+  hash: 1272559512
+--- !u!114 &114487989441598820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Peter Hurtley
+  m_EditorClassIdentifier: 
+  characterName: Peter Hurtley
+  idPicture: {fileID: 21300000, guid: 98b88539c87b8914f90c481b02697cf1, type: 3}
+  description: "Peter Hurtley est un jeune vendeur d\u2019opium. Ses origines modestes
+    ne lui ayant pas laiss\xE9es les m\xEAme chances dans la vie, il s\u2019est peu
+    \xE0 peu dirig\xE9 vers le banditisme et il travaille aujourd\u2019hui pour l\u2019un
+    des plus grands importateurs d\u2019opium en angleterre en tant que dealer."
+  hash: -742176099
+--- !u!114 &114675520369708388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Jonhathan Cole
+  m_EditorClassIdentifier: 
+  characterName: Jonhathan Cole
+  idPicture: {fileID: 0}
+  description: "Jonathan Cole est un vieux producteur de pi\xE8ces de th\xE9\xE2tre.
+    Ses pi\xE8ces ont jusqu\u2019\xE0 pr\xE9sent rencontr\xE9es un succ\xE8s mitig\xE9.
+    Il compte sur sa derni\xE8re cr\xE9ation et aussi sur le choix de Marcus Blayton,
+    un de ses meilleurs amis, en tant qu\u2019acteur principal pour faire d\xE9coller
+    sa carri\xE8re."
+  hash: 820124153
+--- !u!114 &114679769827862684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: James Brackenstall
+  m_EditorClassIdentifier: 
+  characterName: James Brackenstall
+  idPicture: {fileID: 0}
+  description: "James Brackenstall est un jeune homme qui apprend le m\xE9tier de
+    technicien. Ne connaissant pas ce m\xE9tier a priori, il s\u2019est av\xE9r\xE9
+    tr\xE8s volontaire et reste \xE9merveill\xE9 devant le charisme des com\xE9diens
+    \xE0 chaque repr\xE9sentation."
+  hash: -2033669154
+--- !u!114 &114734668407861036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Jane Blayton
+  m_EditorClassIdentifier: 
+  characterName: Jane Blayton
+  idPicture: {fileID: 0}
+  description: "Jane Blayton est tomb\xE9e amoureuse de son mari a un jeune \xE2ge.
+    Les raisons pour lesquelles leur mariage a tenu ont fortement \xE9volu\xE9es au
+    cours des ann\xE9es de vie commune. Au d\xE9but aveugl\xE9e par l\u2019amour,
+    Jane a fini par d\xE9couvrir les probl\xE8mes de son mari et les accepte tant
+    qu\u2019il lui fournit une vie en apparence confortable. Elle se sait tromp\xE9e
+    mais cela fait longtemps qu\u2019elle a appris \xE0 faire avec en menant une vie
+    aussi volage et libertine que celle de son mari."
+  hash: 354919257
+--- !u!114 &114756918952375216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Will Mason
+  m_EditorClassIdentifier: 
+  characterName: Will Mason
+  idPicture: {fileID: 0}
+  description: "Will Mason est un scientifique ind\xE9pendant. Enfant, il \xE9tait
+    passionn\xE9 par la nature et sa curiosit\xE9 et son intelligence l\u2019ont conduit
+    \xE0 reproduire les d\xE9ductions de scientifiques tels que Newton avant m\xEAme
+    qu\u2019il ne connaisse leur existence. Il passe aujourd\u2019hui ses journ\xE9es
+    et ses nuits dans son laboratoire qui est devenu, par la force des choses, son
+    habitation principale. Will \xE9tait un ami des parents de Percy et il est toujours
+    rest\xE9 tr\xE8s attach\xE9 \xE0 ce dernier."
+  hash: -1185041077
+--- !u!114 &114786299374757980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Wallace Brown
+  m_EditorClassIdentifier: 
+  characterName: Wallace Brown
+  idPicture: {fileID: 0}
+  description: "Wallace Brown est un homme discret. Sa passion pour la mort l\u2019a
+    entra\xEEn\xE9, apr\xE8s ses \xE9tudes de m\xE9decine, \xE0 \xE9tudier la m\xE9decine
+    l\xE9gale. Il est devenu m\xE9decin l\xE9giste, m\xE9tier dans lequel il s\u2019\xE9panouit,
+    m\xEAme si les apparences ne le montrent pas forc\xE9ment. Ceux qui le connaissent
+    bien disent qu\u2019il lit dans les entrailles d\u2019un cadavre comme dans un
+    livre, bien que ce soit un peu plus salissant."
+  hash: -120869045
+--- !u!114 &114791438195418384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Mary Pitkins
+  m_EditorClassIdentifier: 
+  characterName: Mary Pitkins
+  idPicture: {fileID: 0}
+  description: "Mary Pitkins est une com\xE9dienne qui a connue une carri\xE8re resplendissante.
+    Cette pi\xE8ce est pour elle l\u2019occasion de finir sa carri\xE8re en beaut\xE9.
+    C\u2019\xE9tait sans compter sur la mort brutale de Marcus Blayton. Un com\xE9dien
+    qu\u2019elle suivait depuis ses d\xE9buts."
+  hash: -1968804644
+--- !u!114 &114866318438838500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Percy White
+  m_EditorClassIdentifier: 
+  characterName: Percy White
+  idPicture: {fileID: 21300000, guid: fbe145d4d26be364895ab2a434a802b5, type: 3}
+  description: "Percy White est un jeune d\xE9tective aux services de la police qui
+    a d\xE9j\xE0 fait ses preuves dans des affaires notables. Malgr\xE9 ses origines
+    modestes, il est parvenu \xE0 r\xE9aliser son r\xEAve en se hissant au poste de
+    d\xE9tective de la police de Londres. Lorsqu\u2019il avait 8 ans, ses parents
+    ont \xE9t\xE9 retrouv\xE9s morts assassin\xE9s dans une ruelle de Londres. Les
+    circonstances de leur mort restent encore aujourd\u2019hui un myst\xE8re.\r\n"
+  hash: -1615435132
+--- !u!114 &114873281851214248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Edward Norrington
+  m_EditorClassIdentifier: 
+  characterName: Edward Norrington
+  idPicture: {fileID: 21300000, guid: d3dd98afd036c704fa044d9e7959e6ae, type: 3}
+  description: "Edward Norrington est un com\xE9dien britannique ayant \xE9tudi\xE9
+    les arts dramatiques avec son ami d\u2019enfance qui n\u2019est autre que Marcus
+    Blayton, le com\xE9dien le plus c\xE9l\xE8bre de sa g\xE9n\xE9ration. Malgr\xE9
+    leur vieille amiti\xE9, leurs liens se sont peu \xE0 peu estomp\xE9s \xE0 cause
+    de la rivalit\xE9 croissante entre les deux hommes ainsi qu\u2019aux probl\xE8mes
+    que Marcus avait avec la drogue."
+  hash: 1412210293
+--- !u!114 &114902822344574110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Emily Barker
+  m_EditorClassIdentifier: 
+  characterName: Emily Barker
+  idPicture: {fileID: 0}
+  description: "Emily Barker est une jeune journaliste du London Daily Chronicles,
+    amie d\u2019enfance de Percy. Ce journal est l\u2019un des plus lus de Londres
+    et il est donc fr\xE9quent que Percy fasse appel \xE0 son amie pour l\u2019\xE9clairer
+    sur les faits marquants actuels et pass\xE9s."
+  hash: 1722090787
+--- !u!114 &114907302001269248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Marcus Blayton
+  m_EditorClassIdentifier: 
+  characterName: Marcus Blayton
+  idPicture: {fileID: 0}
+  description: "Marcus Blayton est un grand acteur de th\xE9\xE2tre reconnu en Europe.
+    Sa r\xE9putation n\u2019est plus \xE0 faire et toutes les pi\xE8ces dans lesquelles
+    il appara\xEEt rencontrent un franc succ\xE8s, ce qui a fini par rendre Marcus
+    tr\xE8s \xE9gocentrique. Son mariage avec Jane Blayton fut heureux jusqu\u2019\xE0
+    ce que des probl\xE8mes de drogues et d\u2019infid\xE9lit\xE9s touche Marcus.
+    Lorsqu\u2019il \xE9tait sous l\u2019emprise de drogues, il pouvait devenir insultant
+    et agressifs envers tous ceux qui s\u2019opposaient \xE0 lui."
+  hash: -793632673
+--- !u!114 &114928488080159658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Walter Fox
+  m_EditorClassIdentifier: 
+  characterName: Walter Fox
+  idPicture: {fileID: 0}
+  description: "Walter Fox est un homme d\u2019un certain \xE2ge habitu\xE9 des soir\xE9es
+    mondaines londoniennes, vieil ami de Percy White. Cela fait de lui un informateur
+    id\xE9al pour Percy lorsqu\u2019il s\u2019agit d\u2019\xEAtre au courant de ce
+    qu\u2019il se chuchote dans la bourgeoisie londonienne. Son excentricit\xE9 et
+    sa bonne humeur font de lui un personnage charmant bien que parfois un peu trop
+    bavard."
+  hash: -544416768

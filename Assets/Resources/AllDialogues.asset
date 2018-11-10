@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a397ab70028ccc4ea87e51db38c1a89, type: 3}
+  m_Name: AllDialogues
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 114458584687539834}
+  - {fileID: 114943623510622326}
+  - {fileID: 114723137626041968}
+--- !u!114 &114458584687539834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: PH_FirstMeeting
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: 0f54ac922884ae542b62f2229bccd735, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - Good morning Mr. Do you know Marcus Blayton?
+  - "That deucedly lout? If you see him, tell I\u2019m waiting resolutely for him."
+  - Marcus is dead.
+  - "What do you mean by \u201Cdead\u201D?"
+  - "He was found hanged yesterday night during the first representation of the new
+    Jonathan Cole\u2019s play."
+  - uh...Dunno this guy.
+  - "You look like you\u2019re angry with Marcus. Why that?"
+  - "I probably mixed him up with another man. I dunno this Marcus guy. Listen, you
+    should get going now, you\u2019re gonna scare my customers away."
+--- !u!114 &114723137626041968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: PH_KnewMB
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: f1262d6285b856840b62fe369e78e760, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - "I\u2019m here to ask you if you still don\u2019t know Mr Blayton."
+  - "No, I still don\u2019t know the guy. How many times do I need to tell you that?"
+  - "Don\u2019t worry, this was the last time. I\u2019ve found this note in his personal
+    belongings."
+  - "Oh yeah I remember now ! I didn\u2019t understand the name of the guy when you
+    asked me. He was a one-of-a-kind customer ! But he wasn\u2019t ordering so much
+    lately. Money problems I think."
+  - I see that you have the memory of a goldfish. How did you react when you realised
+    Marcus was less and less using drugs?
+  - "For sure I was angry first. But customers like him come and go. This is not a
+    reason to kill him if it\u2019s what you have in mind."
+--- !u!114 &114943623510622326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: PH_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: 7e617f80f2864f2459ac5d8803345a0a, type: 3}
+  characters:
+  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - I told you to leave.

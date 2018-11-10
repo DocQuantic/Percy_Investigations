@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: fcb2eb76c189c5a45a6b6556a8babecb
+timeCreated: 1523046446
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: boundaries
+    100002: floor
+    100004: stairs
+    100006: //RootNode
+    100008: walls
+    100010: column
+    100012: column2
+    100014: column3
+    100016: column4
+    100018: column5
+    100020: column6
+    100022: columns
+    100024: archStairs
+    100026: balcony
+    100028: balcony 1
+    100030: balconyRembarde
+    100032: ceiling
+    100034: column7
+    100036: column8
+    100038: column9
+    100040: stairs 1
+    100042: stairsRembarde
+    100044: polySurface3
+    100046: rembarde
+    100048: column10
+    100050: column11
+    100052: column12
+    100054: column13
+    100056: column14
+    100058: groundBalcony
+    400000: boundaries
+    400002: floor
+    400004: stairs
+    400006: //RootNode
+    400008: walls
+    400010: column
+    400012: column2
+    400014: column3
+    400016: column4
+    400018: column5
+    400020: column6
+    400022: columns
+    400024: archStairs
+    400026: balcony
+    400028: balcony 1
+    400030: balconyRembarde
+    400032: ceiling
+    400034: column7
+    400036: column8
+    400038: column9
+    400040: stairs 1
+    400042: stairsRembarde
+    400044: polySurface3
+    400046: rembarde
+    400048: column10
+    400050: column11
+    400052: column12
+    400054: column13
+    400056: column14
+    400058: groundBalcony
+    2300000: floor
+    2300002: stairs
+    2300004: walls
+    2300006: column
+    2300008: column2
+    2300010: column3
+    2300012: column4
+    2300014: column5
+    2300016: column6
+    2300018: archStairs
+    2300020: balcony 1
+    2300022: balconyRembarde
+    2300024: ceiling
+    2300026: column7
+    2300028: column8
+    2300030: column9
+    2300032: stairs 1
+    2300034: stairsRembarde
+    2300036: polySurface3
+    2300038: rembarde
+    2300040: column10
+    2300042: column11
+    2300044: column12
+    2300046: column13
+    2300048: column14
+    2300050: groundBalcony
+    3300000: floor
+    3300002: stairs
+    3300004: walls
+    3300006: column
+    3300008: column2
+    3300010: column3
+    3300012: column4
+    3300014: column5
+    3300016: column6
+    3300018: archStairs
+    3300020: balcony 1
+    3300022: balconyRembarde
+    3300024: ceiling
+    3300026: column7
+    3300028: column8
+    3300030: column9
+    3300032: stairs 1
+    3300034: stairsRembarde
+    3300036: polySurface3
+    3300038: rembarde
+    3300040: column10
+    3300042: column11
+    3300044: column12
+    3300046: column13
+    3300048: column14
+    3300050: groundBalcony
+    4300000: stairs
+    4300002: walls
+    4300004: floor
+    4300006: column
+    4300008: column3
+    4300010: column2
+    4300012: column4
+    4300014: column5
+    4300016: column6
+    4300018: ceiling
+    4300020: column7
+    4300022: column8
+    4300024: column9
+    4300026: archStairs
+    4300028: stairsRembarde
+    4300030: balcony
+    4300032: balconyRembarde
+    4300034: rembarde
+    4300036: polySurface3
+    4300038: column10
+    4300040: column11
+    4300042: column12
+    4300044: column13
+    4300046: column14
+    4300048: groundBalcony
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

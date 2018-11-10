@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 186401943654bb1479911f0c1eee8838
+timeCreated: 1525971817
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: anneaux1
+    100002: anneaux2
+    100004: anneaux3
+    100006: boundaries
+    100008: ceiling1
+    100010: ceilingAndWall
+    100012: colonne1
+    100014: colonneEntreeDroite
+    100016: colonneEntreeGauche
+    100018: colonneMiddle
+    100020: colonnes
+    100022: colonnesWallWindows
+    100024: colonneWall1
+    100026: colonneWall2
+    100028: colonneWall3
+    100030: colonneWall4
+    100032: cordonLeft1
+    100034: cordonLeft2
+    100036: cordonLeft3
+    100038: cordonRight1
+    100040: cordonRight2
+    100042: cordonRight3
+    100044: cordons1
+    100046: cordons2
+    100048: cordons3
+    100050: curtain1
+    100052: curtain2
+    100054: curtain3
+    100056: floor
+    100058: hall
+    100060: hall 1
+    100062: objects
+    100064: pavement
+    100066: rideaux1
+    100068: rideaux2
+    100070: rideaux3
+    100072: //RootNode
+    100074: street
+    100076: street 1
+    100078: tringle1
+    100080: tringle2
+    100082: tringle3
+    100084: wall
+    100086: wallWindows
+    100088: windows
+    400000: anneaux1
+    400002: anneaux2
+    400004: anneaux3
+    400006: boundaries
+    400008: ceiling1
+    400010: ceilingAndWall
+    400012: colonne1
+    400014: colonneEntreeDroite
+    400016: colonneEntreeGauche
+    400018: colonneMiddle
+    400020: colonnes
+    400022: colonnesWallWindows
+    400024: colonneWall1
+    400026: colonneWall2
+    400028: colonneWall3
+    400030: colonneWall4
+    400032: cordonLeft1
+    400034: cordonLeft2
+    400036: cordonLeft3
+    400038: cordonRight1
+    400040: cordonRight2
+    400042: cordonRight3
+    400044: cordons1
+    400046: cordons2
+    400048: cordons3
+    400050: curtain1
+    400052: curtain2
+    400054: curtain3
+    400056: floor
+    400058: hall
+    400060: hall 1
+    400062: objects
+    400064: pavement
+    400066: rideaux1
+    400068: rideaux2
+    400070: rideaux3
+    400072: //RootNode
+    400074: street
+    400076: street 1
+    400078: tringle1
+    400080: tringle2
+    400082: tringle3
+    400084: wall
+    400086: wallWindows
+    400088: windows
+    2300000: anneaux1
+    2300002: anneaux2
+    2300004: anneaux3
+    2300006: ceiling1
+    2300008: ceilingAndWall
+    2300010: colonne1
+    2300012: colonneEntreeDroite
+    2300014: colonneEntreeGauche
+    2300016: colonneMiddle
+    2300018: colonneWall1
+    2300020: colonneWall2
+    2300022: colonneWall3
+    2300024: colonneWall4
+    2300026: cordonLeft1
+    2300028: cordonLeft2
+    2300030: cordonLeft3
+    2300032: cordonRight1
+    2300034: cordonRight2
+    2300036: cordonRight3
+    2300038: floor
+    2300040: hall 1
+    2300042: pavement
+    2300044: rideaux1
+    2300046: rideaux2
+    2300048: rideaux3
+    2300050: street 1
+    2300052: tringle1
+    2300054: tringle2
+    2300056: tringle3
+    2300058: wall
+    2300060: windows
+    3300000: anneaux1
+    3300002: anneaux2
+    3300004: anneaux3
+    3300006: ceiling1
+    3300008: ceilingAndWall
+    3300010: colonne1
+    3300012: colonneEntreeDroite
+    3300014: colonneEntreeGauche
+    3300016: colonneMiddle
+    3300018: colonneWall1
+    3300020: colonneWall2
+    3300022: colonneWall3
+    3300024: colonneWall4
+    3300026: cordonLeft1
+    3300028: cordonLeft2
+    3300030: cordonLeft3
+    3300032: cordonRight1
+    3300034: cordonRight2
+    3300036: cordonRight3
+    3300038: floor
+    3300040: hall 1
+    3300042: pavement
+    3300044: rideaux1
+    3300046: rideaux2
+    3300048: rideaux3
+    3300050: street 1
+    3300052: tringle1
+    3300054: tringle2
+    3300056: tringle3
+    3300058: wall
+    3300060: windows
+    4300000: pavement
+    4300002: street
+    4300004: floor
+    4300006: ceilingAndWall
+    4300008: hall
+    4300010: windows
+    4300012: wall
+    4300014: ceiling1
+    4300016: colonneWall1
+    4300018: colonneWall2
+    4300020: colonneWall3
+    4300022: colonneWall4
+    4300024: colonne1
+    4300026: colonneEntreeDroite
+    4300028: colonneMiddle
+    4300030: colonneEntreeGauche
+    4300032: anneaux1
+    4300034: tringle1
+    4300036: rideaux1
+    4300038: cordonLeft1
+    4300040: cordonRight1
+    4300042: anneaux2
+    4300044: tringle2
+    4300046: rideaux2
+    4300048: cordonLeft2
+    4300050: cordonRight2
+    4300052: anneaux3
+    4300054: tringle3
+    4300056: rideaux3
+    4300058: cordonLeft3
+    4300060: cordonRight3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: c6f0e6d648d3cd146bd4ec9eb8bf0325
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: nurbsToPolyShape1
+    100002: nurbsToPolyShape2
+    100004: nurbsToPolyShape3
+    100006: nurbsToPolyShape4
+    100008: nurbsToPolyShape5
+    100010: pCubeShape2
+    100012: pCubeShape3
+    100014: pCubeShape5
+    100016: pCubeShape6
+    100018: pCubeShape8
+    100020: pCylinderShape1
+    100022: pCylinderShape2
+    100024: pCylinderShape3
+    100026: pCylinderShape4
+    100028: //RootNode
+    100030: Wood
+    400000: nurbsToPolyShape1
+    400002: nurbsToPolyShape2
+    400004: nurbsToPolyShape3
+    400006: nurbsToPolyShape4
+    400008: nurbsToPolyShape5
+    400010: pCubeShape2
+    400012: pCubeShape3
+    400014: pCubeShape5
+    400016: pCubeShape6
+    400018: pCubeShape8
+    400020: pCylinderShape1
+    400022: pCylinderShape2
+    400024: pCylinderShape3
+    400026: pCylinderShape4
+    400028: //RootNode
+    400030: Wood
+    2100000: Anodized
+    2100002: Herringbone
+    2100004: Chrome
+    2300000: nurbsToPolyShape1
+    2300002: nurbsToPolyShape2
+    2300004: nurbsToPolyShape3
+    2300006: nurbsToPolyShape4
+    2300008: nurbsToPolyShape5
+    2300010: pCubeShape2
+    2300012: pCubeShape3
+    2300014: pCubeShape5
+    2300016: pCubeShape6
+    2300018: pCubeShape8
+    2300020: pCylinderShape1
+    2300022: pCylinderShape2
+    2300024: pCylinderShape3
+    2300026: pCylinderShape4
+    2300028: Wood
+    3300000: nurbsToPolyShape1
+    3300002: nurbsToPolyShape2
+    3300004: nurbsToPolyShape3
+    3300006: nurbsToPolyShape4
+    3300008: nurbsToPolyShape5
+    3300010: pCubeShape2
+    3300012: pCubeShape3
+    3300014: pCubeShape5
+    3300016: pCubeShape6
+    3300018: pCubeShape8
+    3300020: pCylinderShape1
+    3300022: pCylinderShape2
+    3300024: pCylinderShape3
+    3300026: pCylinderShape4
+    3300028: Wood
+    4300000: nurbsToPolyShape1
+    4300002: nurbsToPolyShape2
+    4300004: nurbsToPolyShape3
+    4300006: nurbsToPolyShape4
+    4300008: nurbsToPolyShape5
+    4300010: pCubeShape2
+    4300012: pCubeShape3
+    4300014: pCubeShape5
+    4300016: pCubeShape6
+    4300018: pCubeShape8
+    4300020: pCylinderShape1
+    4300022: pCylinderShape2
+    4300024: pCylinderShape3
+    4300026: pCylinderShape4
+    4300028: Wood
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 981038aaf126c7d41a8b702e9597437f
+timeCreated: 1522674506
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: balconySmall 1
+    100004: curtainsSmallBalcony:cordon
+    100006: curtainsSmallBalcony:cordon 1
+    100008: curtainsSmallBalcony:cordon 2
+    100010: curtainsSmallBalcony:cordon 3
+    100012: curtainsSmallBalcony:curtainLeft
+    100014: curtainsSmallBalcony:curtainRight
+    100016: curtainsSmallBalcony:curtainSmallBalcony
+    100018: curtainsSmallBalcony:polySurface10
+    100020: curtainsSmallBalcony:polySurface11
+    100022: curtainsSmallBalcony:polySurface8
+    100024: curtainsSmallBalcony:polySurface9
+    100026: curtainsSmallBalcony:ponpons
+    100028: curtainsSmallBalcony:ponpons 1
+    100030: curtainsSmallBalcony:rideau
+    100032: curtainsSmallBalcony:rideau 1
+    400000: //RootNode
+    400002: balconySmall 1
+    400004: curtainsSmallBalcony:cordon
+    400006: curtainsSmallBalcony:cordon 1
+    400008: curtainsSmallBalcony:cordon 2
+    400010: curtainsSmallBalcony:cordon 3
+    400012: curtainsSmallBalcony:curtainLeft
+    400014: curtainsSmallBalcony:curtainRight
+    400016: curtainsSmallBalcony:curtainSmallBalcony
+    400018: curtainsSmallBalcony:polySurface10
+    400020: curtainsSmallBalcony:polySurface11
+    400022: curtainsSmallBalcony:polySurface8
+    400024: curtainsSmallBalcony:polySurface9
+    400026: curtainsSmallBalcony:ponpons
+    400028: curtainsSmallBalcony:ponpons 1
+    400030: curtainsSmallBalcony:rideau
+    400032: curtainsSmallBalcony:rideau 1
+    2300000: balconySmall 1
+    2300002: curtainsSmallBalcony:cordon 2
+    2300004: curtainsSmallBalcony:cordon 3
+    2300006: curtainsSmallBalcony:polySurface10
+    2300008: curtainsSmallBalcony:polySurface11
+    2300010: curtainsSmallBalcony:polySurface8
+    2300012: curtainsSmallBalcony:polySurface9
+    2300014: curtainsSmallBalcony:rideau
+    2300016: curtainsSmallBalcony:rideau 1
+    3300000: balconySmall 1
+    3300002: curtainsSmallBalcony:cordon 2
+    3300004: curtainsSmallBalcony:cordon 3
+    3300006: curtainsSmallBalcony:polySurface10
+    3300008: curtainsSmallBalcony:polySurface11
+    3300010: curtainsSmallBalcony:polySurface8
+    3300012: curtainsSmallBalcony:polySurface9
+    3300014: curtainsSmallBalcony:rideau
+    3300016: curtainsSmallBalcony:rideau 1
+    4300000: curtainsSmallBalcony:rideau
+    4300002: curtainsSmallBalcony:cordon
+    4300004: curtainsSmallBalcony:polySurface8
+    4300006: curtainsSmallBalcony:polySurface10
+    4300008: curtainsSmallBalcony:rideau
+    4300010: curtainsSmallBalcony:cordon
+    4300012: curtainsSmallBalcony:polySurface11
+    4300014: curtainsSmallBalcony:polySurface9
+    4300016: balconySmall
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

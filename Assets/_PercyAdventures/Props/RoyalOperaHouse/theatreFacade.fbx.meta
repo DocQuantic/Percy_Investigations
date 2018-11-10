@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: b25878e4b097cc744967ce36d3b1c0a6
+timeCreated: 1523203165
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: column
+    100002: column1
+    100004: facade
+    100006: //RootNode
+    100008: columnWallEntrance
+    100010: floor
+    100012: roof
+    100014: wallEntrance
+    100016: wallOpera
+    100018: column2
+    100020: pavementFacade
+    100022: backgroundArches
+    100024: barreau1
+    100026: barreau1 1
+    100028: barreau2
+    100030: barreau2 1
+    100032: barreau3
+    100034: barreau3 1
+    100036: barriere
+    100038: barriere1
+    100040: barriere1 1
+    100042: barriere2
+    100044: barriere2 1
+    100046: barriere3
+    100048: barriere3 1
+    100050: barriere4
+    100052: floorBarrier
+    100054: floorBarrier 1
+    100056: lanternPoteau
+    100058: lanternPoteau 1
+    100060: lanternPoteau 2
+    100062: lanternPoteau 3
+    100064: lanternPoteau 4
+    100066: lanternPoteau 5
+    100068: lanternPoteau 6
+    100070: lanternPoteau 7
+    100072: poteau1
+    100074: poteau1 1
+    100076: poteau2
+    100078: poteau2 1
+    100080: poteau3
+    100082: poteau3 1
+    100084: poteau4
+    100086: poteau4 1
+    100088: poteauBarriere
+    100090: poteauBarriere 1
+    100092: poteauBarriere 2
+    100094: poteauBarriere 3
+    100096: poteauBarriere 4
+    100098: poteauBarriere 5
+    100100: poteauBarriere 6
+    100102: poteauBarriere 7
+    100104: columns
+    100106: stairs
+    100108: lanternPoteau1
+    100110: lanternPoteau2
+    100112: lanternPoteau3
+    100114: poteauBarriere1
+    100116: poteauBarriere2
+    100118: poteauBarriere3
+    100120: backgroundWindows
+    400000: column
+    400002: column1
+    400004: facade
+    400006: //RootNode
+    400008: columnWallEntrance
+    400010: floor
+    400012: roof
+    400014: wallEntrance
+    400016: wallOpera
+    400018: column2
+    400020: pavementFacade
+    400022: backgroundArches
+    400024: barreau1
+    400026: barreau1 1
+    400028: barreau2
+    400030: barreau2 1
+    400032: barreau3
+    400034: barreau3 1
+    400036: barriere
+    400038: barriere1
+    400040: barriere1 1
+    400042: barriere2
+    400044: barriere2 1
+    400046: barriere3
+    400048: barriere3 1
+    400050: barriere4
+    400052: floorBarrier
+    400054: floorBarrier 1
+    400056: lanternPoteau
+    400058: lanternPoteau 1
+    400060: lanternPoteau 2
+    400062: lanternPoteau 3
+    400064: lanternPoteau 4
+    400066: lanternPoteau 5
+    400068: lanternPoteau 6
+    400070: lanternPoteau 7
+    400072: poteau1
+    400074: poteau1 1
+    400076: poteau2
+    400078: poteau2 1
+    400080: poteau3
+    400082: poteau3 1
+    400084: poteau4
+    400086: poteau4 1
+    400088: poteauBarriere
+    400090: poteauBarriere 1
+    400092: poteauBarriere 2
+    400094: poteauBarriere 3
+    400096: poteauBarriere 4
+    400098: poteauBarriere 5
+    400100: poteauBarriere 6
+    400102: poteauBarriere 7
+    400104: columns
+    400106: stairs
+    400108: lanternPoteau1
+    400110: lanternPoteau2
+    400112: lanternPoteau3
+    400114: poteauBarriere1
+    400116: poteauBarriere2
+    400118: poteauBarriere3
+    400120: backgroundWindows
+    2300000: column
+    2300002: column1
+    2300004: facade
+    2300006: columnWallEntrance
+    2300008: floor
+    2300010: roof
+    2300012: wallEntrance
+    2300014: wallOpera
+    2300016: column2
+    2300018: pavementFacade
+    2300020: backgroundArches
+    2300022: barreau1
+    2300024: barreau1 1
+    2300026: barreau2
+    2300028: barreau2 1
+    2300030: barreau3
+    2300032: barreau3 1
+    2300034: barriere1
+    2300036: barriere1 1
+    2300038: barriere2
+    2300040: barriere2 1
+    2300042: barriere3
+    2300044: barriere3 1
+    2300046: floorBarrier
+    2300048: floorBarrier 1
+    2300050: lanternPoteau
+    2300052: lanternPoteau 1
+    2300054: lanternPoteau 2
+    2300056: lanternPoteau 3
+    2300058: lanternPoteau 4
+    2300060: lanternPoteau 5
+    2300062: lanternPoteau 6
+    2300064: lanternPoteau 7
+    2300066: poteauBarriere
+    2300068: poteauBarriere 1
+    2300070: poteauBarriere 2
+    2300072: poteauBarriere 3
+    2300074: poteauBarriere 4
+    2300076: poteauBarriere 5
+    2300078: poteauBarriere 6
+    2300080: poteauBarriere 7
+    2300082: columns
+    2300084: stairs
+    2300086: lanternPoteau1
+    2300088: lanternPoteau2
+    2300090: lanternPoteau3
+    2300092: poteauBarriere1
+    2300094: poteauBarriere2
+    2300096: poteauBarriere3
+    2300098: backgroundWindows
+    3300000: column
+    3300002: column1
+    3300004: facade
+    3300006: columnWallEntrance
+    3300008: floor
+    3300010: roof
+    3300012: wallEntrance
+    3300014: wallOpera
+    3300016: column2
+    3300018: pavementFacade
+    3300020: backgroundArches
+    3300022: barreau1
+    3300024: barreau1 1
+    3300026: barreau2
+    3300028: barreau2 1
+    3300030: barreau3
+    3300032: barreau3 1
+    3300034: barriere1
+    3300036: barriere1 1
+    3300038: barriere2
+    3300040: barriere2 1
+    3300042: barriere3
+    3300044: barriere3 1
+    3300046: floorBarrier
+    3300048: floorBarrier 1
+    3300050: lanternPoteau
+    3300052: lanternPoteau 1
+    3300054: lanternPoteau 2
+    3300056: lanternPoteau 3
+    3300058: lanternPoteau 4
+    3300060: lanternPoteau 5
+    3300062: lanternPoteau 6
+    3300064: lanternPoteau 7
+    3300066: poteauBarriere
+    3300068: poteauBarriere 1
+    3300070: poteauBarriere 2
+    3300072: poteauBarriere 3
+    3300074: poteauBarriere 4
+    3300076: poteauBarriere 5
+    3300078: poteauBarriere 6
+    3300080: poteauBarriere 7
+    3300082: columns
+    3300084: stairs
+    3300086: lanternPoteau1
+    3300088: lanternPoteau2
+    3300090: lanternPoteau3
+    3300092: poteauBarriere1
+    3300094: poteauBarriere2
+    3300096: poteauBarriere3
+    3300098: backgroundWindows
+    4300000: facade
+    4300002: column
+    4300004: column1
+    4300006: floor
+    4300008: wallOpera
+    4300010: wallEntrance
+    4300012: roof
+    4300014: columnWallEntrance
+    4300016: pavementFacade
+    4300018: column2
+    4300020: backgroundArches
+    4300022: floorBarrier
+    4300024: barriere1
+    4300026: barriere2
+    4300028: barriere3
+    4300030: lanternPoteau
+    4300032: poteauBarriere
+    4300034: lanternPoteau
+    4300036: poteauBarriere
+    4300038: lanternPoteau
+    4300040: poteauBarriere
+    4300042: lanternPoteau
+    4300044: poteauBarriere
+    4300046: barreau1
+    4300048: barreau2
+    4300050: barreau3
+    4300052: floorBarrier
+    4300054: barriere1
+    4300056: barriere2
+    4300058: barriere3
+    4300060: lanternPoteau
+    4300062: poteauBarriere
+    4300064: lanternPoteau
+    4300066: poteauBarriere
+    4300068: lanternPoteau
+    4300070: poteauBarriere
+    4300072: lanternPoteau
+    4300074: poteauBarriere
+    4300076: barreau1
+    4300078: barreau2
+    4300080: barreau3
+    4300082: stairs
+    4300084: columns
+    4300086: poteauBarriere1
+    4300088: lanternPoteau1
+    4300090: poteauBarriere2
+    4300092: lanternPoteau2
+    4300094: poteauBarriere3
+    4300096: lanternPoteau3
+    4300098: backgroundWindows
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

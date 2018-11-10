@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="I’m here to ask you if you still don’t know Mr Blayton."></Sentence>
+    <Sentence character="Peter Hurtley" string="No, I still don’t know the guy. How many times do I need to tell you that?"></Sentence>
+    <Sentence character="Percy White" string="Don’t worry, this was the last time. I’ve found this note in his personal belongings."></Sentence>
+    <Sentence character="Peter Hurtley" string="Oh yeah I remember now ! I didn’t understand the name of the guy when you asked me. He was a one-of-a-kind customer ! But he wasn’t ordering so much lately. Money problems I think."></Sentence>
+    <Sentence character="Percy White" string="I see that you have the memory of a goldfish. How did you react when you realised Marcus was less and less using drugs?"></Sentence>
+    <Sentence character="Peter Hurtley" string="For sure I was angry first. But customers like him come and go. This is not a reason to kill him if it’s what you have in mind."></Sentence>
+  </Sentences>
+</Dialogue>

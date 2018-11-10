@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd9fd671be8630840a42728524279c18, type: 3}
+  m_Name: RevealInformationDialogue
+  m_EditorClassIdentifier: 
+  numElements: 5
+  showDialogueElements: 0101010101
+  sentences:
+  - "Ca y est j'ai trouv\xE9 ton putain de cube."
+  - "Merci infiniment ! Il est tr\xE8s beau."
+  - "Je peux maintenant te r\xE9v\xE9ler mon information secr\xE8te !"
+  - Vas-y dis moi tout. Je n'en peux plus d'attendre !
+  - "Voil\xE0 ... J'aime les fraises !"
+  characters:
+  - {fileID: 11400000, guid: 2376151d58f60fb45958bfd04a7f4f13, type: 2}
+  - {fileID: 11400000, guid: cfc6802e6fb176f4fb8f116da88bb76d, type: 2}
+  - {fileID: 11400000, guid: cfc6802e6fb176f4fb8f116da88bb76d, type: 2}
+  - {fileID: 11400000, guid: 2376151d58f60fb45958bfd04a7f4f13, type: 2}
+  - {fileID: 11400000, guid: cfc6802e6fb176f4fb8f116da88bb76d, type: 2}

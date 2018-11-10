@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 034499654d89fb94486190d6b96d51f1
+timeCreated: 1522955688
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barreaux
+    100002: //RootNode
+    100004: decorCastleArchEntrance
+    100006: decorCastleDonjon
+    100008: decorCastleDonjon 1
+    100010: decorCastleDonjonSide
+    100012: decorCastleDonjonSide1
+    100014: decorCastleEtage
+    100016: decorCastleParoiFront
+    100018: decorCastleParoiSide
+    100020: decorCastleRoofDonjon
+    100022: decorCastleRoofDonjon 1
+    100024: decorSupport
+    100026: decorSupport1
+    100028: decorSupport2
+    100030: echelle
+    100032: echelleBarreauSide1
+    100034: echelleBarreauSide2
+    100036: supportsDecor
+    100038: decorCastleParoiSide 1
+    100040: decorSupportParoiSide
+    100042: decorSupportParoiSide 1
+    100044: paroiCastleSide
+    100046: paroiCastleSide1
+    400000: barreaux
+    400002: //RootNode
+    400004: decorCastleArchEntrance
+    400006: decorCastleDonjon
+    400008: decorCastleDonjon 1
+    400010: decorCastleDonjonSide
+    400012: decorCastleDonjonSide1
+    400014: decorCastleEtage
+    400016: decorCastleParoiFront
+    400018: decorCastleParoiSide
+    400020: decorCastleRoofDonjon
+    400022: decorCastleRoofDonjon 1
+    400024: decorSupport
+    400026: decorSupport1
+    400028: decorSupport2
+    400030: echelle
+    400032: echelleBarreauSide1
+    400034: echelleBarreauSide2
+    400036: supportsDecor
+    400038: decorCastleParoiSide 1
+    400040: decorSupportParoiSide
+    400042: decorSupportParoiSide 1
+    400044: paroiCastleSide
+    400046: paroiCastleSide1
+    2300000: barreaux
+    2300002: decorCastleArchEntrance
+    2300004: decorCastleDonjon
+    2300006: decorCastleDonjon 1
+    2300008: decorCastleEtage
+    2300010: decorCastleParoiFront
+    2300012: decorCastleParoiSide
+    2300014: decorCastleRoofDonjon
+    2300016: decorCastleRoofDonjon 1
+    2300018: decorSupport
+    2300020: decorSupport1
+    2300022: decorSupport2
+    2300024: echelleBarreauSide1
+    2300026: echelleBarreauSide2
+    2300028: decorCastleParoiSide 1
+    2300030: decorSupportParoiSide
+    2300032: decorSupportParoiSide 1
+    3300000: barreaux
+    3300002: decorCastleArchEntrance
+    3300004: decorCastleDonjon
+    3300006: decorCastleDonjon 1
+    3300008: decorCastleEtage
+    3300010: decorCastleParoiFront
+    3300012: decorCastleParoiSide
+    3300014: decorCastleRoofDonjon
+    3300016: decorCastleRoofDonjon 1
+    3300018: decorSupport
+    3300020: decorSupport1
+    3300022: decorSupport2
+    3300024: echelleBarreauSide1
+    3300026: echelleBarreauSide2
+    3300028: decorCastleParoiSide 1
+    3300030: decorSupportParoiSide
+    3300032: decorSupportParoiSide 1
+    4300000: barreaux
+    4300002: echelleBarreauSide1
+    4300004: echelleBarreauSide2
+    4300006: decorCastleDonjon
+    4300008: decorCastleRoofDonjon
+    4300010: decorCastleEtage
+    4300012: decorCastleArchEntrance
+    4300014: decorCastleParoiFront
+    4300016: decorCastleDonjon
+    4300018: decorCastleRoofDonjon
+    4300020: decorCastleParoiSide
+    4300022: decorSupport1
+    4300024: decorSupport2
+    4300026: decorSupport
+    4300028: decorSupportParoiSide
+    4300030: decorSupportParoiSide
+    4300032: decorCastleParoiSide
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

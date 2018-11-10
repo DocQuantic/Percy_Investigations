@@ -1,0 +1,89 @@
+fileFormatVersion: 2
+guid: 8c8d019ffb8aa1a4187932e5cbbf254b
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: HotelWall_1/HotelWall_1
+    400000: HotelWall_1/HotelWall_1/Transform
+    2100000: mat.Final_HotelWall_1
+    2300000: HotelWall_1/HotelWall_1/MeshRenderer
+    2800000: Final_HotelWall_1_Base Color
+    2800002: Final_HotelWall_1_Normal
+    2800004: Final_HotelWall_1_Metallic
+    2800006: Final_HotelWall_1_AO
+    2800008: Final_HotelWall_1_Height
+    3300000: HotelWall_1/HotelWall_1/MeshFilter
+    11400000: sbsar
+    11400002: graph0
+    13500000: HotelWall_1/HotelWall_1/SphereCollider
+    100100000: HotelWall_1
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  mGraphInstanceData:
+  - graphLabel: Final_HotelWall_1
+    graphDescIndex: 0
+    generateAllOutputs: 0
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://Final_HotelWall_1\" label=\"\" >\n  <presetinput
+      identifier=\"$outputsize\" uid=\"1130256734\" type=\"8\" value=\"11,11\" />\n
+      \ <presetinput identifier=\"$randomseed\" uid=\"338448140\" type=\"4\" value=\"4627\"
+      />\n  <presetinput identifier=\"Destruction\" uid=\"812317343\" type=\"0\" value=\"0.075\"
+      />\n  <presetinput identifier=\"Destruction_Wall\" uid=\"812296456\" type=\"0\"
+      value=\"0.15\" />\n </sbspreset>\n"
+    shaderName: Standard
+    outputNames: Base Color,Normal,Metallic,AO,Height
+    texturePackingList:
+    - outputName: Base Color
+      alphaSource: Base Color
+    - outputName: Normal
+      alphaSource: Normal
+    - outputName: Roughness
+      alphaSource: Roughness
+    - outputName: Metallic
+      alphaSource: Smoothness
+    - outputName: AO
+      alphaSource: AO
+    - outputName: Height
+      alphaSource: Height
+    colorSpaceList:
+    - outputName: Base Color
+      bLinear: 0
+    - outputName: Normal
+      bLinear: 1
+    - outputName: Roughness
+      bLinear: 1
+    - outputName: Metallic
+      bLinear: 1
+    - outputName: AO
+      bLinear: 1
+    - outputName: Height
+      bLinear: 1
+    inputTextureMap: []
+    targetSettingList:
+    - label: Default
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 2048
+      textureHeight: 2048
+      textureFormat: 0
+      loadBehavior: 0
+    - label: Standalone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      loadBehavior: 0
+    - label: iPhone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      loadBehavior: 0
+    material: {fileID: 2100000, guid: 8c8d019ffb8aa1a4187932e5cbbf254b, type: 3}

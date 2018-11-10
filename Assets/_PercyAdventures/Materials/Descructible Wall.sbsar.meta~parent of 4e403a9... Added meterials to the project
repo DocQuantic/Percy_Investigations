@@ -1,0 +1,88 @@
+fileFormatVersion: 2
+guid: d313d56a0b9e4a5459463d3173bf7f50
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: Descructible Wall/Descructible Wall
+    400000: Descructible Wall/Descructible Wall/Transform
+    2100000: mat.Wall
+    2300000: Descructible Wall/Descructible Wall/MeshRenderer
+    2800000: Wall_Base Color
+    2800002: Wall_Normal
+    2800004: Wall_Metallic
+    2800006: Wall_AmbientOcclusion
+    2800008: Wall_Height
+    3300000: Descructible Wall/Descructible Wall/MeshFilter
+    11400000: sbsar
+    11400002: graph0
+    13500000: Descructible Wall/Descructible Wall/SphereCollider
+    100100000: Descructible Wall
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  mGraphInstanceData:
+  - graphLabel: Wall
+    graphDescIndex: 0
+    generateAllOutputs: 0
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://Wall\" label=\"\" >\n  <presetinput identifier=\"Expand_Contract_Mask\"
+      uid=\"1945249467\" type=\"0\" value=\"1\" />\n  <presetinput identifier=\"Wall_Paper_Color_WallPaper_Hue\"
+      uid=\"1945240114\" type=\"0\" value=\"0.398\" />\n  <presetinput identifier=\"Wall_Paper_Color_WallPaper_Saturation\"
+      uid=\"1945240112\" type=\"0\" value=\"0.457\" />\n  <presetinput identifier=\"Wall_Paper_Color_WallPaper_Lightness\"
+      uid=\"1945240118\" type=\"0\" value=\"0.484\" />\n </sbspreset>\n"
+    shaderName: Standard
+    outputNames: Base Color,Normal,Metallic,AmbientOcclusion,Height
+    texturePackingList:
+    - outputName: Base Color
+      alphaSource: Base Color
+    - outputName: Normal
+      alphaSource: Normal
+    - outputName: Roughness
+      alphaSource: Roughness
+    - outputName: Metallic
+      alphaSource: Smoothness
+    - outputName: AmbientOcclusion
+      alphaSource: AmbientOcclusion
+    - outputName: Height
+      alphaSource: Height
+    colorSpaceList:
+    - outputName: Base Color
+      bLinear: 0
+    - outputName: Normal
+      bLinear: 1
+    - outputName: Roughness
+      bLinear: 1
+    - outputName: Metallic
+      bLinear: 1
+    - outputName: AmbientOcclusion
+      bLinear: 1
+    - outputName: Height
+      bLinear: 1
+    inputTextureMap: []
+    targetSettingList:
+    - label: Default
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 0
+      loadBehavior: 0
+    - label: Standalone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      loadBehavior: 0
+    - label: iPhone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      loadBehavior: 0
+    material: {fileID: 2100000, guid: d313d56a0b9e4a5459463d3173bf7f50, type: 3}

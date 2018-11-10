@@ -1,0 +1,773 @@
+fileFormatVersion: 2
+guid: ba33d102622d9cb43a071ec989b71111
+timeCreated: 1522665304
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: archScene
+    100002: armchairTheatre1
+    100004: armchairTheatre1 1
+    100006: armchairTheatre10
+    100008: armchairTheatre10 1
+    100010: armchairTheatre11
+    100012: armchairTheatre11 1
+    100014: armchairTheatre12
+    100016: armchairTheatre12 1
+    100018: armchairTheatre13
+    100020: armchairTheatre13 1
+    100022: armchairTheatre14
+    100024: armchairTheatre2
+    100026: armchairTheatre2 1
+    100028: armchairTheatre3
+    100030: armchairTheatre3 1
+    100032: armchairTheatre4
+    100034: armchairTheatre4 1
+    100036: armchairTheatre5
+    100038: armchairTheatre5 1
+    100040: armchairTheatre6
+    100042: armchairTheatre6 1
+    100044: armchairTheatre7
+    100046: armchairTheatre7 1
+    100048: armchairTheatre8
+    100050: armchairTheatre8 1
+    100052: armchairTheatre9
+    100054: armchairTheatre9 1
+    100056: armchairTheatre:armchairTheatre
+    100058: armchairTheatre:coussin
+    100060: armchairTheatre:support
+    100062: backstage
+    100064: balconySmallRightBottom:balconySmall
+    100066: balconySmallRightMiddle:balconySmall
+    100068: balconySmallRightTop:balconySmall
+    100070: balconySmallSceneRightBottom
+    100072: balconySmallSceneRightMiddle
+    100074: balconySmallSceneRightTop
+    100076: columns
+    100078: columnSceneRight
+    100080: columnSideRight
+    100082: columnSideRight1
+    100084: columnSideRight2
+    100086: coussin
+    100088: coussin 1
+    100090: coussin 10
+    100092: coussin 11
+    100094: coussin 12
+    100096: coussin 13
+    100098: coussin 14
+    100100: coussin 15
+    100102: coussin 16
+    100104: coussin 17
+    100106: coussin 18
+    100108: coussin 19
+    100110: coussin 2
+    100112: coussin 20
+    100114: coussin 21
+    100116: coussin 22
+    100118: coussin 23
+    100120: coussin 24
+    100122: coussin 25
+    100124: coussin 26
+    100126: coussin 3
+    100128: coussin 4
+    100130: coussin 5
+    100132: coussin 6
+    100134: coussin 7
+    100136: coussin 8
+    100138: coussin 9
+    100140: curtainsSmallBalconyBottom:cordon
+    100142: curtainsSmallBalconyBottom:cordon 1
+    100144: curtainsSmallBalconyBottom:cordon 2
+    100146: curtainsSmallBalconyBottom:cordon 3
+    100148: curtainsSmallBalconyBottom:curtainLeft
+    100150: curtainsSmallBalconyBottom:curtainRight
+    100152: curtainsSmallBalconyBottom:curtainSmallBalcony
+    100154: curtainsSmallBalconyBottom:polySurface10
+    100156: curtainsSmallBalconyBottom:polySurface11
+    100158: curtainsSmallBalconyBottom:polySurface8
+    100160: curtainsSmallBalconyBottom:polySurface9
+    100162: curtainsSmallBalconyBottom:ponpons
+    100164: curtainsSmallBalconyBottom:ponpons 1
+    100166: curtainsSmallBalconyBottom:rideau
+    100168: curtainsSmallBalconyBottom:rideau 1
+    100170: curtainsSmallBalconyMiddle:cordon
+    100172: curtainsSmallBalconyMiddle:cordon 1
+    100174: curtainsSmallBalconyMiddle:cordon 2
+    100176: curtainsSmallBalconyMiddle:cordon 3
+    100178: curtainsSmallBalconyMiddle:curtainLeft
+    100180: curtainsSmallBalconyMiddle:curtainRight
+    100182: curtainsSmallBalconyMiddle:curtainSmallBalcony
+    100184: curtainsSmallBalconyMiddle:polySurface10
+    100186: curtainsSmallBalconyMiddle:polySurface11
+    100188: curtainsSmallBalconyMiddle:polySurface8
+    100190: curtainsSmallBalconyMiddle:polySurface9
+    100192: curtainsSmallBalconyMiddle:ponpons
+    100194: curtainsSmallBalconyMiddle:ponpons 1
+    100196: curtainsSmallBalconyMiddle:rideau
+    100198: curtainsSmallBalconyMiddle:rideau 1
+    100200: curtainsSmallBalconyTop:cordon
+    100202: curtainsSmallBalconyTop:cordon 1
+    100204: curtainsSmallBalconyTop:cordon 2
+    100206: curtainsSmallBalconyTop:cordon 3
+    100208: curtainsSmallBalconyTop:curtainLeft
+    100210: curtainsSmallBalconyTop:curtainRight
+    100212: curtainsSmallBalconyTop:curtainSmallBalcony
+    100214: curtainsSmallBalconyTop:polySurface10
+    100216: curtainsSmallBalconyTop:polySurface11
+    100218: curtainsSmallBalconyTop:polySurface8
+    100220: curtainsSmallBalconyTop:polySurface9
+    100222: curtainsSmallBalconyTop:ponpons
+    100224: curtainsSmallBalconyTop:ponpons 1
+    100226: curtainsSmallBalconyTop:rideau
+    100228: curtainsSmallBalconyTop:rideau 1
+    100230: entranceArch
+    100232: floorNackstage
+    100234: ground
+    100236: murSceneRight
+    100238: panMurAngleRight
+    100240: panMurRight3
+    100242: panMurRight4
+    100244: panMurSceneRight
+    100246: panMurSceneRight1
+    100248: panMurSceneRight2
+    100250: rang1
+    100252: rang2
+    100254: scene
+    100256: scene 1
+    100258: support
+    100260: support 1
+    100262: support 10
+    100264: support 11
+    100266: support 12
+    100268: support 13
+    100270: support 14
+    100272: support 15
+    100274: support 16
+    100276: support 17
+    100278: support 18
+    100280: support 19
+    100282: support 2
+    100284: support 20
+    100286: support 21
+    100288: support 22
+    100290: support 23
+    100292: support 24
+    100294: support 25
+    100296: support 26
+    100298: support 3
+    100300: support 4
+    100302: support 5
+    100304: support 6
+    100306: support 7
+    100308: support 8
+    100310: support 9
+    100312: //RootNode
+    100314: wallBackgroundScene
+    100316: wallBackstage
+    100318: walls
+    100320: polySurface1
+    100322: panMurScene
+    100324: panMurSide1
+    100326: panMurSide2
+    100328: columnScene
+    100330: doorBackstageToGreenroom
+    100332: doorBackstageToGreenrooms
+    100334: doorBackstageToGreenroomsEncadrement
+    100336: doorBackstageToGreenroomsEncadrement1
+    100338: panMurAngle
+    100340: panMurEntrance
+    100342: panMurEntranceSide
+    100344: columnEntrance
+    100346: columnSideEntrance
+    100348: columnSideMiddle
+    400000: archScene
+    400002: armchairTheatre1
+    400004: armchairTheatre1 1
+    400006: armchairTheatre10
+    400008: armchairTheatre10 1
+    400010: armchairTheatre11
+    400012: armchairTheatre11 1
+    400014: armchairTheatre12
+    400016: armchairTheatre12 1
+    400018: armchairTheatre13
+    400020: armchairTheatre13 1
+    400022: armchairTheatre14
+    400024: armchairTheatre2
+    400026: armchairTheatre2 1
+    400028: armchairTheatre3
+    400030: armchairTheatre3 1
+    400032: armchairTheatre4
+    400034: armchairTheatre4 1
+    400036: armchairTheatre5
+    400038: armchairTheatre5 1
+    400040: armchairTheatre6
+    400042: armchairTheatre6 1
+    400044: armchairTheatre7
+    400046: armchairTheatre7 1
+    400048: armchairTheatre8
+    400050: armchairTheatre8 1
+    400052: armchairTheatre9
+    400054: armchairTheatre9 1
+    400056: armchairTheatre:armchairTheatre
+    400058: armchairTheatre:coussin
+    400060: armchairTheatre:support
+    400062: backstage
+    400064: balconySmallRightBottom:balconySmall
+    400066: balconySmallRightMiddle:balconySmall
+    400068: balconySmallRightTop:balconySmall
+    400070: balconySmallSceneRightBottom
+    400072: balconySmallSceneRightMiddle
+    400074: balconySmallSceneRightTop
+    400076: columns
+    400078: columnSceneRight
+    400080: columnSideRight
+    400082: columnSideRight1
+    400084: columnSideRight2
+    400086: coussin
+    400088: coussin 1
+    400090: coussin 10
+    400092: coussin 11
+    400094: coussin 12
+    400096: coussin 13
+    400098: coussin 14
+    400100: coussin 15
+    400102: coussin 16
+    400104: coussin 17
+    400106: coussin 18
+    400108: coussin 19
+    400110: coussin 2
+    400112: coussin 20
+    400114: coussin 21
+    400116: coussin 22
+    400118: coussin 23
+    400120: coussin 24
+    400122: coussin 25
+    400124: coussin 26
+    400126: coussin 3
+    400128: coussin 4
+    400130: coussin 5
+    400132: coussin 6
+    400134: coussin 7
+    400136: coussin 8
+    400138: coussin 9
+    400140: curtainsSmallBalconyBottom:cordon
+    400142: curtainsSmallBalconyBottom:cordon 1
+    400144: curtainsSmallBalconyBottom:cordon 2
+    400146: curtainsSmallBalconyBottom:cordon 3
+    400148: curtainsSmallBalconyBottom:curtainLeft
+    400150: curtainsSmallBalconyBottom:curtainRight
+    400152: curtainsSmallBalconyBottom:curtainSmallBalcony
+    400154: curtainsSmallBalconyBottom:polySurface10
+    400156: curtainsSmallBalconyBottom:polySurface11
+    400158: curtainsSmallBalconyBottom:polySurface8
+    400160: curtainsSmallBalconyBottom:polySurface9
+    400162: curtainsSmallBalconyBottom:ponpons
+    400164: curtainsSmallBalconyBottom:ponpons 1
+    400166: curtainsSmallBalconyBottom:rideau
+    400168: curtainsSmallBalconyBottom:rideau 1
+    400170: curtainsSmallBalconyMiddle:cordon
+    400172: curtainsSmallBalconyMiddle:cordon 1
+    400174: curtainsSmallBalconyMiddle:cordon 2
+    400176: curtainsSmallBalconyMiddle:cordon 3
+    400178: curtainsSmallBalconyMiddle:curtainLeft
+    400180: curtainsSmallBalconyMiddle:curtainRight
+    400182: curtainsSmallBalconyMiddle:curtainSmallBalcony
+    400184: curtainsSmallBalconyMiddle:polySurface10
+    400186: curtainsSmallBalconyMiddle:polySurface11
+    400188: curtainsSmallBalconyMiddle:polySurface8
+    400190: curtainsSmallBalconyMiddle:polySurface9
+    400192: curtainsSmallBalconyMiddle:ponpons
+    400194: curtainsSmallBalconyMiddle:ponpons 1
+    400196: curtainsSmallBalconyMiddle:rideau
+    400198: curtainsSmallBalconyMiddle:rideau 1
+    400200: curtainsSmallBalconyTop:cordon
+    400202: curtainsSmallBalconyTop:cordon 1
+    400204: curtainsSmallBalconyTop:cordon 2
+    400206: curtainsSmallBalconyTop:cordon 3
+    400208: curtainsSmallBalconyTop:curtainLeft
+    400210: curtainsSmallBalconyTop:curtainRight
+    400212: curtainsSmallBalconyTop:curtainSmallBalcony
+    400214: curtainsSmallBalconyTop:polySurface10
+    400216: curtainsSmallBalconyTop:polySurface11
+    400218: curtainsSmallBalconyTop:polySurface8
+    400220: curtainsSmallBalconyTop:polySurface9
+    400222: curtainsSmallBalconyTop:ponpons
+    400224: curtainsSmallBalconyTop:ponpons 1
+    400226: curtainsSmallBalconyTop:rideau
+    400228: curtainsSmallBalconyTop:rideau 1
+    400230: entranceArch
+    400232: floorNackstage
+    400234: ground
+    400236: murSceneRight
+    400238: panMurAngleRight
+    400240: panMurRight3
+    400242: panMurRight4
+    400244: panMurSceneRight
+    400246: panMurSceneRight1
+    400248: panMurSceneRight2
+    400250: rang1
+    400252: rang2
+    400254: scene
+    400256: scene 1
+    400258: support
+    400260: support 1
+    400262: support 10
+    400264: support 11
+    400266: support 12
+    400268: support 13
+    400270: support 14
+    400272: support 15
+    400274: support 16
+    400276: support 17
+    400278: support 18
+    400280: support 19
+    400282: support 2
+    400284: support 20
+    400286: support 21
+    400288: support 22
+    400290: support 23
+    400292: support 24
+    400294: support 25
+    400296: support 26
+    400298: support 3
+    400300: support 4
+    400302: support 5
+    400304: support 6
+    400306: support 7
+    400308: support 8
+    400310: support 9
+    400312: //RootNode
+    400314: wallBackgroundScene
+    400316: wallBackstage
+    400318: walls
+    400320: polySurface1
+    400322: panMurScene
+    400324: panMurSide1
+    400326: panMurSide2
+    400328: columnScene
+    400330: doorBackstageToGreenroom
+    400332: doorBackstageToGreenrooms
+    400334: doorBackstageToGreenroomsEncadrement
+    400336: doorBackstageToGreenroomsEncadrement1
+    400338: panMurAngle
+    400340: panMurEntrance
+    400342: panMurEntranceSide
+    400344: columnEntrance
+    400346: columnSideEntrance
+    400348: columnSideMiddle
+    2300000: archScene
+    2300002: armchairTheatre:coussin
+    2300004: armchairTheatre:support
+    2300006: balconySmallRightBottom:balconySmall
+    2300008: balconySmallRightMiddle:balconySmall
+    2300010: balconySmallRightTop:balconySmall
+    2300012: columnSceneRight
+    2300014: columnSideRight
+    2300016: columnSideRight1
+    2300018: columnSideRight2
+    2300020: coussin
+    2300022: coussin 1
+    2300024: coussin 10
+    2300026: coussin 11
+    2300028: coussin 12
+    2300030: coussin 13
+    2300032: coussin 14
+    2300034: coussin 15
+    2300036: coussin 16
+    2300038: coussin 17
+    2300040: coussin 18
+    2300042: coussin 19
+    2300044: coussin 2
+    2300046: coussin 20
+    2300048: coussin 21
+    2300050: coussin 22
+    2300052: coussin 23
+    2300054: coussin 24
+    2300056: coussin 25
+    2300058: coussin 26
+    2300060: coussin 3
+    2300062: coussin 4
+    2300064: coussin 5
+    2300066: coussin 6
+    2300068: coussin 7
+    2300070: coussin 8
+    2300072: coussin 9
+    2300074: curtainsSmallBalconyBottom:cordon 2
+    2300076: curtainsSmallBalconyBottom:cordon 3
+    2300078: curtainsSmallBalconyBottom:polySurface10
+    2300080: curtainsSmallBalconyBottom:polySurface11
+    2300082: curtainsSmallBalconyBottom:polySurface8
+    2300084: curtainsSmallBalconyBottom:polySurface9
+    2300086: curtainsSmallBalconyBottom:rideau
+    2300088: curtainsSmallBalconyBottom:rideau 1
+    2300090: curtainsSmallBalconyMiddle:cordon 2
+    2300092: curtainsSmallBalconyMiddle:cordon 3
+    2300094: curtainsSmallBalconyMiddle:polySurface10
+    2300096: curtainsSmallBalconyMiddle:polySurface11
+    2300098: curtainsSmallBalconyMiddle:polySurface8
+    2300100: curtainsSmallBalconyMiddle:polySurface9
+    2300102: curtainsSmallBalconyMiddle:rideau
+    2300104: curtainsSmallBalconyMiddle:rideau 1
+    2300106: curtainsSmallBalconyTop:cordon 2
+    2300108: curtainsSmallBalconyTop:cordon 3
+    2300110: curtainsSmallBalconyTop:polySurface10
+    2300112: curtainsSmallBalconyTop:polySurface11
+    2300114: curtainsSmallBalconyTop:polySurface8
+    2300116: curtainsSmallBalconyTop:polySurface9
+    2300118: curtainsSmallBalconyTop:rideau
+    2300120: curtainsSmallBalconyTop:rideau 1
+    2300122: entranceArch
+    2300124: floorNackstage
+    2300126: ground
+    2300128: murSceneRight
+    2300130: panMurAngleRight
+    2300132: panMurRight3
+    2300134: panMurRight4
+    2300136: panMurSceneRight1
+    2300138: panMurSceneRight2
+    2300140: scene 1
+    2300142: support
+    2300144: support 1
+    2300146: support 10
+    2300148: support 11
+    2300150: support 12
+    2300152: support 13
+    2300154: support 14
+    2300156: support 15
+    2300158: support 16
+    2300160: support 17
+    2300162: support 18
+    2300164: support 19
+    2300166: support 2
+    2300168: support 20
+    2300170: support 21
+    2300172: support 22
+    2300174: support 23
+    2300176: support 24
+    2300178: support 25
+    2300180: support 26
+    2300182: support 3
+    2300184: support 4
+    2300186: support 5
+    2300188: support 6
+    2300190: support 7
+    2300192: support 8
+    2300194: support 9
+    2300196: wallBackgroundScene
+    2300198: wallBackstage
+    2300200: panMurSceneRight
+    2300202: polySurface1
+    2300204: panMurScene
+    2300206: panMurSide1
+    2300208: panMurSide2
+    2300210: columnScene
+    2300212: doorBackstageToGreenroom
+    2300214: doorBackstageToGreenroomsEncadrement
+    2300216: doorBackstageToGreenroomsEncadrement1
+    2300218: panMurAngle
+    2300220: panMurEntrance
+    2300222: panMurEntranceSide
+    2300224: columnEntrance
+    2300226: columnSideEntrance
+    2300228: columnSideMiddle
+    3300000: archScene
+    3300002: armchairTheatre:coussin
+    3300004: armchairTheatre:support
+    3300006: balconySmallRightBottom:balconySmall
+    3300008: balconySmallRightMiddle:balconySmall
+    3300010: balconySmallRightTop:balconySmall
+    3300012: columnSceneRight
+    3300014: columnSideRight
+    3300016: columnSideRight1
+    3300018: columnSideRight2
+    3300020: coussin
+    3300022: coussin 1
+    3300024: coussin 10
+    3300026: coussin 11
+    3300028: coussin 12
+    3300030: coussin 13
+    3300032: coussin 14
+    3300034: coussin 15
+    3300036: coussin 16
+    3300038: coussin 17
+    3300040: coussin 18
+    3300042: coussin 19
+    3300044: coussin 2
+    3300046: coussin 20
+    3300048: coussin 21
+    3300050: coussin 22
+    3300052: coussin 23
+    3300054: coussin 24
+    3300056: coussin 25
+    3300058: coussin 26
+    3300060: coussin 3
+    3300062: coussin 4
+    3300064: coussin 5
+    3300066: coussin 6
+    3300068: coussin 7
+    3300070: coussin 8
+    3300072: coussin 9
+    3300074: curtainsSmallBalconyBottom:cordon 2
+    3300076: curtainsSmallBalconyBottom:cordon 3
+    3300078: curtainsSmallBalconyBottom:polySurface10
+    3300080: curtainsSmallBalconyBottom:polySurface11
+    3300082: curtainsSmallBalconyBottom:polySurface8
+    3300084: curtainsSmallBalconyBottom:polySurface9
+    3300086: curtainsSmallBalconyBottom:rideau
+    3300088: curtainsSmallBalconyBottom:rideau 1
+    3300090: curtainsSmallBalconyMiddle:cordon 2
+    3300092: curtainsSmallBalconyMiddle:cordon 3
+    3300094: curtainsSmallBalconyMiddle:polySurface10
+    3300096: curtainsSmallBalconyMiddle:polySurface11
+    3300098: curtainsSmallBalconyMiddle:polySurface8
+    3300100: curtainsSmallBalconyMiddle:polySurface9
+    3300102: curtainsSmallBalconyMiddle:rideau
+    3300104: curtainsSmallBalconyMiddle:rideau 1
+    3300106: curtainsSmallBalconyTop:cordon 2
+    3300108: curtainsSmallBalconyTop:cordon 3
+    3300110: curtainsSmallBalconyTop:polySurface10
+    3300112: curtainsSmallBalconyTop:polySurface11
+    3300114: curtainsSmallBalconyTop:polySurface8
+    3300116: curtainsSmallBalconyTop:polySurface9
+    3300118: curtainsSmallBalconyTop:rideau
+    3300120: curtainsSmallBalconyTop:rideau 1
+    3300122: entranceArch
+    3300124: floorNackstage
+    3300126: ground
+    3300128: murSceneRight
+    3300130: panMurAngleRight
+    3300132: panMurRight3
+    3300134: panMurRight4
+    3300136: panMurSceneRight1
+    3300138: panMurSceneRight2
+    3300140: scene 1
+    3300142: support
+    3300144: support 1
+    3300146: support 10
+    3300148: support 11
+    3300150: support 12
+    3300152: support 13
+    3300154: support 14
+    3300156: support 15
+    3300158: support 16
+    3300160: support 17
+    3300162: support 18
+    3300164: support 19
+    3300166: support 2
+    3300168: support 20
+    3300170: support 21
+    3300172: support 22
+    3300174: support 23
+    3300176: support 24
+    3300178: support 25
+    3300180: support 26
+    3300182: support 3
+    3300184: support 4
+    3300186: support 5
+    3300188: support 6
+    3300190: support 7
+    3300192: support 8
+    3300194: support 9
+    3300196: wallBackgroundScene
+    3300198: wallBackstage
+    3300200: panMurSceneRight
+    3300202: polySurface1
+    3300204: panMurScene
+    3300206: panMurSide1
+    3300208: panMurSide2
+    3300210: columnScene
+    3300212: doorBackstageToGreenroom
+    3300214: doorBackstageToGreenroomsEncadrement
+    3300216: doorBackstageToGreenroomsEncadrement1
+    3300218: panMurAngle
+    3300220: panMurEntrance
+    3300222: panMurEntranceSide
+    3300224: columnEntrance
+    3300226: columnSideEntrance
+    3300228: columnSideMiddle
+    4300000: ground
+    4300002: wallBackstage
+    4300004: floorNackstage
+    4300006: murSceneRight
+    4300008: balconySmallRightTop:balconySmall
+    4300010: curtainsSmallBalconyTop:rideau
+    4300012: curtainsSmallBalconyTop:cordon
+    4300014: curtainsSmallBalconyTop:polySurface8
+    4300016: curtainsSmallBalconyTop:polySurface10
+    4300018: curtainsSmallBalconyTop:rideau
+    4300020: curtainsSmallBalconyTop:cordon
+    4300022: curtainsSmallBalconyTop:polySurface11
+    4300024: curtainsSmallBalconyTop:polySurface9
+    4300026: balconySmallRightMiddle:balconySmall
+    4300028: curtainsSmallBalconyMiddle:rideau
+    4300030: curtainsSmallBalconyMiddle:cordon
+    4300032: curtainsSmallBalconyMiddle:polySurface8
+    4300034: curtainsSmallBalconyMiddle:polySurface10
+    4300036: curtainsSmallBalconyMiddle:rideau
+    4300038: curtainsSmallBalconyMiddle:cordon
+    4300040: curtainsSmallBalconyMiddle:polySurface11
+    4300042: curtainsSmallBalconyMiddle:polySurface9
+    4300044: balconySmallRightBottom:balconySmall
+    4300046: curtainsSmallBalconyBottom:rideau
+    4300048: curtainsSmallBalconyBottom:cordon
+    4300050: curtainsSmallBalconyBottom:polySurface8
+    4300052: curtainsSmallBalconyBottom:polySurface10
+    4300054: curtainsSmallBalconyBottom:rideau
+    4300056: curtainsSmallBalconyBottom:cordon
+    4300058: curtainsSmallBalconyBottom:polySurface11
+    4300060: curtainsSmallBalconyBottom:polySurface9
+    4300062: panMurRight4
+    4300064: panMurRight3
+    4300066: panMurAngleRight
+    4300068: panMurSceneRight1
+    4300070: panMurSceneRight2
+    4300072: columnSideRight1
+    4300074: columnSideRight
+    4300076: columnSceneRight
+    4300078: columnSideRight2
+    4300080: entranceArch
+    4300082: scene
+    4300084: wallBackgroundScene
+    4300086: archScene
+    4300088: armchairTheatre:coussin
+    4300090: armchairTheatre:support
+    4300092: coussin
+    4300094: support
+    4300096: coussin
+    4300098: support
+    4300100: coussin
+    4300102: support
+    4300104: coussin
+    4300106: support
+    4300108: coussin
+    4300110: support
+    4300112: coussin
+    4300114: support
+    4300116: coussin
+    4300118: support
+    4300120: coussin
+    4300122: support
+    4300124: coussin
+    4300126: support
+    4300128: coussin
+    4300130: support
+    4300132: coussin
+    4300134: support
+    4300136: coussin
+    4300138: support
+    4300140: coussin
+    4300142: support
+    4300144: coussin
+    4300146: support
+    4300148: coussin
+    4300150: support
+    4300152: coussin
+    4300154: support
+    4300156: coussin
+    4300158: support
+    4300160: coussin
+    4300162: support
+    4300164: coussin
+    4300166: support
+    4300168: coussin
+    4300170: support
+    4300172: coussin
+    4300174: support
+    4300176: coussin
+    4300178: support
+    4300180: coussin
+    4300182: support
+    4300184: coussin
+    4300186: support
+    4300188: coussin
+    4300190: support
+    4300192: coussin
+    4300194: support
+    4300196: coussin
+    4300198: support
+    4300200: panMurSceneRight
+    4300202: polySurface1
+    4300204: panMurScene
+    4300206: panMurSide2
+    4300208: panMurSide1
+    4300210: columnScene
+    4300212: doorBackstageToGreenroomsEncadrement
+    4300214: doorBackstageToGreenroom
+    4300216: doorBackstageToGreenroomsEncadrement1
+    4300218: panMurAngle
+    4300220: panMurEntranceSide
+    4300222: panMurEntrance
+    4300224: columnSideEntrance
+    4300226: columnSideMiddle
+    4300228: columnEntrance
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

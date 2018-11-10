@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning Mr. Do you know Marcus Blayton?"></Sentence>
+    <Sentence character="Peter Hurtley" string="That deucedly lout? If you see him, tell I’m waiting resolutely for him."></Sentence>
+    <Sentence character="Percy White" string="Marcus is dead."></Sentence>
+    <Sentence character="Peter Hurtley" string="What do you mean by “dead”?"></Sentence>
+    <Sentence character="Percy White" string="He was found hanged yesterday night during the first representation of the new Jonathan Cole’s play."></Sentence>
+    <Sentence character="Peter Hurtley" string="uh...Dunno this guy."></Sentence>
+    <Sentence character="Percy White" string="You look like you’re angry with Marcus. Why that?"></Sentence>
+    <Sentence character="Peter Hurtley" string="I probably mixed him up with another man. I dunno this Marcus guy. Listen, you should get going now, you’re gonna scare my customers away."></Sentence>
+  </Sentences>
+</Dialogue>
