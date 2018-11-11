@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -15,10 +15,11 @@ MonoBehaviour:
   - {fileID: 114458584687539834}
   - {fileID: 114943623510622326}
   - {fileID: 114723137626041968}
+  - {fileID: 114699503268907092}
 --- !u!114 &114458584687539834
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -47,10 +48,33 @@ MonoBehaviour:
   - "You look like you\u2019re angry with Marcus. Why that?"
   - "I probably mixed him up with another man. I dunno this Marcus guy. Listen, you
     should get going now, you\u2019re gonna scare my customers away."
+--- !u!114 &114699503268907092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: Boss_IntroDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: ab30fdeb32b896b489f762e43ad93896, type: 3}
+  characters:
+  - {fileID: 114297949142923256, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - "Good morning Percy, here is your new investigation. A famous actor was found
+    dead yesterday during the representation of a play at the Royal Opera House. You\u2019ll
+    find a list of people who are part of his entourage that you should question,
+    along with short descriptions for each person to help you in your case. Otherwise,
+    don\u2019t hesitate to contact our informers, they could bring you the help you
+    need to progress."
+  - "Thank you. I\u2019ll do my best to catch the culprit, as usual."
 --- !u!114 &114723137626041968
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -81,7 +105,7 @@ MonoBehaviour:
 --- !u!114 &114943623510622326
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1

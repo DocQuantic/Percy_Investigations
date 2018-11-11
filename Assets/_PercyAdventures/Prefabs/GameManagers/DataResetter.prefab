@@ -51,5 +51,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bfbbd9b18cb2c144abc61bb76292f0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  exceptionConditions:
+  - {fileID: 114284219489309210, guid: b97690966aad5e640a340f5adb8e03dd, type: 2}
   resettableScriptableObjects:
   - {fileID: 11400000, guid: b97690966aad5e640a340f5adb8e03dd, type: 2}

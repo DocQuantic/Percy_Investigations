@@ -6,9 +6,57 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_PercyAdventures/_Scenes/Persistent.unity
-    guid: cdae398ef609c694bb9320db7542d772
+    path: Assets/_PercyAdventures/_Scenes/PercyOffice.unity
+    guid: d38990c50f8074b8c8da82ac52fd78b7
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/TheatreScene.unity
+    guid: 6b077eb14d5524583901252173568c01
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/BlaytonBedroom.unity
+    guid: bd0c21bd74dd1432db4396f473180b85
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/BlaytonLibrary.unity
+    guid: 7404f5b1fb9ec46ceadbf921e01117dc
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/CarlyleBookstore.unity
+    guid: 9df315eb8f51c504380c4d5b5dd6c6ce
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/ColeBedroom.unity
+    guid: 3dee6f3da5763468f94f9988b6b2f095
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/ColeLibrary.unity
+    guid: d001282ef34f5499fa3cc80f97a2e48d
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/DailyChronicle.unity
+    guid: c55371fe7363c4b85be7af5298963aa7
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/DukeBar.unity
+    guid: db85400d7f5066041b9c20765d8fc959
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/ForensicOffice.unity
+    guid: aebabac54b561cb4bb6d951beda0f75f
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/GreyCat.unity
+    guid: 5081ef8ebbf7f42668f1bd8cabb04aba
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/MasonOffice.unity
+    guid: 985c63a1976f43e4ba49d40e95812a86
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/PallMallRestaurant.unity
+    guid: 97cc84e0f46c24eb898e55cdae81283f
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/PoliceStation.unity
+    guid: d98320b1f0e5741b8934de9e2b7adea4
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/TheatreBlaytonRoom.unity
+    guid: a890189cee6064896982e49ce1de30fa
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/UnitedClub.unity
+    guid: 46e84c998c54c4d5b99f8c050b791725
   - enabled: 1
     path: Assets/_PercyAdventures/_Scenes/WoodStreet.unity
     guid: 439b47263d23b481ab8f247795910b2d
+  - enabled: 1
+    path: Assets/_PercyAdventures/_Scenes/Map.unity
+    guid: 33bba825a114902448c262aec9464861
   m_configObjects: {}

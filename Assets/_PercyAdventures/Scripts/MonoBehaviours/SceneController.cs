@@ -19,12 +19,11 @@ public class SceneController : MonoBehaviour {
         }
         instance = this;
         DontDestroyOnLoad(gameObject);
+
+        dialogueManager = DialogueManager.instance;
     }
 
     #endregion
-
-    public event Action BeforeSceneUnload;
-    public event Action AfterSceneLoad;
 
     public CanvasGroup fadingCanvasGroup;
     public float fadingDuration = 1.0f;
@@ -35,7 +34,6 @@ public class SceneController : MonoBehaviour {
 
     private void Start()
     {
-        dialogueManager = DialogueManager.instance;
         if (dialogueManager.enabled)
         {
             dialogueManager.enabled = false;
@@ -43,7 +41,7 @@ public class SceneController : MonoBehaviour {
 
         fadingCanvasGroup.alpha = 1.0f;
 
-        StartCoroutine(Fade(0.0f));
+        //StartCoroutine(Fade(0.0f));
 
         dialogueManager.enabled = true;
     }
@@ -56,25 +54,23 @@ public class SceneController : MonoBehaviour {
         }
     }
 
+    public void FadeAndLoadScene(string sceneName)
+    {
+        //if (!isFading)
+        //{
+        StartCoroutine(FadeAndSwitchScenes(sceneName));
+        //}
+    }
+
     private IEnumerator FadeAndSwitchScenes(string sceneName)
     {
         dialogueManager.enabled = false;
 
+        Debug.Log("Loading");
+
         yield return StartCoroutine(Fade(1.0f));
 
-        if (BeforeSceneUnload != null)
-        {
-            BeforeSceneUnload();
-        }
-
-        yield return SceneManager.UnloadSceneAsync(SceneManager.GetActiveScene().buildIndex);
-
         yield return StartCoroutine(LoadSceneAndSetActive(sceneName));
-
-        if (AfterSceneLoad != null)
-        {
-            AfterSceneLoad();
-        }
 
         yield return StartCoroutine(Fade(0.0f));
 
@@ -106,6 +102,14 @@ public class SceneController : MonoBehaviour {
 
         isFading = false;
         fadingCanvasGroup.blocksRaycasts = false;
+    }
+
+    public void LoadMap()
+    {
+        if (!isFading)
+        {
+            StartCoroutine(FadeAndSwitchScenes("Map"));
+        }
     }
 
 }

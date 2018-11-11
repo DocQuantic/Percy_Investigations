@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Question
+  - FadeImage
   layers:
   - Default
   - TransparentFX

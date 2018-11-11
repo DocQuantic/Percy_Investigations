@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Boss" string="Good morning Percy, here is your new investigation. A famous actor was found dead yesterday during the representation of a play at the Royal Opera House. You’ll find a list of people who are part of his entourage that you should question, along with short descriptions for each person to help you in your case. Otherwise, don’t hesitate to contact our informers, they could bring you the help you need to progress."></Sentence>
+    <Sentence character="Percy White" string="Thank you. I’ll do my best to catch the culprit, as usual."></Sentence>
+  </Sentences>
+</Dialogue>

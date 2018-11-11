@@ -26,7 +26,14 @@ public class PlayerManager : MonoBehaviour {
 
     private void Start()
     {
-        player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        if (GameObject.FindGameObjectWithTag("Player"))
+        {
+            player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        }
+        else
+        {
+            player = null;
+        }
     }
 
     public Transform GetPlayer()

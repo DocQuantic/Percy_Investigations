@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour {
 
-    private float orthoSize;
+    private float fieldOfView;
     private Vector3 initTargetPos;
     private Vector3 cameraOffset;
     private Transform player;
@@ -14,18 +14,18 @@ public class CameraController : MonoBehaviour {
     public float cameraFollowSpeed = 10.0f;
     public float zoomSpeed = 0.1f;
     public float minZoom = 1.0f;
-    public float maxZoom = 2.8f;
+    public float maxZoom = 60f;
 
     private void Start()
     {
-        orthoSize = Camera.main.orthographicSize;
+        fieldOfView = Camera.main.fieldOfView;
 
         FindTargetInit();
         target.position = initTargetPos;
 
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
     }
-
+    
     private void Update()
     {
         if (Input.GetAxis("Mouse ScrollWheel") != 0)
@@ -34,11 +34,13 @@ public class CameraController : MonoBehaviour {
         }
         UpdateTargetPosition();
     }
-
+    
     private void LateUpdate()
     {
-        UpdateCameraPosition();
+        transform.LookAt(target);
+        //UpdateCameraPosition();
     }
+    
 
     public Vector3[] GetCameraOrientation()
     {
@@ -61,6 +63,7 @@ public class CameraController : MonoBehaviour {
 
         if (Physics.Raycast(ray, out hit))
         {
+            Debug.Log("Hit " + hit.transform.name);
             initTargetPos = hit.point;
             cameraOffset = hit.point-transform.position;
         }
@@ -68,24 +71,27 @@ public class CameraController : MonoBehaviour {
 
     private void Zoom()
     {
-        orthoSize = Mathf.Lerp(orthoSize, orthoSize - Input.GetAxis("Mouse ScrollWheel") * zoomSpeed * Time.deltaTime, zoomSpeed*Time.deltaTime);
-        orthoSize = Mathf.Clamp(orthoSize, minZoom, maxZoom);
-        Camera.main.orthographicSize = orthoSize;
+        fieldOfView = Mathf.Lerp(fieldOfView, fieldOfView - Input.GetAxis("Mouse ScrollWheel") * zoomSpeed * Time.deltaTime, zoomSpeed*Time.deltaTime);
+        fieldOfView = Mathf.Clamp(fieldOfView, minZoom, maxZoom);
+        Camera.main.fieldOfView = fieldOfView;
     }
 
     private void UpdateTargetPosition()
     {
-        Vector3 position = (player.position - initTargetPos) * (1 - (orthoSize - minZoom) / (maxZoom - minZoom));
+        Vector3 position = (player.position+Vector3.up - initTargetPos) * (1 - (fieldOfView - minZoom) / (maxZoom - minZoom));
         Vector3 targetPos = target.position;
 
-        targetPos.x = Mathf.Lerp(targetPos.x, position.x + initTargetPos.x, cameraFollowSpeed*Time.deltaTime);
-        targetPos.z = Mathf.Lerp(target.position.z, position.z + initTargetPos.z, cameraFollowSpeed*Time.deltaTime);
+        targetPos.x = Mathf.Lerp(targetPos.x, position.x + initTargetPos.x, cameraFollowSpeed * Time.deltaTime);
+        targetPos.y = Mathf.Lerp(targetPos.y, position.y + initTargetPos.y, cameraFollowSpeed * Time.deltaTime);
+        targetPos.z = Mathf.Lerp(targetPos.z, position.z + initTargetPos.z, cameraFollowSpeed * Time.deltaTime);
 
         target.position = targetPos;
     }
 
+    /*
     private void UpdateCameraPosition()
     {
         transform.position = target.position - cameraOffset;
     }
+    */
 }

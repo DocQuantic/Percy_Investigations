@@ -7,6 +7,12 @@ using UnityEngine.UI;
 public class PauseMenu : MonoBehaviour {
 
     public GameObject pauseMenu;
+    private SceneController sceneController;
+
+    private void Start()
+    {
+        sceneController = SceneController.instance;
+    }
 
     public void Update()
     {
@@ -26,9 +32,10 @@ public class PauseMenu : MonoBehaviour {
         }
     }
 
-    public void LoadMap(int mapInteger)
+    public void LoadMap()
     {
-        SceneManager.LoadScene(mapInteger);
+        pauseMenu.SetActive(false);
+        sceneController.LoadMap();
     }
 
     public void ExitGame()

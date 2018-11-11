@@ -10,6 +10,11 @@ public class InventoryUI : MonoBehaviour {
     private InventoryManager inventory;
     private InventorySlot[] slots;
 
+    private void Awake()
+    {
+        DontDestroyOnLoad(gameObject);
+    }
+
     private void Start()
     {
         inventory = InventoryManager.instance;

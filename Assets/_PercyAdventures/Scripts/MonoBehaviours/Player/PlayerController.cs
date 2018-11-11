@@ -33,10 +33,23 @@ public class PlayerController : MonoBehaviour {
 
                 if (Physics.Raycast(ray, out hitInfo))
                 {
-                    Interactable interactable = hitInfo.transform.GetComponent<Interactable>();
-                    if (interactable.canInteract)
+
+                    //Debug.DrawLine(Camera.main.transform.position, hitInfo.point, Color.red, 2.0f);
+                    //Debug.Log(hitInfo.transform.name);
+                    Interactable interactable;
+                    if (hitInfo.transform.GetComponent<Interactable>())
                     {
-                        interactable.Interact();
+                        Debug.Log("Hit an interactable");
+                        interactable = hitInfo.transform.GetComponent<Interactable>();
+
+                        if (interactable.canInteract)
+                        {
+                            interactable.Interact();
+                        }
+                    }
+                    else
+                    {
+                        interactable = null;
                     }
                 }
             }

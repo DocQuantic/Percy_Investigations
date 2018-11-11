@@ -39,12 +39,22 @@ public class DialogueManager : MonoBehaviour {
 
     private void OnEnable()
     {
-        playerController = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
+        if(GameObject.FindGameObjectWithTag("Player"))
+        {
+            playerController = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
+        }
+        else
+        {
+            playerController = null;
+        }
     }
 
     private void OnDisable()
     {
-        playerController = null;
+        if (playerController != null)
+        {
+            playerController = null;
+        }
     }
 
     public void StartDialogue(Dialogue dialogue)

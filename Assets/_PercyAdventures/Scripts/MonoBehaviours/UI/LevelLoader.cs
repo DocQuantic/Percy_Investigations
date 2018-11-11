@@ -5,9 +5,17 @@ using UnityEngine.UI;
 
 public class LevelLoader : MonoBehaviour {
 
-    public GameObject loadingScreen;
-    public Slider progressSlider;
-    public Text progressStatus;
+    private SceneController sceneController;
+
+    private void Start()
+    {
+        sceneController = SceneController.instance;
+    }
+
+    public void LoadLevel(string sceneName)
+    {
+        sceneController.FadeAndLoadScene(sceneName);
+    }
 
     /*
     public void LoadLevel(int sceneIndex)
