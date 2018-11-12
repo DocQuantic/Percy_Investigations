@@ -5,12 +5,14 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour {
     
     private PlayerMotor motor;
-    public bool isInteracting;
+    private PlayerManager playerManager;
 
     private void Start()
     {
-        isInteracting = false;
         motor = GetComponent<PlayerMotor>();
+
+        playerManager = PlayerManager.instance;
+        playerManager.isInteracting = false;
     }
 
     private void Update()
@@ -18,7 +20,7 @@ public class PlayerController : MonoBehaviour {
         float xInput = Input.GetAxis("Horizontal");
         float yInput = Input.GetAxis("Vertical");
 
-        if (!isInteracting)
+        if (!playerManager.isInteracting)
         {
             if (xInput != 0 || yInput != 0)
             {

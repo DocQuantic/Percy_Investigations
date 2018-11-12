@@ -26,7 +26,7 @@ public class DialogueManager : MonoBehaviour {
 
     #endregion
 
-    private PlayerController playerController;
+    private PlayerManager playerManager;
 
     private Queue<string> sentences;
     private Queue<Character> characters;
@@ -35,8 +35,11 @@ public class DialogueManager : MonoBehaviour {
     {
         sentences = new Queue<string>();
         characters = new Queue<Character>();
+
+        playerManager = PlayerManager.instance;
     }
 
+    /*
     private void OnEnable()
     {
         if(GameObject.FindGameObjectWithTag("Player"))
@@ -56,10 +59,11 @@ public class DialogueManager : MonoBehaviour {
             playerController = null;
         }
     }
+    */
 
     public void StartDialogue(Dialogue dialogue)
     {
-        playerController.isInteracting = true;
+        playerManager.isInteracting = true;
 
         sentences.Clear();
         characters.Clear();
@@ -92,7 +96,7 @@ public class DialogueManager : MonoBehaviour {
     public void StopDialogue()
     {
         OnDialogueStopCallback.Invoke();
-        playerController.isInteracting = false;
+        playerManager.isInteracting = false;
     }
 
 }

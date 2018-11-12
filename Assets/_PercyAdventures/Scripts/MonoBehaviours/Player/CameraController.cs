@@ -23,16 +23,20 @@ public class CameraController : MonoBehaviour {
         FindTargetInit();
         target.position = initTargetPos;
 
-        player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        playerManager = PlayerManager.instance;
+        player = playerManager.GetPlayer();
     }
     
     private void Update()
     {
-        if (Input.GetAxis("Mouse ScrollWheel") != 0)
+        if (!playerManager.isInteracting)
         {
-            Zoom();
+            if (Input.GetAxis("Mouse ScrollWheel") != 0)
+            {
+                Zoom();
+            }
+            UpdateTargetPosition();
         }
-        UpdateTargetPosition();
     }
     
     private void LateUpdate()
