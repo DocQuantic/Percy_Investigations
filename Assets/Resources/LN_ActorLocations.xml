@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Do you know where I could find M Cole et M Norrington?"></Sentence>
+    <Sentence character="Liam Neligan" string="Mr Cole told us he would stay at home all day long. Edward is also at his home learning his new lines."></Sentence>
+    <Sentence character="Percy White" string="His new lines?"></Sentence>
+    <Sentence character="Liam Neligan" string="The representations continue and Mr Cole has chosen Edward to replace Marcus’ lead role."></Sentence>
+    <Sentence character="Percy White" string="Interesting..."></Sentence>
+  </Sentences>
+</Dialogue>

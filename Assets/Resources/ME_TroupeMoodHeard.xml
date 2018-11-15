@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="I heard that the atmosphere within the troupe wasn’t at its best..."></Sentence>
+    <Sentence character="Miles Evans" string="It wasn’t all rosy. The actors don’t feel affection for each other, the worst being Messrs Blayton and Norrington. Not a day went by without them yelling at each other. Mr Blayton was unpleasant with everyone here but Mrs Pitkins. I don’t really know why."></Sentence>
+    <Sentence character="Percy White" string="You mentioned some animosity between both lead actors. When was their last altercation ?"></Sentence>
+    <Sentence character="Miles Evans" string="I might have heard them arguing yesterday, while other actors were ending the rehearsals. It was about an hour before the troupe went to have dinner in town."></Sentence>
+    <Sentence character="Percy White" string="You didn’t go with them ?"></Sentence>
+    <Sentence character="Miles Evans" string="No, I had to fix the curtain opening mechanism as soon as possible."></Sentence>
+  </Sentences>
+</Dialogue>

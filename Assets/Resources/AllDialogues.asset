@@ -12,11 +12,25 @@ MonoBehaviour:
   m_Name: AllDialogues
   m_EditorClassIdentifier: 
   dialogues:
-  - {fileID: 114458584687539834}
-  - {fileID: 114943623510622326}
-  - {fileID: 114723137626041968}
   - {fileID: 114699503268907092}
---- !u!114 &114458584687539834
+  - {fileID: 114562703178437442}
+  - {fileID: 114445956623630330}
+  - {fileID: 114809089878865514}
+  - {fileID: 114241517080273198}
+  - {fileID: 114833601743922148}
+  - {fileID: 114685305862150150}
+  - {fileID: 114641516614158490}
+  - {fileID: 114018812487438140}
+  - {fileID: 114784237358791382}
+  - {fileID: 114475723967732708}
+  - {fileID: 114776836295589796}
+  - {fileID: 114681180174332222}
+  - {fileID: 114735987896355834}
+  - {fileID: 114616082166733126}
+  - {fileID: 114806626539246392}
+  - {fileID: 114998553156649724}
+  - {fileID: 114348934227191352}
+--- !u!114 &114018812487438140
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -25,29 +39,233 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
-  m_Name: PH_FirstMeeting
+  m_Name: ME_TroupeMoodNewspaper
   m_EditorClassIdentifier: 
-  textFile: {fileID: 4900000, guid: 0f54ac922884ae542b62f2229bccd735, type: 3}
+  textFile: {fileID: 4900000, guid: c07f11532a8444a418838c9786ff9b67, type: 3}
   characters:
   - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
   - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
   - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
   sentences:
-  - Good morning Mr. Do you know Marcus Blayton?
-  - "That deucedly lout? If you see him, tell I\u2019m waiting resolutely for him."
-  - Marcus is dead.
-  - "What do you mean by \u201Cdead\u201D?"
-  - "He was found hanged yesterday night during the first representation of the new
-    Jonathan Cole\u2019s play."
-  - uh...Dunno this guy.
-  - "You look like you\u2019re angry with Marcus. Why that?"
-  - "I probably mixed him up with another man. I dunno this Marcus guy. Listen, you
-    should get going now, you\u2019re gonna scare my customers away."
+  - I read in newspapers an interview of Marcus Blayton in which he says that the
+    company was like a family. Is that true ?
+  - "It wasn\u2019t all rosy. The actors don\u2019t feel affection for each other,
+    the worst being Messrs Blayton and Norrington. Not a day went by without them
+    yelling at each other. Mr Blayton was unpleasant with everyone here but Mrs Pitkins.
+    I don\u2019t really know why."
+  - You mentioned some animosity between both lead actors. When was their last altercation
+    ?
+  - I might have heard them arguing yesterday, while other actors were ending the
+    rehearsals. It was about an hour before the troupe went to have dinner in town.
+  - "You didn\u2019t go with them ?"
+  - No, I had to fix the curtain opening mechanism as soon as possible.
+--- !u!114 &114241517080273198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: ME_NorringtonPlant
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: 6f287903d29017c4e80d63f6aab55c57, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - "Do you know something about M. Norrington\u2019s self-care habits ?"
+  - We did not converse that much. I know few things about him. My apologies.
+--- !u!114 &114348934227191352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: LN_TroupeMoodNewspaper
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: 50296a7e28c67f74fbc273ec0ced6ecf, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - "In the London Daily Chronicles\u2019 interview of Marcus Blayton today, the man
+    was talking about a cheerful ambiance within the troupe. Do you agree Mr Neligan?"
+  - "We couldn\u2019t say the ambiance within the troupe was at the highest level
+    of joy. To my mind, it was mostly due to Marcus who acted like a diva most of
+    the time."
+--- !u!114 &114445956623630330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: ME_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: 41319b2b8a11c51459d5884078eeafaf, type: 3}
+  characters:
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - May I help you ?
+--- !u!114 &114475723967732708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: LN_ActorLocationsKnewContinue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: 021c6beff30b89448a393ab99b33b653, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - Do you know where I could find M Cole et M Norrington?
+  - Mr Cole told us he would stay at home all day long. Edward is also at his home
+    learning his new lines.
+--- !u!114 &114562703178437442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: ME_Alibi
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: 67b75fffa6dd92a45ae489b9ead21b26, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - May I ask what you did yesterday in the afternoon?
+  - "Sure, I was in the backstage area. I was alone most of the afternoon. The curtain
+    mechanism didn\u2019t function properly, I had to repair it, which took me longer
+    than expected."
+--- !u!114 &114616082166733126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: LN_FirstMeeting
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: 0d7f77943ad11ba4d967c6cddf181931, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - "Good morning. I guess you\u2019re Mr Neligan."
+  - Yes I am. To whom am I speaking ?
+  - "Percy White, I\u2019m investigating the death of your colleague, Mr Marcus Blayton."
+  - "Pleased to meet you Mr White. Although it\u2019s a pity that we meet in these
+    unfortunate circumstances\u2026 May I help you?"
+  - "I\u2019d like to know if you recently noticed an unusual behaviour concerning
+    Mr Blayton."
+  - "No he stayed true to himself. After he arrived at the theatre in the afternoon,
+    he locked himself in his room then nobody saw him throughout the rest of the day.
+    Mr Cole, our producer, was panicking just before the representation started, they
+    looked for him everywhere but he couldn\u2019t be found. Now we understand the
+    reasons."
+--- !u!114 &114641516614158490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: ME_TroupeMoodHeard
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: 3f2d62c14da5e004683e9064d7c406ae, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - "I heard that the atmosphere within the troupe wasn\u2019t at its best..."
+  - "It wasn\u2019t all rosy. The actors don\u2019t feel affection for each other,
+    the worst being Messrs Blayton and Norrington. Not a day went by without them
+    yelling at each other. Mr Blayton was unpleasant with everyone here but Mrs Pitkins.
+    I don\u2019t really know why."
+  - You mentioned some animosity between both lead actors. When was their last altercation
+    ?
+  - I might have heard them arguing yesterday, while other actors were ending the
+    rehearsals. It was about an hour before the troupe went to have dinner in town.
+  - "You didn\u2019t go with them ?"
+  - No, I had to fix the curtain opening mechanism as soon as possible.
+--- !u!114 &114681180174332222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: LN_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: b1427130fbb73144095c72fef8fff08d, type: 3}
+  characters:
+  - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - "Mr. White\u2026 "
+--- !u!114 &114685305862150150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: ME_TroupeMood
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: ef4b1e2c242447547aa1e2112670b540, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - Can you tell me about the ambiance within the troupe?
+  - "It wasn\u2019t all rosy. The actors don\u2019t feel affection for each other,
+    the worst being Messrs Blayton and Norrington. Not a day went by without them
+    yelling at each other. Mr Blayton was unpleasant with everyone here but Mrs Pitkins.
+    I don\u2019t really know why."
+  - You mentioned some animosity between both lead actors. When was their last altercation
+    ?
+  - I might have heard them arguing yesterday, while other actors were ending the
+    rehearsals. It was about an hour before the troupe went to have dinner in town.
+  - "You didn\u2019t go with them ?"
+  - No, I had to fix the curtain opening mechanism as soon as possible.
 --- !u!114 &114699503268907092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -71,7 +289,7 @@ MonoBehaviour:
     don\u2019t hesitate to contact our informers, they could bring you the help you
     need to progress."
   - "Thank you. I\u2019ll do my best to catch the culprit, as usual."
---- !u!114 &114723137626041968
+--- !u!114 &114735987896355834
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -80,29 +298,26 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
-  m_Name: PH_KnewMB
+  m_Name: LN_Diner
   m_EditorClassIdentifier: 
-  textFile: {fileID: 4900000, guid: f1262d6285b856840b62fe369e78e760, type: 3}
+  textFile: {fileID: 4900000, guid: eeb48fcb3a8ec71498a039591c0748ea, type: 3}
   characters:
   - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
   - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
   sentences:
-  - "I\u2019m here to ask you if you still don\u2019t know Mr Blayton."
-  - "No, I still don\u2019t know the guy. How many times do I need to tell you that?"
-  - "Don\u2019t worry, this was the last time. I\u2019ve found this note in his personal
-    belongings."
-  - "Oh yeah I remember now ! I didn\u2019t understand the name of the guy when you
-    asked me. He was a one-of-a-kind customer ! But he wasn\u2019t ordering so much
-    lately. Money problems I think."
-  - I see that you have the memory of a goldfish. How did you react when you realised
-    Marcus was less and less using drugs?
-  - "For sure I was angry first. But customers like him come and go. This is not a
-    reason to kill him if it\u2019s what you have in mind."
---- !u!114 &114943623510622326
+  - "Miles Evans told me you went to dine in town yesterday, didn\u2019t you?"
+  - We did, we went to a restaurant a couple of furlongs from here.
+  - What time was it ? Was Marcus with you?
+  - "That was after the rehearsals which ended at 6pm. Marcus never joined us for
+    this sort of events. We, the actors, and the technical crew were present. Edward
+    Norrington wasn\u2019t there neither, he stopped rehearsing around 4pm then he
+    left the theatre just an hour after. Actually he seemed a little tense. The producer
+    Jonathan Cole didn\u2019t come to the dinner neither, he arrived while we were
+    getting ready to go on stage, as he is used to. Oh, and Miles didn\u2019t come
+    with us, he was repairing the curtain."
+--- !u!114 &114776836295589796
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -111,10 +326,141 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
-  m_Name: PH_DefaultDialogue
+  m_Name: LN_Alibi
   m_EditorClassIdentifier: 
-  textFile: {fileID: 4900000, guid: 7e617f80f2864f2459ac5d8803345a0a, type: 3}
+  textFile: {fileID: 4900000, guid: 21fcf61822df2b641aa7a4616340dac8, type: 3}
   characters:
-  - {fileID: 114487989441598820, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
   sentences:
-  - I told you to leave.
+  - What were you doing yesterday in the afternoon?
+  - "The other actors and I were rehearsing during the afternoon. I was with Edward
+    Norrington and Mary Pitkins. Only Edward had been away for a moment, we saw him
+    again when the representation was about to start, that\u2019s to say about 8:30pm."
+--- !u!114 &114784237358791382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: LN_ActorLocations
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: 28a2164229c695c41a23d117c4c57de0, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - Do you know where I could find M Cole et M Norrington?
+  - Mr Cole told us he would stay at home all day long. Edward is also at his home
+    learning his new lines.
+  - His new lines?
+  - "The representations continue and Mr Cole has chosen Edward to replace Marcus\u2019
+    lead role."
+  - Interesting...
+--- !u!114 &114806626539246392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: LN_NorringtonPlant
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: 526df8bc2854e4241b7e18108ac1b48b, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - Do you know if Mr Norrington treats him by himself?
+  - Yes he does, he swears only by this.
+--- !u!114 &114809089878865514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: ME_FirstMeeting
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: 5ed74334512a660498c2a15fbc609f04, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - "Good morning, my name is Percy White. I\u2019m investigating the tragic event
+    that happened yesterday. Do you know where I could find the person who raised
+    the curtain ? I may have a few questions to ask."
+  - "He\u2019s just in front of you. Miles Evans. What would you like to know?"
+  - First of all, could you tell me a bit more about what happened yesterday, just
+    before you raised the curtain ?
+  - "Well, when I started to pull the rope, it was not as usual, as if there was a
+    weight at the extremity or something obstructing it, I had to pull it with all
+    my strength. Then M. Blayton\u2019s body fell from the sky. Now I understand why
+    I had difficulties to open the curtain, the body probably got stuck with a part
+    of the decor\u2026 Anyway, I saw many things in my entire life, but this is something
+    quite striking !"
+--- !u!114 &114833601743922148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: ME_NothingParticular
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: 6029fdf8f4cba784a92d7b1d91e45ed3, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - Did you notice anything unusual yesterday ? Did you meet some people who did not
+    belong here ?
+  - "No I didn\u2019t detective. Nothing unusual. I just met Jonathan Cole, just before
+    leaving for dinner, he wanted to make sure that the curtain mechanism was repaired
+    for the representation, we had no room for error for the premi\xE8re ! But you
+    know, the Royal Opera House has been under renovation for weeks, thus anyone who
+    does not belong the theatre could have snaked in and out without being noticed.
+    Anyone can currently waltz into the theatre as they please."
+  - "So you checked that the curtain was opening properly just before going to eat,
+    didn\u2019t you?"
+  - I did. There was no body hanged up there, I assure you. Everything worked perfectly.
+  - What time did you leave to go for dinner?
+  - "Uh let me think\u2026 It was a bit after 6:30pm if my memories serve me correctly."
+--- !u!114 &114998553156649724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: LN_TroupeMood
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: d9d9b494916474240bd9817f22af9036, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - How would you consider the ambiance within the troupe ?
+  - "We couldn\u2019t say the ambiance within the troupe was at the highest level
+    of joy. To my mind, it was mostly due to Marcus who acted like a diva most of
+    the time."
