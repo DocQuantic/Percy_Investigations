@@ -82,9 +82,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
   m_Name: EB_HiddenTreasure
   m_EditorClassIdentifier: 
-  textFile: {fileID: 0}
-  characters: []
-  sentences: []
+  textFile: {fileID: 4900000, guid: 46d603f3be932594b87b9645399f5ab9, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - Do you also think that your father hide part of its fortune ?
+  - "If I believe my brother, yes he did. To Robert, this money comes down to us.
+    A way to compensate the lack of education from our father. Unfortunately, if this
+    rumour is true, nobody knows where the money is\u2026"
 --- !u!114 &114172950058349086
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -96,9 +102,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
   m_Name: MG_DefaultDialogue
   m_EditorClassIdentifier: 
-  textFile: {fileID: 0}
-  characters: []
-  sentences: []
+  textFile: {fileID: 4900000, guid: 7f531c7ff7d3fda4ea58047c05453900, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - "G\xE9raldine. I have other questions to ask."
+  - "I\u2019m listening."
 --- !u!114 &114180240737097622
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -110,9 +120,47 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
   m_Name: EB_Handkerchief
   m_EditorClassIdentifier: 
-  textFile: {fileID: 0}
-  characters: []
-  sentences: []
+  textFile: {fileID: 4900000, guid: eaf9b008be978034ba0fcb8b427dca1b, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - "An embroidered handkerchief with initials E.B. was found very close to the stage
+    where your father was found dead. Can you tell me if it belongs to you, and if
+    it\u2019s the case, why was it there?"
+  - "Ah\u2026 I prefer not to speak about this detective."
+  - "Ms. Blayton, it\u2019s not like if you had the choice. We found an evidence revealing
+    that you were on the crime scene, placing you as the main suspect. So you will
+    tell me why, now."
+  - "If you insist detective\u2026 But don\u2019t say anything to my brother, I beg
+    you."
+  - It will be our secret Ms. Blayton.
+  - "The handkerchief is mine indeed. As you may know, the relationship between my
+    father and my brother isn\u2019t the one a father and his son should have, and
+    this has been for several years now. Robert had to assume our father\u2019s responsibilities
+    and took care of our mother and me, he gave me everything and made me who I am
+    now. Because of our father\u2019s behaviour, he forbade me to see him again. I
+    haven\u2019t seen my father since many years now. I\u2019ve been trying to find
+    him for a couple of weeks now, which was rather easy given his renown. As soon
+    as I was told he was coming to London for a series of representations, I thought
+    it was an opportunity for me to go and meet him so that he gives me an explanation.
+    On Saturday I decided to go to the theatre, he was rehearsing his role. I discreetly
+    slipped into the theatre and hid behind a curtain to watch him, but I was not
+    able to go and talk to him at that moment. Then I saw his odious behaviour towards
+    the other actors and the technical team, which revives me his absence when I was
+    a child, and how he badly treated my mother and my brother the very short time
+    he was at home. Past rose to the surface. I simply burst into tears. I was paralysed,
+    then after a short time I ran away the fastest as I can to escape this place,
+    and go far away from this man. This is the moment I probably lost my handkerchief,
+    everything was so sudden\u2026 Once again Detective White, promise me you won\u2019t
+    talk to Robert about this, it would devastate him."
+  - "I give you my word Ms. Blayton. Thank you very much for your testimony, I guess
+    it wasn\u2019t easy for you to live."
 --- !u!114 &114215958981000468
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -124,9 +172,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
   m_Name: MG_FoundPicture
   m_EditorClassIdentifier: 
-  textFile: {fileID: 0}
-  characters: []
-  sentences: []
+  textFile: {fileID: 4900000, guid: 192af011eb4d63345b110af347e5b312, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - I found the picture you need.
+  - "I know this guy. There was a time when he often came here. I haven\u2019t seen
+    him for at least 3 months. Girls say that he found the true love."
+  - Interesting. Did he come regularly ?
+  - Oooh yes ! He was one of our best clients. He could have made run our business
+    alone at that time.
+  - Do you remember when he used to visit the place ?
+  - Yes, it was some years ago. I think he was just getting married. Poor lady ...
+  - "Thank you G\xE9raldine. Do you have any other information for me ?"
+  - "Unless you invite me for a tea, I don\u2019t see anything."
+  - "I\u2019ll think about it. Meanwhile, I have a case to solve. See you soon G\xE9raldine."
+  - I hope so mon petit !
 --- !u!114 &114241517080273198
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -156,9 +226,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
   m_Name: EB_DefaultDialogue
   m_EditorClassIdentifier: 
-  textFile: {fileID: 0}
-  characters: []
-  sentences: []
+  textFile: {fileID: 4900000, guid: 15ac673adcab1da499a4a6b530a03e5b, type: 3}
+  characters:
+  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - How can I help you detective ?
 --- !u!114 &114348934227191352
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -191,9 +263,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
   m_Name: EB_FirstMeeting
   m_EditorClassIdentifier: 
-  textFile: {fileID: 0}
-  characters: []
-  sentences: []
+  textFile: {fileID: 4900000, guid: 9ec17c046783833489ae3f81d3924521, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - "Good morning. I\u2019m looking for Ms. Elizabeth Blayton."
+  - "You\u2019ve just found her, good morning ..."
+  - "\u2026 Detective Percy White. I\u2019m investigating on your father\u2019s death.
+    My condolences. If you don\u2019t mind, I have some questions to ask you."
+  - "Oh \u2026 I don\u2019t have a lot of time but I\u2019m listening, detective."
+  - "I\u2019ll be short."
 --- !u!114 &114445956623630330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -221,9 +304,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
   m_Name: EB_ParentsRelationship
   m_EditorClassIdentifier: 
-  textFile: {fileID: 0}
-  characters: []
-  sentences: []
+  textFile: {fileID: 4900000, guid: 0e52aea287a6bdd4fbbd8dd947adbcf4, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - What can you tell me about the relationship between your parents?
+  - "Oh, it wasn\u2019t great. I think we can\u2019t say they still loved each other.
+    They could bare each other but the career of my father didn\u2019t make the things
+    easier."
+  - What about your relation with your father ?
 --- !u!114 &114475723967732708
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -337,9 +428,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
   m_Name: MG_FirstMeetingNoPicture
   m_EditorClassIdentifier: 
-  textFile: {fileID: 0}
-  characters: []
-  sentences: []
+  textFile: {fileID: 4900000, guid: baf258b6595a3e64ba8670b05196f8e4, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - "Hello G\xE9raldine, how is your business ?"
+  - "Percy ! It\u2019s been a while ! How are you ?"
+  - "Yes, quite a long time indeed. You know that I don\u2019t really like to come
+    into this sort of places\u2026"
+  - Yes, you do not. So I guess that if you came here, you must have a very good reason.
+    How can I help you ?
+  - "I\u2019m investigating on the death of Marcus Blayton, the actor. Do you know
+    him ?"
+  - "Mmmmh. This name doesn\u2019t sound like unknown to me. But our clients don\u2019t
+    reveal their identities. Do you have a picture of this man ?"
+  - "No, I\u2019ll get you that."
+  - Good. You know where I am.
 --- !u!114 &114681180174332222
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -449,9 +560,47 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
   m_Name: MG_FirstMeetingHasPicture
   m_EditorClassIdentifier: 
-  textFile: {fileID: 0}
-  characters: []
-  sentences: []
+  textFile: {fileID: 4900000, guid: 7626f1f1381763d41bd79dc50cce3e8f, type: 3}
+  characters:
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  - {fileID: 114371873576251078, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - "Hello G\xE9raldine, how is your business ?"
+  - "Percy ! It\u2019s been a while ! How are you ?"
+  - "Yes, quite a long time indeed. You know that I don\u2019t really like to come
+    into this sort of places\u2026"
+  - Yes, you do not. So I guess that if you came here, you must have a very good reason.
+    How can I help you ?
+  - "I\u2019m investigating on the death of Marcus Blayton, the actor. Do you know
+    him ?"
+  - "Mmmmh. This name doesn\u2019t sound like unknown to me. But our clients don\u2019t
+    reveal their identities. Do you have a picture of this man ?"
+  - Here it is.
+  - "I know this guy. There was a time when he often came here. I haven\u2019t seen
+    him for at least 3 months. Girls say that he found the true love."
+  - Interesting. Did he come regularly ?
+  - Oooh yes ! He was one of our best clients. He could have made run our business
+    alone at that time.
+  - Do you remember when he used to visit the place ?
+  - Yes, it was some years ago. I think he was just getting married. Poor lady ...
+  - "Thank you G\xE9raldine. Do you have any other information for me ?"
+  - "Unless you invite me for a tea, I don\u2019t see anything."
+  - "I\u2019ll think about it. Meanwhile, I have a case to solve. See you soon G\xE9raldine."
+  - I hope so mon petit !
 --- !u!114 &114776836295589796
 MonoBehaviour:
   m_ObjectHideFlags: 0
