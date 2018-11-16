@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning. I’m looking for Ms. Elizabeth Blayton."></Sentence>
+    <Sentence character="Elizabeth Blayton" string="You’ve just found her, good morning ..."></Sentence>
+    <Sentence character="Percy White" string="… Detective Percy White. I’m investigating on your father’s death. My condolences. If you don’t mind, I have some questions to ask you."></Sentence>
+    <Sentence character="Elizabeth Blayton" string="Oh … I don’t have a lot of time but I’m listening, detective."></Sentence>
+    <Sentence character="Percy White" string="I’ll be short."></Sentence>
+  </Sentences>
+</Dialogue>

@@ -30,6 +30,15 @@ MonoBehaviour:
   - {fileID: 114806626539246392}
   - {fileID: 114998553156649724}
   - {fileID: 114348934227191352}
+  - {fileID: 114274408416833456}
+  - {fileID: 114351056028800198}
+  - {fileID: 114180240737097622}
+  - {fileID: 114134688718911900}
+  - {fileID: 114463941567156838}
+  - {fileID: 114172950058349086}
+  - {fileID: 114740123346613708}
+  - {fileID: 114655729801469498}
+  - {fileID: 114215958981000468}
 --- !u!114 &114018812487438140
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62,6 +71,62 @@ MonoBehaviour:
     rehearsals. It was about an hour before the troupe went to have dinner in town.
   - "You didn\u2019t go with them ?"
   - No, I had to fix the curtain opening mechanism as soon as possible.
+--- !u!114 &114134688718911900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EB_HiddenTreasure
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114172950058349086
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: MG_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114180240737097622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EB_Handkerchief
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114215958981000468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: MG_FoundPicture
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114241517080273198
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -80,6 +145,20 @@ MonoBehaviour:
   sentences:
   - "Do you know something about M. Norrington\u2019s self-care habits ?"
   - We did not converse that much. I know few things about him. My apologies.
+--- !u!114 &114274408416833456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EB_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114348934227191352
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -101,6 +180,20 @@ MonoBehaviour:
   - "We couldn\u2019t say the ambiance within the troupe was at the highest level
     of joy. To my mind, it was mostly due to Marcus who acted like a diva most of
     the time."
+--- !u!114 &114351056028800198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EB_FirstMeeting
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114445956623630330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -117,6 +210,20 @@ MonoBehaviour:
   - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
   sentences:
   - May I help you ?
+--- !u!114 &114463941567156838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EB_ParentsRelationship
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114475723967732708
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -219,6 +326,20 @@ MonoBehaviour:
     rehearsals. It was about an hour before the troupe went to have dinner in town.
   - "You didn\u2019t go with them ?"
   - No, I had to fix the curtain opening mechanism as soon as possible.
+--- !u!114 &114655729801469498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: MG_FirstMeetingNoPicture
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114681180174332222
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -317,6 +438,20 @@ MonoBehaviour:
     Jonathan Cole didn\u2019t come to the dinner neither, he arrived while we were
     getting ready to go on stage, as he is used to. Oh, and Miles didn\u2019t come
     with us, he was repairing the curtain."
+--- !u!114 &114740123346613708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: MG_FirstMeetingHasPicture
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114776836295589796
 MonoBehaviour:
   m_ObjectHideFlags: 0
