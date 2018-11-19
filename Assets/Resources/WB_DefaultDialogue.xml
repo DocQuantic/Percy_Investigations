@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Wallace. Could we discuss ?"></Sentence>
+    <Sentence character="Wallace Brown" string="Well, accepting your request is the only way to make you leave I guess. What do you want ?"></Sentence>
+  </Sentences>
+</Dialogue>

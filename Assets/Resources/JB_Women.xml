@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="I’ve been told that your husband’s guilty pleasure was ladies."></Sentence>
+    <Sentence character="Jane Blayton" string="What do you mean ?"></Sentence>
+    <Sentence character="Percy White" string="Did your husband had extramarital relations ?"></Sentence>
+    <Sentence character="Jane Blayton" string="No… I’ve never heard such a thing."></Sentence>
+    <Sentence character="Percy White" string="This is quite surprising. I have a trusty source that told me he used to go to the Grey Cat."></Sentence>
+    <Sentence character="Jane Blayton" string="Well done, you got me ! What a great detective you are. I’m surprised that they entrusted you this simple case."></Sentence>
+    <Sentence character="Percy White" string="I think that the situation is much more complex than you think. There are too many people hiding things from me in this case to believe this suicide hypothesis. Now, answer my question please."></Sentence>
+    <Sentence character="Jane Blayton" string="Your wish is my command. Marcus and I loved each other. At least at the beginning. I rapidly realized that he was concerned by other ladies."></Sentence>
+    <Sentence character="Percy White" string="How did you react ?"></Sentence>
+    <Sentence character="Jane Blayton" string="Well, I think I expected it and finally accepted it. I must say I didn’t deprived myself on my side."></Sentence>
+    <Sentence character="Percy White" string="Why didn’t you separate ?"></Sentence>
+    <Sentence character="Jane Blayton" string="This is a very good question I asked myself many times. At the beginning, I stayed for the children. Then, when they grew up, I think I was used to it and it became our way of life. Moreover, Marcus let me take advantage of his fortune."></Sentence>
+  </Sentences>
+</Dialogue>

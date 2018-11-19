@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Will Mason" string="Well hello Percy, to what do we owe the pleasure? A sudden need to hear my last theory about light quanta ? Or entangled vortices?"></Sentence>
+    <Sentence character="Percy White" string="-he laughs. No Will, on another occasion I promise. I’m investigating the death of the actor Marcus Blayton."></Sentence>
+    <Sentence character="Will Mason" string="Oh, the poor guy who died on stage yesterday? What a sordid story yeah..."></Sentence>
+  </Sentences>
+</Dialogue>

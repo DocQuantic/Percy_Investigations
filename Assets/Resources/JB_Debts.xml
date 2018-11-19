@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="About his recent lifestyle, do you think it’s possible that Marcus owed money to somebody ?"></Sentence>
+    <Sentence character="Jane Blayton" string="I have no idea. Marcus didn’t speak a lot about his problems. Actually, he lost the habit of talking to me. But now that you ask, a man came last Saturday. Marcus was at the theater for rehearsals. This man wanted to see him then he threatened me. He told me to tell Marcus that he knew people and wouldn’t hesitate to call on these guys’ services if Marcus didn’t do what he had to."></Sentence>
+    <Sentence character="Percy White" string="I guess you don’t know his name ?"></Sentence>
+    <Sentence character="Jane Blayton" string="No.I just know that he’s a dark-haired man with a scar on his face."></Sentence>
+    <Sentence character="Percy White" string="Thank you Ms. Blayton."></Sentence>
+  </Sentences>
+</Dialogue>

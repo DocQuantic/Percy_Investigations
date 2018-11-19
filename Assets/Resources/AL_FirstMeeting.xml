@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning Arthur, as you may already know, I’m charged with Marcus Blayton’s death."></Sentence>
+    <Sentence character="Arthur Lewis" string="Good morning Percy, it’s always a pleasure to see you. What a damned story, my wife bought two tickets to attend his performance. When I told her what happened I noted her disappointment by looking into her eyes."></Sentence>
+    <Sentence character="Percy White" string="It’s terribly sad indeed. Could you share some details with me about this case ?"></Sentence>
+    <Sentence character="Arthur Lewis" string="There isn’t too much to say actually. Given the circumstances, it’s about suicide. If you go and see Wallace, our beloved coroner, I’m sure he will tell you it’s not. Beware of this insane man. Don’t forget that he talks with dead people… Blayton certainly wasn’t able to handle the pressure due to the tour and decided to end his life. What better way for an artist than dying on stage, which is actually not surprising for someone like Marcus Blayton, this man loved to catch everyone’s attention. The only incongruity in this scenario is the absence of a goodbye note intended for his relatives, but hey you know, actors and their unexpected whims… To my mind, this case is a bit too simple for great detective Percy White. - he smiles"></Sentence>
+    <Sentence character="Percy White" string="I see. I truly thank you for your informations Arthur. Give your wife my regards."></Sentence>
+    <Sentence character="Arthur Lewis" string="I certainly will ! It’s always an enjoyment to help your in your investigations. I like to think I’m a little bit responsible when you solve your cases. - he laughs"></Sentence>
+    <Sentence character="Percy White" string="No doubt Arthur. See you soon."></Sentence>
+  </Sentences>
+</Dialogue>

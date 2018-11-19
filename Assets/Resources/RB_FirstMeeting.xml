@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Mr. Blayton ?"></Sentence>
+    <Sentence character="Robert Blayton" string="I prefer to be called Robert if you don’t mind."></Sentence>
+    <Sentence character="Percy White" string="Ok Robert. So  you are Marcus Blayton’s son, aren’t you ?"></Sentence>
+    <Sentence character="Robert Blayton" string="Biological son, yes… - he gives a sigh. Who are you ?"></Sentence>
+    <Sentence character="Percy White" string="Detective Percy White. I’m investigating on the death of your father. My condolences."></Sentence>
+    <Sentence character="Robert Blayton" string="I don’t want to be impolite Mr. White but you can keep your condolences. I don’t really like to speak about him, even less after what happened to him."></Sentence>
+  </Sentences>
+</Dialogue>

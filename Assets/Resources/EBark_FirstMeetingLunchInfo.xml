@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Emily Barker" string="Oh good morning detective White, how are you ? It’s been a long time ! I think our last meeting dates from your last case, the tailcoats gang case."></Sentence>
+    <Sentence character="Percy White" string="Haha yes, one of my greatest investigations. - they both laugh."></Sentence>
+    <Sentence character="Emily Barker" string="More seriously, are you in charge of a new one ? Maybe it is about the death of Marcus Blayton, isn’t it ?"></Sentence>
+    <Sentence character="Percy White" string="You didn’t become a journalist by luck Ms. Barker. Indeed, I’m investigating about his mysterious death. I’m coming here in order to know if you have informations that I ignore."></Sentence>
+    <Sentence character="Emily Barker" string="Well, you couldn’t find a better place ! I’ve just interviewed Mr. Marcus Blayton yesterday morning, on the occasion of the first representation. We publish it today, as it was planned, but we didn’t think that it would sell that much. The Lord works in mysterious ways."></Sentence>
+    <Sentence character="Percy White" string="Oh, Is it possible for you to summarise me this interview ? Particularly the informations likely to help me ?"></Sentence>
+    <Sentence character="Emily Barker" string="I will give you all what you need detective White - charming smile. She takes the newspaper on her desk. You will find the interview on page 2."></Sentence>
+    <Sentence character="Percy White" string="Fantastic, thank you Mrs Barker. Could you give me any relevant details about this interview that are not mentioned in the newspaper? How did the interview go?"></Sentence>
+    <Sentence character="Emily Barker" string="It was not a simple one !"></Sentence>
+    <Sentence character="Percy White" string="Why that?"></Sentence>
+    <Sentence character="Emily Barker" string="Well, he initially wanted to do it in his home, and he also wanted us to give him the questions list in advance… We negotiated: we did it in his home but we didn’t give him the questions. The interview was planned to start at 9:30a.m. but we had been waiting for one hour and a half with his butler when he finally arrived at 11 o’clock."></Sentence>
+    <Sentence character="Percy White" string="Do you know where he was ?"></Sentence>
+    <Sentence character="Emily Barker" string="No I don’t. Nobody knew where he was all night."></Sentence>
+    <Sentence character="Percy White" string="So you started when he arrived, at 11?"></Sentence>
+    <Sentence character="Emily Barker" string="Not exactly… He wanted a rare and expensive bottle of scotch which he didn’t have anymore, he sent his staff to buy one. Finally, we started at noon. But we had to be quick because he had a lunch at 1 p.m."></Sentence>
+    <Sentence character="Percy White" string="So you started at 12 a.m., right ?"></Sentence>
+    <Sentence character="Emily Barker" string="Yes. we discussed half an hour, that’s why the interview is not as long as it was planned. Anyway, you’re not here to hear my complains, so I will try to give you what you need. Emily has a glance at her notes. I have the feeling that everything is said in the interview, except maybe a troubling detail.. When I asked “Is it possible to meet again after the last representation ?” he answered  that he wouldn’t be available at this time, he didn’t say more about the reasons. He added that he would like us to remove this information from the interview. It would maybe confirm the suicide hypothesis, except that he killed himself at the first representation and not the last one… What do you think detective White ?"></Sentence>
+    <Sentence character="Percy White" string="You’re right, this is strange … I will investigate about this, I thank you very much for these informations."></Sentence>
+    <Sentence character="Emily Barker" string="It’s my pleasure M. White, it’s always a pleasure to receive you. Don’t wait the next case to come to see me ! - she smiles."></Sentence>
+    <Sentence character="Percy White" string="he smiles. I certainly will not."></Sentence>
+  </Sentences>
+</Dialogue>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="This is for you Walter. Could you now tell me something about Marcus Blayton?"></Sentence>
+    <Sentence character="Walter Fox" string="Come on Percy, without my newspaper AND my little doughnuts, you know that I can’t remember anything, they are my fuel. - laugh"></Sentence>
+    <Sentence character="Percy White" string="Of course Walter, of course..."></Sentence>
+    </Sentences>
+</Dialogue>

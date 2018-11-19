@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="You told me you “kindly” reminded his debts to Mr. Blayton, but his wife told me that you came to their house."></Sentence>
+    <Sentence character="Peter Hurtley" string="Listen detective, I really needed the money… So I came to his home on Saturday and I unexpectedly met his wife."></Sentence>
+    <Sentence character="Percy White" string="So you threatened her ?"></Sentence>
+    <Sentence character="Peter Hurtley" string="I tried to frighten her a bit. I said to myself that if she were scared, she could put pressure on her husband… But nothing more detective, I promise."></Sentence>
+  </Sentences>
+</Dialogue>

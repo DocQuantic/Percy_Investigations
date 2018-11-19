@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="I found one of your cigar in Marcus’ dressing room."></Sentence>
+    <Sentence character="Edward Norrington" string="Yes. It’s true, we used to discuss before the show. We mainly talked about this and that."></Sentence>
+    <Sentence character="Percy White" string="From what technicians said, your discussion was more an argument rather than a simple discussion between two old friends."></Sentence>
+    <Sentence character="Edward Norrington" string="We can’t hide anything from you, can we? We had a big argument, it’s true."></Sentence>
+    <Sentence character="Percy White" string="Why ?"></Sentence>
+    <Sentence character="Edward Norrington" string="I tried for the umpteenth time to reason with him concerning his star whims. He really treated the technical people like dirt."></Sentence>
+    <Sentence character="Percy White" string="Did you leave each other on good terms ?"></Sentence>
+    <Sentence character="Edward Norrington" string="He just asked me to leave, which I did. Further to which I went to eat a bit alone before the show began."></Sentence>
+  </Sentences>
+</Dialogue>

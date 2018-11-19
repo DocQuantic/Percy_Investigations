@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="What were you doing yesterday in the late afternoon ?"></Sentence>
+    <Sentence character="Peter Hurtley" string="Yesterday was Sunday, I was at home reviewing the incomes of the past week Det."></Sentence>
+    <Sentence character="Percy White" string="Does someone can confirm ?"></Sentence>
+    <Sentence character="Peter Hurtley" string="Unfortunately no, but I didn’t kill your guy, I’m not a killer, just a little delinquent trying to survive in London to support my family."></Sentence>
+  </Sentences>
+</Dialogue>

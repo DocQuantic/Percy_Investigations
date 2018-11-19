@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="I have a new element concerning poisoning.  Now, if I tell you that the victim used to take opium. Do you still think the same ?"></Sentence>
+    <Sentence character="Wallace Brown" string="Everything’s changed ! Why didn’t you start by this point ? Now it is possible, it would explain why I didn’t see any contraction during the autopsy. Opium has the property to relax muscles. But it would be needed to mix it in the same solution than the hemlock."></Sentence>
+    <Sentence character="Percy White" string="That’s what I thought. Thank you for confirming it."></Sentence>
+  </Sentences>
+</Dialogue>

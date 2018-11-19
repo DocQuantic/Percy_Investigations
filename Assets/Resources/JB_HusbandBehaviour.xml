@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Did you notice some rum change in your husband’s behavior lately?"></Sentence>
+    <Sentence character="Jane Blayton" string="It would be quicker to tell you what wasn’t peculiar with him. But he didn’t have unusual habits recently. He still was the man he was. Although Marcus was not exactly the Marcus I married."></Sentence>
+    <Sentence character="Percy White" string="How would you define your relations with Marcus ?"></Sentence>
+    <Sentence character="Jane Blayton" string="I don’t want to lie. It was really different from what it was at the very beginning. When his fame started to grow, he often left on tour, he didn’t have time anymore to take care of his family. I think it was at this moment that our relation started to deteriorate."></Sentence>
+  </Sentences>
+</Dialogue>

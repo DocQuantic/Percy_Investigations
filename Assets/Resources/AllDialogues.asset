@@ -30,15 +30,146 @@ MonoBehaviour:
   - {fileID: 114806626539246392}
   - {fileID: 114998553156649724}
   - {fileID: 114348934227191352}
-  - {fileID: 114274408416833456}
-  - {fileID: 114351056028800198}
-  - {fileID: 114180240737097622}
-  - {fileID: 114134688718911900}
-  - {fileID: 114463941567156838}
   - {fileID: 114172950058349086}
   - {fileID: 114740123346613708}
   - {fileID: 114655729801469498}
   - {fileID: 114215958981000468}
+  - {fileID: 114346803905321472}
+  - {fileID: 114179252582178274}
+  - {fileID: 114646908551298240}
+  - {fileID: 114161943623985832}
+  - {fileID: 114121011832414664}
+  - {fileID: 114663046015322760}
+  - {fileID: 114243169398890834}
+  - {fileID: 114774754572187798}
+  - {fileID: 114048714613309704}
+  - {fileID: 114474887647125320}
+  - {fileID: 114563123471878664}
+  - {fileID: 114898648171407644}
+  - {fileID: 114156675015549340}
+  - {fileID: 114454937462170432}
+  - {fileID: 114502714276389648}
+  - {fileID: 114873004949265824}
+  - {fileID: 114936442130137878}
+  - {fileID: 114590134895377196}
+  - {fileID: 114588086550690622}
+  - {fileID: 114057973990281980}
+  - {fileID: 114648691776598980}
+  - {fileID: 114012724004750790}
+  - {fileID: 114767978103307078}
+  - {fileID: 114320167306570832}
+  - {fileID: 114107194582621656}
+  - {fileID: 114448426961789940}
+  - {fileID: 114747367771366746}
+  - {fileID: 114286375296991126}
+  - {fileID: 114438866980071308}
+  - {fileID: 114931141383534684}
+  - {fileID: 114356945519565184}
+  - {fileID: 114969585374460530}
+  - {fileID: 114801742970739768}
+  - {fileID: 114685433757433786}
+  - {fileID: 114465518217267318}
+  - {fileID: 114017999875034258}
+  - {fileID: 114855733822630172}
+  - {fileID: 114561935327652006}
+  - {fileID: 114814221162926358}
+  - {fileID: 114352757831216910}
+  - {fileID: 114019052426793962}
+  - {fileID: 114026418119483774}
+  - {fileID: 114133224260062388}
+  - {fileID: 114568315221476382}
+  - {fileID: 114080226543334982}
+  - {fileID: 114001858613426588}
+  - {fileID: 114968035475860664}
+  - {fileID: 114706745410845692}
+  - {fileID: 114534832696448064}
+  - {fileID: 114691806216523684}
+  - {fileID: 114761939930589178}
+  - {fileID: 114579517951396976}
+  - {fileID: 114712266162489336}
+  - {fileID: 114047979115404560}
+  - {fileID: 114768893410478750}
+  - {fileID: 114049279488618302}
+  - {fileID: 114808476332276766}
+  - {fileID: 114021929520476594}
+  - {fileID: 114229841701492922}
+  - {fileID: 114315049619692874}
+  - {fileID: 114995651563016814}
+  - {fileID: 114833324155813398}
+  - {fileID: 114128079103611658}
+  - {fileID: 114977971305545246}
+  - {fileID: 114315517649745448}
+  - {fileID: 114638065423261192}
+  - {fileID: 114202591472683582}
+  - {fileID: 114408891453452006}
+  - {fileID: 114438314555402318}
+  - {fileID: 114138548820383624}
+  - {fileID: 114373237871861698}
+  - {fileID: 114493533337239300}
+  - {fileID: 114643575610619616}
+  - {fileID: 114014094350156916}
+  - {fileID: 114746775091358840}
+  - {fileID: 114858399589062194}
+  - {fileID: 114718046419956892}
+  - {fileID: 114904676310607920}
+  - {fileID: 114684934831352770}
+  - {fileID: 114731550981496944}
+--- !u!114 &114001858613426588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: PH_Debts
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114012724004750790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JB_HusbandBehaviour
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114014094350156916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WM_BloodSamplePlants
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114017999875034258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JC_WifeAffairMarcusNewStart
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114018812487438140
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -71,7 +202,7 @@ MonoBehaviour:
     rehearsals. It was about an hour before the troupe went to have dinner in town.
   - "You didn\u2019t go with them ?"
   - No, I had to fix the curtain opening mechanism as soon as possible.
---- !u!114 &114134688718911900
+--- !u!114 &114019052426793962
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -80,17 +211,207 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
-  m_Name: EB_HiddenTreasure
+  m_Name: MP_NorringtonPlant
   m_EditorClassIdentifier: 
-  textFile: {fileID: 4900000, guid: 46d603f3be932594b87b9645399f5ab9, type: 3}
-  characters:
-  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  sentences:
-  - Do you also think that your father hide part of its fortune ?
-  - "If I believe my brother, yes he did. To Robert, this money comes down to us.
-    A way to compensate the lack of education from our father. Unfortunately, if this
-    rumour is true, nobody knows where the money is\u2026"
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114021929520476594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: RC_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114026418119483774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: MP_TroupeMood
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114047979115404560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: RB_ConflictFather
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114048714613309704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EBlay_ParentsRelationship
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114049279488618302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: RB_FirstMeeting
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114057973990281980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JB_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114080226543334982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: PH_Alibi
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114107194582621656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JB_Situation
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114121011832414664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: Ebark_FirstMeetingNoLunchInfo
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114128079103611658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: RC_TrainTicketsKnewAffairAfter
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114133224260062388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: MP_TroupeMoodHeard
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114138548820383624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WF_ComeBackPartStuff
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114156675015549340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EN_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114161943623985832
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: Ebark_FirstMeetingLunchInfo
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114172950058349086
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -109,7 +430,7 @@ MonoBehaviour:
   sentences:
   - "G\xE9raldine. I have other questions to ask."
   - "I\u2019m listening."
---- !u!114 &114180240737097622
+--- !u!114 &114179252582178274
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -118,49 +439,25 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
-  m_Name: EB_Handkerchief
+  m_Name: Barman_FirstMeeting
   m_EditorClassIdentifier: 
-  textFile: {fileID: 4900000, guid: eaf9b008be978034ba0fcb8b427dca1b, type: 3}
-  characters:
-  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  sentences:
-  - "An embroidered handkerchief with initials E.B. was found very close to the stage
-    where your father was found dead. Can you tell me if it belongs to you, and if
-    it\u2019s the case, why was it there?"
-  - "Ah\u2026 I prefer not to speak about this detective."
-  - "Ms. Blayton, it\u2019s not like if you had the choice. We found an evidence revealing
-    that you were on the crime scene, placing you as the main suspect. So you will
-    tell me why, now."
-  - "If you insist detective\u2026 But don\u2019t say anything to my brother, I beg
-    you."
-  - It will be our secret Ms. Blayton.
-  - "The handkerchief is mine indeed. As you may know, the relationship between my
-    father and my brother isn\u2019t the one a father and his son should have, and
-    this has been for several years now. Robert had to assume our father\u2019s responsibilities
-    and took care of our mother and me, he gave me everything and made me who I am
-    now. Because of our father\u2019s behaviour, he forbade me to see him again. I
-    haven\u2019t seen my father since many years now. I\u2019ve been trying to find
-    him for a couple of weeks now, which was rather easy given his renown. As soon
-    as I was told he was coming to London for a series of representations, I thought
-    it was an opportunity for me to go and meet him so that he gives me an explanation.
-    On Saturday I decided to go to the theatre, he was rehearsing his role. I discreetly
-    slipped into the theatre and hid behind a curtain to watch him, but I was not
-    able to go and talk to him at that moment. Then I saw his odious behaviour towards
-    the other actors and the technical team, which revives me his absence when I was
-    a child, and how he badly treated my mother and my brother the very short time
-    he was at home. Past rose to the surface. I simply burst into tears. I was paralysed,
-    then after a short time I ran away the fastest as I can to escape this place,
-    and go far away from this man. This is the moment I probably lost my handkerchief,
-    everything was so sudden\u2026 Once again Detective White, promise me you won\u2019t
-    talk to Robert about this, it would devastate him."
-  - "I give you my word Ms. Blayton. Thank you very much for your testimony, I guess
-    it wasn\u2019t easy for you to live."
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114202591472683582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WB_PoisonDrugs
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114215958981000468
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -197,6 +494,20 @@ MonoBehaviour:
   - "Unless you invite me for a tea, I don\u2019t see anything."
   - "I\u2019ll think about it. Meanwhile, I have a case to solve. See you soon G\xE9raldine."
   - I hope so mon petit !
+--- !u!114 &114229841701492922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: RC_FirstMeeting
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114241517080273198
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -215,7 +526,7 @@ MonoBehaviour:
   sentences:
   - "Do you know something about M. Norrington\u2019s self-care habits ?"
   - We did not converse that much. I know few things about him. My apologies.
---- !u!114 &114274408416833456
+--- !u!114 &114243169398890834
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -224,13 +535,81 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
-  m_Name: EB_DefaultDialogue
+  m_Name: EBlay_FirstMeeting
   m_EditorClassIdentifier: 
-  textFile: {fileID: 4900000, guid: 15ac673adcab1da499a4a6b530a03e5b, type: 3}
-  characters:
-  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  sentences:
-  - How can I help you detective ?
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114286375296991126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JC_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114315049619692874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: RC_Photo
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114315517649745448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WB_FirstMeeting
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114320167306570832
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JB_MoneyProblems
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114346803905321472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: Barman_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114348934227191352
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -252,7 +631,7 @@ MonoBehaviour:
   - "We couldn\u2019t say the ambiance within the troupe was at the highest level
     of joy. To my mind, it was mostly due to Marcus who acted like a diva most of
     the time."
---- !u!114 &114351056028800198
+--- !u!114 &114352757831216910
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -261,22 +640,81 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
-  m_Name: EB_FirstMeeting
+  m_Name: MP_FirstMeeting
   m_EditorClassIdentifier: 
-  textFile: {fileID: 4900000, guid: 9ec17c046783833489ae3f81d3924521, type: 3}
-  characters:
-  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  sentences:
-  - "Good morning. I\u2019m looking for Ms. Elizabeth Blayton."
-  - "You\u2019ve just found her, good morning ..."
-  - "\u2026 Detective Percy White. I\u2019m investigating on your father\u2019s death.
-    My condolences. If you don\u2019t mind, I have some questions to ask you."
-  - "Oh \u2026 I don\u2019t have a lot of time but I\u2019m listening, detective."
-  - "I\u2019ll be short."
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114356945519565184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JC_MoneyPb
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114373237871861698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WF_FirstMeeting
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114408891453452006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WB_PoisonNoDrugs
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114438314555402318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WF_ComeBackAllStuff
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114438866980071308
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JC_Drugs
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114445956623630330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -293,7 +731,7 @@ MonoBehaviour:
   - {fileID: 114175737541859680, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
   sentences:
   - May I help you ?
---- !u!114 &114463941567156838
+--- !u!114 &114448426961789940
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -302,19 +740,53 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
-  m_Name: EB_ParentsRelationship
+  m_Name: JB_Women
   m_EditorClassIdentifier: 
-  textFile: {fileID: 4900000, guid: 0e52aea287a6bdd4fbbd8dd947adbcf4, type: 3}
-  characters:
-  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114392334286711224, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  - {fileID: 114866318438838500, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
-  sentences:
-  - What can you tell me about the relationship between your parents?
-  - "Oh, it wasn\u2019t great. I think we can\u2019t say they still loved each other.
-    They could bare each other but the career of my father didn\u2019t make the things
-    easier."
-  - What about your relation with your father ?
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114454937462170432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EN_FirstMeetingInfoContinue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114465518217267318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JC_WifeAffairMarcus
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114474887647125320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EN_ActorsRivalry
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114475723967732708
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -334,6 +806,62 @@ MonoBehaviour:
   - Do you know where I could find M Cole et M Norrington?
   - Mr Cole told us he would stay at home all day long. Edward is also at his home
     learning his new lines.
+--- !u!114 &114493533337239300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WF_FirstMeetingAllStuff
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114502714276389648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EN_FirstMeetingNoInfoContinue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114534832696448064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: PH_KnewMB
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114561935327652006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: MP_Alibi
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114562703178437442
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -354,6 +882,76 @@ MonoBehaviour:
   - "Sure, I was in the backstage area. I was alone most of the afternoon. The curtain
     mechanism didn\u2019t function properly, I had to repair it, which took me longer
     than expected."
+--- !u!114 &114563123471878664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EN_BotanicsBook
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114568315221476382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: MP_TroupeMoodNewspaper
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114579517951396976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: RB_CheatingFather
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114588086550690622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JB_Debts
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114590134895377196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JB_ChildsPosition
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114616082166733126
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -386,6 +984,20 @@ MonoBehaviour:
     Mr Cole, our producer, was panicking just before the representation started, they
     looked for him everywhere but he couldn\u2019t be found. Now we understand the
     reasons."
+--- !u!114 &114638065423261192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WB_PoisonComeBackDrugs
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114641516614158490
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -417,6 +1029,48 @@ MonoBehaviour:
     rehearsals. It was about an hour before the troupe went to have dinner in town.
   - "You didn\u2019t go with them ?"
   - No, I had to fix the curtain opening mechanism as soon as possible.
+--- !u!114 &114643575610619616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WM_BloodSampleNoPlants
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114646908551298240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EBark_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114648691776598980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JB_FirstMeeting
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114655729801469498
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -451,6 +1105,20 @@ MonoBehaviour:
     reveal their identities. Do you have a picture of this man ?"
   - "No, I\u2019ll get you that."
   - Good. You know where I am.
+--- !u!114 &114663046015322760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EBlay_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114681180174332222
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -467,6 +1135,20 @@ MonoBehaviour:
   - {fileID: 114123044354258036, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
   sentences:
   - "Mr. White\u2026 "
+--- !u!114 &114684934831352770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: AL_FirstMeeting
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114685305862150150
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -498,6 +1180,34 @@ MonoBehaviour:
     rehearsals. It was about an hour before the troupe went to have dinner in town.
   - "You didn\u2019t go with them ?"
   - No, I had to fix the curtain opening mechanism as soon as possible.
+--- !u!114 &114685433757433786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JC_ShowMustGoOn
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114691806216523684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: PH_Poison
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114699503268907092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -521,6 +1231,62 @@ MonoBehaviour:
     don\u2019t hesitate to contact our informers, they could bring you the help you
     need to progress."
   - "Thank you. I\u2019ll do my best to catch the culprit, as usual."
+--- !u!114 &114706745410845692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: PH_FirstMeeting
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114712266162489336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: RB_ClubClosed
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114718046419956892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WM_Notebook
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114731550981496944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: AL_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114735987896355834
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -601,6 +1367,90 @@ MonoBehaviour:
   - "Unless you invite me for a tea, I don\u2019t see anything."
   - "I\u2019ll think about it. Meanwhile, I have a case to solve. See you soon G\xE9raldine."
   - I hope so mon petit !
+--- !u!114 &114746775091358840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WM_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114747367771366746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JC_ActorsRivalry
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114761939930589178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: PH_WifeThreat
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114767978103307078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JB_LastTime
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114768893410478750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: RB_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114774754572187798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EBlay_HiddenTreasure
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114776836295589796
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -647,6 +1497,20 @@ MonoBehaviour:
   - "The representations continue and Mr Cole has chosen Edward to replace Marcus\u2019
     lead role."
   - Interesting...
+--- !u!114 &114801742970739768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JC_NewStart
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114806626539246392
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -665,6 +1529,20 @@ MonoBehaviour:
   sentences:
   - Do you know if Mr Norrington treats him by himself?
   - Yes he does, he swears only by this.
+--- !u!114 &114808476332276766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: RB_HiddenTreasure
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114809089878865514
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -695,6 +1573,34 @@ MonoBehaviour:
     I had difficulties to open the curtain, the body probably got stuck with a part
     of the decor\u2026 Anyway, I saw many things in my entire life, but this is something
     quite striking !"
+--- !u!114 &114814221162926358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: MP_Dinner
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114833324155813398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: RC_TrainTicketsNoKnewAffair
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114833601743922148
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -728,6 +1634,160 @@ MonoBehaviour:
   - I did. There was no body hanged up there, I assure you. Everything worked perfectly.
   - What time did you leave to go for dinner?
   - "Uh let me think\u2026 It was a bit after 6:30pm if my memories serve me correctly."
+--- !u!114 &114855733822630172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: MP_ActorsLocations
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114858399589062194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WM_FirstMeeting
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114873004949265824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EN_TroupeMood
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114898648171407644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EN_Cigarettes
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114904676310607920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: EBlay_Handkerchief
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114931141383534684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JC_FirstMeeting
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114936442130137878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JB_ChildsConflict
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114968035475860664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: PH_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114969585374460530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: JC_MoneyPbWife
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114977971305545246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: WB_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
+--- !u!114 &114995651563016814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: RC_TrainTicketsKnewAffair
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 0}
+  characters: []
+  sentences: []
 --- !u!114 &114998553156649724
 MonoBehaviour:
   m_ObjectHideFlags: 0

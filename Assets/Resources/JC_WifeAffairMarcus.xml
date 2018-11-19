@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Were you informed that your wife was being unfaithful to you with Marcus ?"></Sentence>
+    <Sentence character="Jonhathan Cole" string="If you’re asking me this question, that’s because you know I was."></Sentence>
+    <Sentence character="Percy White" string="Indeed. How did you react ?"></Sentence>
+    <Sentence character="Jonhathan Cole" string="I was dismayed. I trusted Marcus. He was a loyal friend. I was really angry with him but I finally came to terms with it. Knowing Marcus, I thought it wouldn’t have lasted a long time."></Sentence>
+  </Sentences>
+</Dialogue>

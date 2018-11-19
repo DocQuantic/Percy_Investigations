@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="About assigning the roles, did you hesitate between Marcus Blayton and Edward norrington ?"></Sentence>
+    <Sentence character="Jonhathan Cole" string="Both of them are really good actors, I’d been hesitating for a long time to give Edward a chance. He’s a very good friend of mine, but in view of the situation of the company, I had to favour the success of the play, that’s why I made this choice."></Sentence>
+    <Sentence character="Percy White" string="Was the relationship between both actors good ? Did they know they were competing ?"></Sentence>
+    <Sentence character="Jonhathan Cole" string="Yes, they did. I invited them to discuss about it and to announce my choice. I must confess that the atmosphere during the diner was a bit tensed but I expected that. I finally calmed them down and everything returned to normal. At least this is what I thought until what happened yesterday ..."></Sentence>
+  </Sentences>
+</Dialogue>

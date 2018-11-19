@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="I suspect the victim was poisoned with hemlock. What do you think about that ?"></Sentence>
+    <Sentence character="Wallace Brown" string="Impossible. This plant causes strong muscle contractions. I would have seen it during the autopsy. Who do you think I am ?"></Sentence>
+    <Sentence character="Percy White" string="This is the answer I was expecting. Thank you."></Sentence>
+  </Sentences>
+</Dialogue>

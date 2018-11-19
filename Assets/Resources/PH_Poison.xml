@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="M Blayton might have been poisoned. Do you know by chance people who could have done it?"></Sentence>
+    <Sentence character="Peter Hurtley" string="How d’you want me to know such a thing?"></Sentence>
+    <Sentence character="Percy White" string="I simply ask, you sell opium so I thought you might be an expert in poisons."></Sentence>
+    <Sentence character="Peter Hurtley" string="I know a couple of things about it, but nothing more."></Sentence>
+    <Sentence character="Percy White" string="In that case, could you tell me where I can find hemlock?"></Sentence>
+    <Sentence character="Peter Hurtley" string="If your guy was poisoned with hemlock and if it’s your only clue, this might take a while for you to catch the murderer! That weed can be found everywhere. But it’s indeed very effective ! Well, this is what some people told me..."></Sentence>
+    <Sentence character="Percy White" string="Is it possible for you to provide this plant for me?"></Sentence>
+    <Sentence character="Peter Hurtley" string="Uh.... why?"></Sentence>
+    <Sentence character="Percy White" string="Are you so indiscreet with every customer Mr. Hurtley?"></Sentence>
+    <Sentence character="Peter Hurtley" string="Fine, i can get you some, as everyone in this town, but if you insist to pay for it… how much do you need ?"></Sentence>
+    <Sentence character="Percy White" string="Actually I’m not quite sure to want some anymore. I need to think about it."></Sentence>
+  </Sentences>
+</Dialogue>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Could you explain me why Marcus had a picture of you in his wallet ?"></Sentence>
+    <Sentence character="Rose Cole" string="Well, we were close friends since our childhood, we were like brother and sister."></Sentence>
+    <Sentence character="Percy White" string="That’s confusing. I’ve found this collection of letters in which the person who wrote it was obviously a lady whose initials are R.C. and who seems deeply in love with Mr. Blayton as the phrase “Sweet love”, by which each letter ends, suggests it."></Sentence>
+    <Sentence character="Rose Cole" string="Panicked - Where did you find those letters ?"></Sentence>
+    <Sentence character="Percy White" string="So you know they are real ..."></Sentence>
+    <Sentence character="Rose Cole" string="Resigned - All right, those letters are from me. Marcus and I loved each other. I’ve always been attracted to this man. But our relation became really serious a couple of months ago."></Sentence>
+    <Sentence character="Percy White" string="Why did you hide it from me ?"></Sentence>
+    <Sentence character="Rose Cole" string="Nobody was aware of this. We wanted to keep it secret in order to hurt less people as possible."></Sentence>
+  </Sentences>
+</Dialogue>

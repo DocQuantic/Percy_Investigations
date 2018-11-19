@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Mr. Norrington, I learnt there was a certain rivalry between you and Marcus. Were you angry after him because he got the lead ?"></Sentence>
+    <Sentence character="Edward Norrington" string="In that trade, some rivalry exists and that’s normal, the stakes are high. This rivalry was friendly, we treated each other with respect. If he got the lead, that’s because he did deserve it."></Sentence>
+  </Sentences>
+</Dialogue>

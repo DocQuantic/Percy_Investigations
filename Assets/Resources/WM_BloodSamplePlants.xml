@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Could you analyze this blood sample for me ?"></Sentence>
+    <Sentence character="Will Mason" string="It would be a great pleasure but I need to know what to find..."></Sentence>
+    <Sentence character="Percy White" string="I found toxic plants. Could you look for some traces in the blood sample ?"></Sentence>
+    <Sentence character="Will Mason" string="Of course. I’ve got all what I need. Wait a minute. I’ll tell you when I’m done."></Sentence>
+    <Sentence character="Percy White" string="Please."></Sentence>
+    <Sentence character="Will Mason" string="You were right. I found small quantities of hemlock in the blood. But it’s strange. This poison should cause strong muscle contractions, particularly on the face. Did you see such a thing on the corpse ?"></Sentence>
+    <Sentence character="Percy White" string="I should speak to Wallace. Thank you Will !"></Sentence>
+  </Sentences>
+</Dialogue>
