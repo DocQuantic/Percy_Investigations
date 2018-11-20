@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Dialogue>
   <Sentences>
-    <Sentence character="Percy White" string="Do you want something to drink ?"></Sentence>
+    <Sentence character="Barman" string="Do you want something to drink ?"></Sentence>
   </Sentences>
 </Dialogue>
