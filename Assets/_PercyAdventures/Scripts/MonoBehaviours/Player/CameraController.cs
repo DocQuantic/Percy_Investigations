@@ -16,6 +16,11 @@ public class CameraController : MonoBehaviour {
     public float minZoom = 1.0f;
     public float maxZoom = 60f;
 
+    private void Awake()
+    {
+        DontDestroyOnLoad(gameObject);
+    }
+
     private void Start()
     {
         fieldOfView = Camera.main.fieldOfView;
@@ -25,6 +30,7 @@ public class CameraController : MonoBehaviour {
 
         playerManager = PlayerManager.instance;
         player = playerManager.GetPlayer();
+        Debug.Log(player.name);
     }
     
     private void Update()
@@ -82,7 +88,8 @@ public class CameraController : MonoBehaviour {
 
     private void UpdateTargetPosition()
     {
-        Vector3 position = (player.position+Vector3.up - initTargetPos) * (1 - (fieldOfView - minZoom) / (maxZoom - minZoom));
+        //Vector3 position = (Vector3.up - initTargetPos) * (1 - (fieldOfView - minZoom) / (maxZoom - minZoom));
+        Vector3 position = (player.position + Vector3.up - initTargetPos) * (1 - (fieldOfView - minZoom) / (maxZoom - minZoom));
         Vector3 targetPos = target.position;
 
         targetPos.x = Mathf.Lerp(targetPos.x, position.x + initTargetPos.x, cameraFollowSpeed * Time.deltaTime);

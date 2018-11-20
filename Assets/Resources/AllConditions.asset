@@ -12,13 +12,27 @@ MonoBehaviour:
   m_Name: AllConditions
   m_EditorClassIdentifier: 
   conditions:
-  - {fileID: 114605067361401168}
-  - {fileID: 114272411328112216}
-  - {fileID: 114756230308528340}
-  - {fileID: 114584179655407634}
-  - {fileID: 114284219489309210}
-  - {fileID: 114462139693713284}
---- !u!114 &114272411328112216
+  - {fileID: 114489110542182870}
+  - {fileID: 114005303045626926}
+  - {fileID: 114292075941056332}
+  - {fileID: 114238981778584690}
+  - {fileID: 114290040097573330}
+  - {fileID: 114064334254792074}
+  - {fileID: 114021853812697474}
+  - {fileID: 114123322158338602}
+  - {fileID: 114360509332723006}
+  - {fileID: 114014226080577572}
+  - {fileID: 114427167543188564}
+  - {fileID: 114482744582457514}
+  - {fileID: 114982841213769602}
+  - {fileID: 114309964970164738}
+  - {fileID: 114475800624522750}
+  - {fileID: 114677351476585594}
+  - {fileID: 114276606709287818}
+  - {fileID: 114314507004533848}
+  - {fileID: 114326517780874284}
+  - {fileID: 114693535518764576}
+--- !u!114 &114005303045626926
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -27,12 +41,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
-  m_Name: infoMoneyProblems
+  m_Name: MP_HasTalkedTo
   m_EditorClassIdentifier: 
-  description: infoMoneyProblems
+  description: MP_HasTalkedTo
   satisfied: 0
-  hash: -1546966562
---- !u!114 &114284219489309210
+  hash: -694626351
+--- !u!114 &114014226080577572
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -41,12 +55,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
-  m_Name: ExceptionCondition
+  m_Name: JC_HasTalkedTo
   m_EditorClassIdentifier: 
-  description: ExceptionCondition
+  description: JC_HasTalkedTo
   satisfied: 0
-  hash: 705504903
---- !u!114 &114462139693713284
+  hash: -1164396795
+--- !u!114 &114021853812697474
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -55,12 +69,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
-  m_Name: HasNewspaper
+  m_Name: EBlay_HasTalkedTo
   m_EditorClassIdentifier: 
-  description: HasNewspaper
+  description: EBlay_HasTalkedTo
   satisfied: 0
-  hash: 1669595273
---- !u!114 &114584179655407634
+  hash: 441139621
+--- !u!114 &114064334254792074
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -69,12 +83,82 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
-  m_Name: PH_HasAskedKnewMB
+  m_Name: EBark_HasTalkedTo
   m_EditorClassIdentifier: 
-  description: PH_HasAskedKnewMB
+  description: EBark_HasTalkedTo
   satisfied: 0
-  hash: 108494913
---- !u!114 &114605067361401168
+  hash: 684538255
+--- !u!114 &114123322158338602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: EN_HasTalkedTo
+  m_EditorClassIdentifier: 
+  description: EN_HasTalkedTo
+  satisfied: 0
+  hash: -1423940723
+--- !u!114 &114238981778584690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: Barman_HasTalkedTo
+  m_EditorClassIdentifier: 
+  description: Barman_HasTalkedTo
+  satisfied: 0
+  hash: -673558774
+--- !u!114 &114276606709287818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: WB_HasTalkedTo
+  m_EditorClassIdentifier: 
+  description: WB_HasTalkedTo
+  satisfied: 0
+  hash: -1236917577
+--- !u!114 &114290040097573330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: Boss_HasTalkedTo
+  m_EditorClassIdentifier: 
+  description: Boss_HasTalkedTo
+  satisfied: 0
+  hash: 973702827
+--- !u!114 &114292075941056332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: AL_HasTalkedTo
+  m_EditorClassIdentifier: 
+  description: AL_HasTalkedTo
+  satisfied: 0
+  hash: -758097443
+--- !u!114 &114309964970164738
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -88,7 +172,7 @@ MonoBehaviour:
   description: PH_HasTalkedTo
   satisfied: 0
   hash: -371921327
---- !u!114 &114756230308528340
+--- !u!114 &114314507004533848
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -97,8 +181,134 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
-  m_Name: HasDealerName
+  m_Name: WF_HasTalkedTo
   m_EditorClassIdentifier: 
-  description: HasDealerName
+  description: WF_HasTalkedTo
   satisfied: 0
-  hash: -381561290
+  hash: 1996441633
+--- !u!114 &114326517780874284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: WM_HasTalkedTo
+  m_EditorClassIdentifier: 
+  description: WM_HasTalkedTo
+  satisfied: 0
+  hash: -1858668670
+--- !u!114 &114360509332723006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: JB_HasTalkedTo
+  m_EditorClassIdentifier: 
+  description: JB_HasTalkedTo
+  satisfied: 0
+  hash: 1728999040
+--- !u!114 &114427167543188564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: LN_HasTalkedTo
+  m_EditorClassIdentifier: 
+  description: LN_HasTalkedTo
+  satisfied: 0
+  hash: 91659469
+--- !u!114 &114475800624522750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: RB_HasTalkedTo
+  m_EditorClassIdentifier: 
+  description: RB_HasTalkedTo
+  satisfied: 0
+  hash: 853888218
+--- !u!114 &114482744582457514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: ME_HasTalkedTo
+  m_EditorClassIdentifier: 
+  description: ME_HasTalkedTo
+  satisfied: 0
+  hash: 2142290456
+--- !u!114 &114489110542182870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: ME_HasTalkedTo
+  m_EditorClassIdentifier: 
+  description: ME_HasTalkedTo
+  satisfied: 0
+  hash: 2142290456
+--- !u!114 &114677351476585594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: RC_HasTalkedTo
+  m_EditorClassIdentifier: 
+  description: RC_HasTalkedTo
+  satisfied: 0
+  hash: -277637793
+--- !u!114 &114693535518764576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: ExceptionStart
+  m_EditorClassIdentifier: 
+  description: ExceptionStart
+  satisfied: 0
+  hash: -920537007
+--- !u!114 &114982841213769602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: MG_HasTalkedTo
+  m_EditorClassIdentifier: 
+  description: MG_HasTalkedTo
+  satisfied: 0
+  hash: 535590739

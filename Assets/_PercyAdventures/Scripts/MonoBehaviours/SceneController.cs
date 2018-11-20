@@ -19,8 +19,6 @@ public class SceneController : MonoBehaviour {
         }
         instance = this;
         DontDestroyOnLoad(gameObject);
-
-        dialogueManager = DialogueManager.instance;
     }
 
     #endregion
@@ -31,9 +29,14 @@ public class SceneController : MonoBehaviour {
     public bool isFading;
 
     private DialogueManager dialogueManager;
+    private PlayerMotor playerMotor;
 
     private void Start()
     {
+        dialogueManager = DialogueManager.instance;
+
+        playerMotor = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerMotor>();
+
         if (dialogueManager.enabled)
         {
             dialogueManager.enabled = false;
@@ -58,6 +61,7 @@ public class SceneController : MonoBehaviour {
     {
         //if (!isFading)
         //{
+        //Debug.Log("Loading");
         StartCoroutine(FadeAndSwitchScenes(sceneName));
         //}
     }
@@ -66,13 +70,17 @@ public class SceneController : MonoBehaviour {
     {
         dialogueManager.enabled = false;
 
-        Debug.Log("Loading");
+        //Debug.Log("Loading");
 
         yield return StartCoroutine(Fade(1.0f));
+
+        playerMotor.enabled = false;
 
         yield return StartCoroutine(LoadSceneAndSetActive(sceneName));
 
         yield return StartCoroutine(Fade(0.0f));
+
+        playerMotor.enabled = true;
 
         dialogueManager.enabled = true;
     }

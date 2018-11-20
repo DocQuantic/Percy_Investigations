@@ -114,6 +114,7 @@ MonoBehaviour:
   - {fileID: 114904676310607920}
   - {fileID: 114684934831352770}
   - {fileID: 114731550981496944}
+  - {fileID: 114559039239859952}
 --- !u!114 &114001858613426588
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1499,6 +1500,22 @@ MonoBehaviour:
     Marcus was less and less using drugs?
   - "For sure I was angry first. But customers like him come and go. This is not a
     reason to kill him if it\u2019s what you have in mind."
+--- !u!114 &114559039239859952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f122d6596c1643afafdaf08c00ac9, type: 3}
+  m_Name: MPit_DefaultDialogue
+  m_EditorClassIdentifier: 
+  textFile: {fileID: 4900000, guid: fa188e790d948994fb1284531dd51b0b, type: 3}
+  characters:
+  - {fileID: 114791438195418384, guid: 92daad333abcc1f49841fd79f390c537, type: 2}
+  sentences:
+  - Yes ?
 --- !u!114 &114561935327652006
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -1,4 +1,7 @@
 ﻿using UnityEngine;
+using System;
+using System.Collections;
+using System.Collections.Generic;
 
 public class DataResetter : MonoBehaviour {
 
@@ -27,12 +30,19 @@ public class DataResetter : MonoBehaviour {
 
     private void Start()
     {
+        StartCoroutine(WaitBeforeLoading());
+
         sceneController = SceneController.instance;
 
         for (int i = 0; i < exceptionConditions.Length; i++)
         {
             exceptionConditions[i].satisfied = true;
         }
+    }
+
+    private IEnumerator WaitBeforeLoading()
+    {
+        yield return new WaitForSeconds(1.0f);
 
         sceneController.FadeAndLoadScene("PercyOffice");
     }
