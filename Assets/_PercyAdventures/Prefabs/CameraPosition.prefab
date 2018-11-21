@@ -9,48 +9,45 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1167469729673742}
+  m_RootGameObject: {fileID: 1466866225039112}
   m_IsPrefabAsset: 1
---- !u!1 &1167469729673742
+--- !u!1 &1466866225039112
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4686880834083006}
-  - component: {fileID: 114956345455501240}
+  - component: {fileID: 4258095280538880}
+  - component: {fileID: 114965494351840932}
   m_Layer: 0
-  m_Name: SceneController
+  m_Name: CameraPosition
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4686880834083006
+--- !u!4 &4258095280538880
 Transform:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1167469729673742}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_GameObject: {fileID: 1466866225039112}
+  m_LocalRotation: {x: -0.10504585, y: 0.85761315, z: -0.19385119, w: -0.46463627}
+  m_LocalPosition: {x: 12.551538, y: 4.1155705, z: 6.4452806}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &114956345455501240
+  m_LocalEulerAnglesHint: {x: 33.66, y: 0, z: 0}
+--- !u!114 &114965494351840932
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1167469729673742}
+  m_GameObject: {fileID: 1466866225039112}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 044e095dbe2319d48af3a4d7a6bd64cd, type: 3}
+  m_Script: {fileID: 11500000, guid: 45086c4a7465d2f419c96b1495d4b02a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadingCanvasGroup: {fileID: 0}
-  fadingDuration: 2
-  isFading: 0
