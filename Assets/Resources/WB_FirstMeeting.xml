@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning my dear Wallace, it’s been a long time since the last time we met ! How are you ?"></Sentence>
+    <Sentence character="Wallace Brown" string="Good morning Percy. Why do you come bothering me this time ?"></Sentence>
+    <Sentence character="Percy White" string="Wallace… In fact I came to know if you’ve performed the autopsy of Marcus Blayton. You know, the actor who..."></Sentence>
+    <Sentence character="Wallace Brown" string="Yes, I know from whom you’re talking about. His dead body didn’t reveal me many things but studying it was fascinating, once more. You will find all what you need in my report."></Sentence>
+    <Sentence character="Percy White" string="Thank you Wallace. What do you think about suicide theory ?"></Sentence>
+    <Sentence character="Wallace Brown" string="Even if those idiots from Scotland Yard tell it’s a suicide, I think that the death is due to something else. Muscles are much more rigid than they should, indicating that the death happened before he was hung. Moreover,  after such a violent bump, a bruise should appear on the neck but I didn’t find any. Instead, I found one on the back of its head dating from the day of the death. Probably due to a fall. Now, if you want let me go back to my occupations, i’ll try to be grateful to you."></Sentence>
+    <Sentence character="Percy White" string="Wallace, your kindness will get you. Thank you for your help !"></Sentence>
+  </Sentences>
+</Dialogue>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Mr. Blay… Robert. Excuse me, I know that you don’t want to talk to me but I need to ask you some questions, I’ve a case to solve. Please cooperate or I will need to use the strong way."></Sentence>
+    <Sentence character="Robert Blayton" string="..."></Sentence>
+    <Sentence character="Percy White" string="I’ve been informed of what your mother endured, being the wife of your father, you must believe me that I’m deeply sorry. But I need to know if you have any idea of who could have killed your father. Moreover, pardon me for being so straight, but you understand that many clues go against you. You are celebrating your father’s death the day after he died. Your father that you despised after what he did to you and your family, moreover you wanted him dead. So what can you say in your defence ?"></Sentence>
+    <Sentence character="Robert Blayton" string="Let me explain you why I didn’t kill my father. I’ve simply wiped him from my life for 11 years now. He was already dead to me. You know, Marcus Blayton had so many enemies that I wouldn’t have risked to get my hands dirty, I knew that somebody else would do it for me… Moreover, if you want to know everything, I was at the United Club, it’s a gentlemen's club on Charles street."></Sentence>
+    <Sentence character="Percy White" string="I note. Thank you for your cooperation."></Sentence>
+  </Sentences>
+</Dialogue>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning Mr., I’m looking for Mr. Robert Blayton, Have you seen him ?"></Sentence>
+    <Sentence character="Barman" string="Yes, he’s the one over there, at the end of the bar. He is drinking his sixth glass of scotch."></Sentence>
+  </Sentences>
+</Dialogue>

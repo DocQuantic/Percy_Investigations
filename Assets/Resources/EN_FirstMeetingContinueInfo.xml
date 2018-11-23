@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning Mr. Norrington, detective Percy White. What do you know about what happened to Marcus Blayton ?"></Sentence>
+    <Sentence character="Edward Norrington" string="What happened to him is terrible, indeed. But I don’t know anything about his death. Now, I have to learn my lines."></Sentence>
+    <Sentence character="Percy White" string="Your lines ? But the premiere was yesterday. Aren’t you supposed to know them already ?"></Sentence>
+    <Sentence character="Edward Norrington" string="I’m speaking about my new role. Jonathan Cole gave me the lead after what happened yesterday."></Sentence>
+  </Sentences>
+</Dialogue>

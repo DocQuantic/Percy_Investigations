@@ -51,7 +51,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 044e095dbe2319d48af3a4d7a6bd64cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startSceneName: WoodStreet
   fadingCanvasGroup: {fileID: 0}
-  fadingDuration: 1
+  fadingDuration: 2
   isFading: 0

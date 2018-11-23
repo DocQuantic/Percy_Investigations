@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning. I guess you’re Mr Neligan."></Sentence>
+    <Sentence character="Liam Neligan" string="Yes I am. To whom am I speaking ?"></Sentence>
+    <Sentence character="Percy White" string="Percy White, I’m investigating the death of your colleague, Mr Marcus Blayton."></Sentence>
+    <Sentence character="Liam Neligan" string="Pleased to meet you Mr White. Although it’s a pity that we meet in these unfortunate circumstances… May I help you?"></Sentence>
+    <Sentence character="Percy White" string="I’d like to know if you recently noticed an unusual behaviour concerning Mr Blayton."></Sentence>
+    <Sentence character="Liam Neligan" string="No he stayed true to himself. After he arrived at the theatre in the afternoon, he locked himself in his room then nobody saw him throughout the rest of the day. Mr Cole, our producer, was panicking just before the representation started, they looked for him everywhere but he couldn’t be found. Now we understand the reasons."></Sentence>  
+  </Sentences>
+</Dialogue>

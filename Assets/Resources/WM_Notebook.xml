@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Could you help me with this notebook ? I need to know what is written on this page that was torn off."></Sentence>
+    <Sentence character="Will Mason" string="Of course ! Nothing could be easier ! Give it to me !"></Sentence>
+    <Sentence character="Will Mason" string="..."></Sentence>
+    <Sentence character="Will Mason" string="Done ! Here is the result."></Sentence>
+  </Sentences>
+</Dialogue>

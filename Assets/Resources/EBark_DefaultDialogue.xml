@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Emily Barker" string="Well, detective White, I didn’t think that you would come back so fast ! What can I do for you ? If you want another newspaper, take it."></Sentence>
+    <Sentence character="Percy White" string="Thank you Ms. Barker."></Sentence>
+  </Sentences>
+</Dialogue>

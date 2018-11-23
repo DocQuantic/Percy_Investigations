@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Hello Géraldine, how is your business ?"></Sentence>
+    <Sentence character="Mlle Géraldine" string="Percy ! It’s been a while ! How are you ?"></Sentence>
+    <Sentence character="Percy White" string="Yes, quite a long time indeed. You know that I don’t really like to come into this sort of places…"></Sentence>
+    <Sentence character="Mlle Géraldine" string="Yes, you do not. So I guess that if you came here, you must have a very good reason. How can I help you ?"></Sentence>
+    <Sentence character="Percy White" string="I’m investigating on the death of Marcus Blayton, the actor. Do you know him ?"></Sentence>
+    <Sentence character="Mlle Géraldine" string="Mmmmh. This name doesn’t sound like unknown to me. But our clients don’t reveal their identities. Do you have a picture of this man ?"></Sentence>
+    <Sentence character="Percy White" string="No, I’ll get you that."></Sentence>
+    <Sentence character="Mlle Géraldine" string="Good. You know where I am."></Sentence>
+  </Sentences>
+</Dialogue>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning, my name is Percy White. I’m investigating the tragic event that happened yesterday. Do you know where I could find the person who raised the curtain ? I may have a few questions to ask."></Sentence>
+    <Sentence character="Miles Evans" string="He’s just in front of you. Miles Evans. What would you like to know?"></Sentence>
+    <Sentence character="Percy White" string="First of all, could you tell me a bit more about what happened yesterday, just before you raised the curtain ?"></Sentence>
+    <Sentence character="Miles Evans" string="Well, when I started to pull the rope, it was not as usual, as if there was a weight at the extremity or something obstructing it, I had to pull it with all my strength. Then M. Blayton’s body fell from the sky. Now I understand why I had difficulties to open the curtain, the body probably got stuck with a part of the decor… Anyway, I saw many things in my entire life, but this is something quite striking !"></Sentence>
+  </Sentences>
+</Dialogue>

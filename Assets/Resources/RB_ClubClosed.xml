@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Robert, you lied about your alibi. The United club closed two days ago. Unless you explain me where you were yesterday, I have to arrest you."></Sentence>
+    <Sentence character="Robert Blayton" string="... - Robert doesn’t say anything and stares into space, in the direction of his drink."></Sentence>
+    <Sentence character="Percy White" string="Well, be prepared for the visit of policemen."></Sentence>
+    <Sentence character="Robert Blayton" string="Wait detective White, I’ll tell you the truth… But you have to promise me that you won’t tell anything to my mother or my sister."></Sentence>
+    <Sentence character="Percy White" string="I’m listening, Robert."></Sentence>
+    <Sentence character="Robert Blayton" string="Ok… I’m not proud of it … but I started to drink a lot of alcohol several days ago… since I was told my father came back to London, it reopened an old wound… Actually I was on Darty street yesterday… at the Grey Cat… I was with a charming lady all the afternoon."></Sentence>
+    <Sentence character="Percy White" string=" Could you give me her name in order that I confirm your alibi?"></Sentence>
+    <Sentence character="Robert Blayton" string="Her name ? Uh her name was… - he bursts into tears. Oh, I don’t remember, I’m so sorry… what a moron… I’m ashamed detective. I feel like I’m doing all what I reproached my father with, all of this because of him..."></Sentence>
+    <Sentence character="Percy White" string="You didn’t insult or assault this poor lady, did you ?"></Sentence>
+    <Sentence character="Robert Blayton" string="Oh no detective, I could never do such a thing after what I lived. We just spoke about our respective lives."></Sentence>
+    <Sentence character="Percy White" string="Robert, try to get a grip on yourself. You’ve got everything into your hands not to reproduce what your father did. Your mother and your sister are relying on you. I have to leave you, now. I need to continue my investigations."></Sentence>
+  </Sentences>
+</Dialogue>

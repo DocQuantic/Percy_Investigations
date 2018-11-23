@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="I would like to come back to those train tickets. Are you sure the second one is intended for your husband ?"></Sentence>
+    <Sentence character="Rose Cole" string="You’re right, I lied. I can confess everything now that he’s gone… It was in order to leave with Marcus. We wanted to start a new life together far away from this city. His career, his family, he was ready to abandon everything in the name of our love. He even planned to use what remained of his fortune to buy a house."></Sentence>
+    <Sentence character="Percy White" string="His wife and his children must have become angry when they learnt that their legacy disappeared, no ?"></Sentence>
+    <Sentence character="Rose Cole" string="Jane was upset but she finally accepted this situation. On the other hand, I think that his son really took it the wrong way."></Sentence>
+</Sentences>
+</Dialogue>

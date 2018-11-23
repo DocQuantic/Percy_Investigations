@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Did you notice anything unusual yesterday ? Did you meet some people who did not belong here ?"></Sentence>
+    <Sentence character="Miles Evans" string="No I didn’t detective. Nothing unusual. I just met Jonathan Cole, just before leaving for dinner, he wanted to make sure that the curtain mechanism was repaired for the representation, we had no room for error for the première ! But you know, the Royal Opera House has been under renovation for weeks, thus anyone who does not belong the theatre could have snaked in and out without being noticed. Anyone can currently waltz into the theatre as they please."></Sentence>
+    <Sentence character="Percy White" string="So you checked that the curtain was opening properly just before going to eat, didn’t you?"></Sentence>
+    <Sentence character="Miles Evans" string="I did. There was no body hanged up there, I assure you. Everything worked perfectly."></Sentence>
+    <Sentence character="Percy White" string="What time did you leave to go for dinner?"></Sentence>
+    <Sentence character="Miles Evans" string="Uh let me think… It was a bit after 6:30pm if my memories serve me correctly."></Sentence>
+  </Sentences>
+</Dialogue>

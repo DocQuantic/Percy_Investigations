@@ -22,7 +22,6 @@ MonoBehaviour:
   - {fileID: 114675520369708388}
   - {fileID: 114120898321489326}
   - {fileID: 114175737541859680}
-  - {fileID: 114679769827862684}
   - {fileID: 114371873576251078}
   - {fileID: 114123044354258036}
   - {fileID: 114791438195418384}
@@ -32,6 +31,7 @@ MonoBehaviour:
   - {fileID: 114928488080159658}
   - {fileID: 114902822344574110}
   - {fileID: 114297949142923256}
+  - {fileID: 114543543313711772}
 --- !u!114 &114120898321489326
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -203,6 +203,21 @@ MonoBehaviour:
     \xE0 peu dirig\xE9 vers le banditisme et il travaille aujourd\u2019hui pour l\u2019un
     des plus grands importateurs d\u2019opium en angleterre en tant que dealer."
   hash: -742176099
+--- !u!114 &114543543313711772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
+  m_Name: Barman
+  m_EditorClassIdentifier: 
+  characterName: Barman
+  idPicture: {fileID: 0}
+  description: 
+  hash: 13988580
 --- !u!114 &114675520369708388
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -222,24 +237,6 @@ MonoBehaviour:
     un de ses meilleurs amis, en tant qu\u2019acteur principal pour faire d\xE9coller
     sa carri\xE8re."
   hash: 820124153
---- !u!114 &114679769827862684
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d287b4d4ebea9df478d0646a1ac8f56a, type: 3}
-  m_Name: James Brackenstall
-  m_EditorClassIdentifier: 
-  characterName: James Brackenstall
-  idPicture: {fileID: 0}
-  description: "James Brackenstall est un jeune homme qui apprend le m\xE9tier de
-    technicien. Ne connaissant pas ce m\xE9tier a priori, il s\u2019est av\xE9r\xE9
-    tr\xE8s volontaire et reste \xE9merveill\xE9 devant le charisme des com\xE9diens
-    \xE0 chaque repr\xE9sentation."
-  hash: -2033669154
 --- !u!114 &114734668407861036
 MonoBehaviour:
   m_ObjectHideFlags: 0

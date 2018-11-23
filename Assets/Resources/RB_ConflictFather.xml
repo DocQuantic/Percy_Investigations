@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Robert, I have questions for you. Please, answer."></Sentence>
+    <Sentence character="Robert Blayton" string="Ok. Be short please  ..."></Sentence>
+    <Sentence character="Percy White" string="I read in an interview that the relationship between you were quite distant with your father lately. Do you still think he didn’t deserve the success he had?"></Sentence>
+    <Sentence character="Robert Blayton" string="In any case, he deserved what happened to him yesterday."></Sentence>
+    <Sentence character="Percy White" string="You’re hard on him, he was your father."></Sentence>
+    <Sentence character="Robert Blayton" string="Listen, Marcus was everything but a father to me. What happened to him is a fair reward. Marcus was playing with fire. He spent money lavishly and he was pally with crooks recently. He was drinking since a couple of years and became violent. My mother, my sister and I didn’t recognize him anymore."></Sentence>
+  </Sentences>
+</Dialogue>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="May I ask what you did yesterday in the afternoon?"></Sentence>
+    <Sentence character="Miles Evans" string="Sure, I was in the backstage area. I was alone most of the afternoon. The curtain mechanism didn’t function properly, I had to repair it, which took me longer than expected."></Sentence>
+  </Sentences>
+</Dialogue>

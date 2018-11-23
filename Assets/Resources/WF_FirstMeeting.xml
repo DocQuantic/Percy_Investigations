@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning Walter, I hope you are in good health. I’m not going to bother you too long, but I’m trying to solve a case. Have you by any chance heard something about the actor Marcus Blayton who died yesterday?"></Sentence>
+    <Sentence character="Walter Fox" string="Good morning Percy, I would be glad to answer your questions, but usually you are more convincing. Did you forget my habits?"></Sentence>
+    <Sentence character="Percy White" string="Newspaper and doughnuts, sure. I always forget, but it’s for your own good. If you really matter, I’ll bring them to you. Stay here."></Sentence>
+  </Sentences>
+</Dialogue>

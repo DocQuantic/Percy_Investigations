@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Hello Géraldine, how is your business ?"></Sentence>
+    <Sentence character="Mlle Géraldine" string="Percy ! It’s been a while ! How are you ?"></Sentence>
+    <Sentence character="Percy White" string="Yes, quite a long time indeed. You know that I don’t really like to come into this sort of places…"></Sentence>
+    <Sentence character="Mlle Géraldine" string="Yes, you do not. So I guess that if you came here, you must have a very good reason. How can I help you ?"></Sentence>
+    <Sentence character="Percy White" string="I’m investigating on the death of Marcus Blayton, the actor. Do you know him ?"></Sentence>
+    <Sentence character="Mlle Géraldine" string="Mmmmh. This name doesn’t sound like unknown to me. But our clients don’t reveal their identities. Do you have a picture of this man ?"></Sentence>
+    <Sentence character="Percy White" string="Here it is."></Sentence>
+    <Sentence character="Mlle Géraldine" string="I know this guy. There was a time when he often came here. I haven’t seen him for at least 3 months. Girls say that he found the true love."></Sentence>
+    <Sentence character="Percy White" string="Interesting. Did he come regularly ?"></Sentence>
+    <Sentence character="Mlle Géraldine" string="Oooh yes ! He was one of our best clients. He could have made run our business alone at that time."></Sentence>
+    <Sentence character="Percy White" string="Do you remember when he used to visit the place ?"></Sentence>
+    <Sentence character="Mlle Géraldine" string="Yes, it was some years ago. I think he was just getting married. Poor lady ..."></Sentence>
+    <Sentence character="Percy White" string="Thank you Géraldine. Do you have any other information for me ?"></Sentence>
+    <Sentence character="Mlle Géraldine" string="Unless you invite me for a tea, I don’t see anything."></Sentence>
+    <Sentence character="Percy White" string="I’ll think about it. Meanwhile, I have a case to solve. See you soon Géraldine."></Sentence>
+    <Sentence character="Mlle Géraldine" string="I hope so mon petit !"></Sentence>
+  </Sentences>
+</Dialogue>

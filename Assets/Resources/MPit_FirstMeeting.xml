@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning Mrs. I’m the investigator who’s charged to clarify Marcus’ death."></Sentence>
+    <Sentence character="Mary Pitkins" string="Good morning Mr White. First, let me tell you that I don’t believe that Mr Blayton committed suicide."></Sentence>
+    <Sentence character="Percy White" string="Why that?"></Sentence>
+    <Sentence character="Mary Pitkins" string="I knew Marcus very well, we have been friends for a long time. He was simply incapable of doing such a thing, too much self-esteem."></Sentence>
+    <Sentence character="Percy White" string="If he didn’t killed himself, someone else did. Any thoughts of someone who could have done such a thing ?"></Sentence>
+    <Sentence character="Mary Pitkins" string="If you want my point of view, that mad man of a Norrington isn’t as pure as the driven snow. He was jealous of Marcus’ success because he didn’t have half of his talent. You should go and talk to him."></Sentence>
+    <Sentence character="Percy White" string="I’ll think about it."></Sentence>
+  </Sentences>
+</Dialogue>

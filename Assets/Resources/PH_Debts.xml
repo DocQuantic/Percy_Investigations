@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="When we first met, you looked very angry after Marcus Blayton. Did he owe you some money ?"></Sentence>
+    <Sentence character="Peter Hurtley" string="Uh… It’s possible, yes. I don’t count every penny, you know."></Sentence>
+    <Sentence character="Percy White" string="Mr. Hurtley, I think that you don’t realise how serious the situation is. It’s a murder case. I suggest you to tell me the truth if you don’t want to get into troubles with Scotland Yard."></Sentence>
+    <Sentence character="Peter Hurtley" string="Ok, it’s true that this guy started to have a huge debt. I kindly reminded him to pay me, maybe I was a bit heavy but it was just to scare him, nothing more."></Sentence>
+  </Sentences>
+</Dialogue>

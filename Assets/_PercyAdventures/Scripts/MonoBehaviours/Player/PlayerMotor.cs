@@ -10,10 +10,17 @@ public class PlayerMotor : MonoBehaviour {
     private CameraController cameraController;
     private Vector3[] orientation;
 
-    private void Start()
+    private void OnEnable()
     {
+        Debug.Log("On");
         cameraController = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraController>();
         orientation = cameraController.GetCameraOrientation();
+    }
+
+    private void OnDisable()
+    {
+        Debug.Log("Off");
+        cameraController = null;
     }
 
     public void Move(float xInput, float yInput)

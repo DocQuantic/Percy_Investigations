@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning M. Cole, my name is Percy White, I am the detective in charge of the investigation about the death of Marcus Balyton."></Sentence>
+    <Sentence character="Jonhathan Cole" string="Marcus and I were like brothers… and despite all his whims, we were like a family inside the troupe. I’ve been told he committed suicide ?"></Sentence>
+    <Sentence character="Percy White" string="Yes, this is the first track of the police. Do you have reasons to believe this hypothesis ?"></Sentence>
+    <Sentence character="Jonhathan Cole" string="I’m not sure. Marcus had all what he desired in his life. At least, this is what he wanted us to believe. Behind the curtain of his life, all of this looked far less glamour. We discussed a lot and we often had diner together. Recently, his problems with money made his life difficult."></Sentence>
+  </Sentences>
+</Dialogue>

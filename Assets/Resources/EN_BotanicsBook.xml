@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="I found this book. Are you interested in botanics ?"></Sentence>
+    <Sentence character="Edward Norrington" string="I don’t trust doctors. I try to do my best to treat myself by using plants and herbs for medicinal purposes, and to do so I need to know what is good and what is not."></Sentence>
+  </Sentences>
+</Dialogue>

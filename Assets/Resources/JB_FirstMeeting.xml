@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning Mrs Blayon. I’m Detective Percy White. I’m investigating the death of your husband. My condolences."></Sentence>
+    <Sentence character="Jane Blayton" string="Good morning Mr White. You aren’t here to pay me a courtesy call but to question me, am I wrong? Go ahead."></Sentence>
+    <Sentence character="Percy White" string="I see. Thank you for your answers. I’ll probably come back to ask you other questions soon."></Sentence>
+    <Sentence character="Jane Blayton" string="I didn’t intend to leave."></Sentence>
+  </Sentences>
+</Dialogue>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="I’ve another question Robert. I heard that Marcus could have hidden a part of his  fortune. Do you know anything about that ?"></Sentence>
+    <Sentence character="Robert Blayton" string="It was probably not a lot of money, given his way of life … My mother and I tried to find it, it belongs to us."></Sentence>
+    <Sentence character="Percy White" string="What do you mean ?"></Sentence>
+    <Sentence character="Robert Blayton" string="Yes, it comes down to my sister and I. Given the way he treated us, he owes it to us, at least."></Sentence>
+    <Sentence character="Percy White" string="Money as forgiveness. Is it your point of view ?"></Sentence>
+    <Sentence character="Robert Blayton" string="Call it as you want… But you must know that I could never forgive him. It’s actually more like an indemnification."></Sentence>
+    <Sentence character="Percy White" string="I see. The time had come for Marcus to disappear before his money does the same ?"></Sentence>
+    <Sentence character="Robert Blayton" string="What do you have in mind Mr. White ?"></Sentence>
+    <Sentence character="Percy White" string="Nothing special, I’m just investigating."></Sentence>
+    <Sentence character="Robert Blayton" string="So please try to investigate on the right people."></Sentence>
+  </Sentences>
+</Dialogue>

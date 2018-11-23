@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Miles Evans told me you went to dine in town yesterday, didn’t you?"></Sentence>
+    <Sentence character="Liam Neligan" string="We did, we went to a restaurant a couple of furlongs from here."></Sentence>
+    <Sentence character="Percy White" string="What time was it ? Was Marcus with you?"></Sentence>
+    <Sentence character="Liam Neligan" string="That was after the rehearsals which ended at 6pm. Marcus never joined us for this sort of events. We, the actors, and the technical crew were present. Edward Norrington wasn’t there neither, he stopped rehearsing around 4pm then he left the theatre just an hour after. Actually he seemed a little tense. The producer Jonathan Cole didn’t come to the dinner neither, he arrived while we were getting ready to go on stage, as he is used to. Oh, and Miles didn’t come with us, he was repairing the curtain."></Sentence>
+  </Sentences>
+</Dialogue>

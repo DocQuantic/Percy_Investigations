@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Did you plan to go somewhere the day after the last representation ?"></Sentence>
+    <Sentence character="Rose Cole" string="Yes, I did. My husband and I planned to spend some time in our little country house in the Kent, but don’t tell him, it’s a surprise. I want him to relax after a hard week at the theater. His job is a big source of pressure for him, particularly because of money problems he recently had."></Sentence>
+    <Sentence character="Percy White" string="Are you sure ? After what you’ve just told me about your relation with M. Blayton, I doubt about your honesty on this point."></Sentence>
+    <Sentence character="Rose Cole" string="You’re right, I lied. I can confess everything now that he’s gone… Marcus and I were about to leave. We wanted to start a new life together far away from this city. His career, his family, he was ready to abandon everything in the name of our love. He even planned to use what remained of his fortune to buy a house."></Sentence>
+    <Sentence character="Percy White" string="His wife and his children mustn’t have appreciated when they learnt their legacy disappeared ?"></Sentence>
+    <Sentence character="Rose Cole" string="Jane was upset but she finally accepted the situation. On the other hand, I think his son really took it the wrong way."></Sentence>
+    <Sentence character="Percy White" string="About your husband, did he know all of this ?"></Sentence>
+    <Sentence character="Rose Cole" string="I’m not sure, I always had a doubt about him. Nevertheless, I’m convinced he’s known it for several days. His way to look at me has changed. Do you think my husband could have killed Marcus ?"></Sentence>
+    <Sentence character="Percy White" string="I don’t know Ms."></Sentence>
+  </Sentences>
+</Dialogue>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Could you analyze this blood sample for me ?"></Sentence>
+    <Sentence character="Will Mason" string="It would be a great pleasure but I need to know what to find..."></Sentence>
+    <Sentence character="Percy White" string="That’s all right. I’ll come back when I will have a new clue."></Sentence>
+  </Sentences>
+</Dialogue>

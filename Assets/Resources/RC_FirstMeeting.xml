@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning my lady, I’m investigating on Marcus Blayton’s death. I’m sorry to disturb you but I have some questions to ask you… Did you personally know Marcus Blayton ?"></Sentence>
+    <Sentence character="Rose Cole" string="My husband and I had many lunches with Marcus and his wife. We were at their home yesterday, for lunch… that’s really strange because he seemed in great shape. I don’t believe he killed himself M. White, do you ?"></Sentence>
+    <Sentence character="Percy White" string="That’s what I’m trying to find out."></Sentence>
+  </Sentences>
+</Dialogue>

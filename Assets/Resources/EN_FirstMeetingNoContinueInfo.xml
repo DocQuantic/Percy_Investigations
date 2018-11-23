@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dialogue>
+  <Sentences>
+    <Sentence character="Percy White" string="Good morning Mr. Norrington, detective Percy White. What do you know about what happened to Marcus Blayton ?"></Sentence>
+    <Sentence character="Edward Norrington" string="What happened to him is terrible, indeed. But I don’t know anything about his death. Now, I have to learn my lines."></Sentence>
+  </Sentences>
+</Dialogue>
