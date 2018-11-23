@@ -34,6 +34,8 @@ MonoBehaviour:
   - {fileID: 114693535518764576}
   - {fileID: 114128525865351728}
   - {fileID: 114919956895750886}
+  - {fileID: 114814960826509918}
+  - {fileID: 114444950929136030}
 --- !u!114 &114005303045626926
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -244,6 +246,20 @@ MonoBehaviour:
   description: LN_HasTalkedTo
   satisfied: 0
   hash: 91659469
+--- !u!114 &114444950929136030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: HasCroissant
+  m_EditorClassIdentifier: 
+  description: HasCroissant
+  satisfied: 0
+  hash: -1207272251
 --- !u!114 &114475800624522750
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -314,6 +330,20 @@ MonoBehaviour:
   description: ExceptionStart
   satisfied: 0
   hash: -920537007
+--- !u!114 &114814960826509918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: HasNewspaper
+  m_EditorClassIdentifier: 
+  description: HasNewspaper
+  satisfied: 0
+  hash: 1669595273
 --- !u!114 &114919956895750886
 MonoBehaviour:
   m_ObjectHideFlags: 0
