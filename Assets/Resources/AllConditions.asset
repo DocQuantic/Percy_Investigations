@@ -32,6 +32,8 @@ MonoBehaviour:
   - {fileID: 114314507004533848}
   - {fileID: 114326517780874284}
   - {fileID: 114693535518764576}
+  - {fileID: 114128525865351728}
+  - {fileID: 114919956895750886}
 --- !u!114 &114005303045626926
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -102,6 +104,20 @@ MonoBehaviour:
   description: EN_HasTalkedTo
   satisfied: 0
   hash: -1423940723
+--- !u!114 &114128525865351728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: HasLunchInfo
+  m_EditorClassIdentifier: 
+  description: HasLunchInfo
+  satisfied: 0
+  hash: -1411635120
 --- !u!114 &114238981778584690
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -298,6 +314,20 @@ MonoBehaviour:
   description: ExceptionStart
   satisfied: 0
   hash: -920537007
+--- !u!114 &114919956895750886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7958c13ecf599a2448ca7873cde7f4ac, type: 3}
+  m_Name: HasBlaytonPicture
+  m_EditorClassIdentifier: 
+  description: HasBlaytonPicture
+  satisfied: 0
+  hash: 228858761
 --- !u!114 &114982841213769602
 MonoBehaviour:
   m_ObjectHideFlags: 0
